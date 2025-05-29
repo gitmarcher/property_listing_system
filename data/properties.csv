@@ -1,0 +1,1001 @@
+id,title,type,price,state,city,areaSqFt,bedrooms,bathrooms,amenities,furnished,availableFrom,listedBy,tags,colorTheme,rating,isVerified,listingType
+PROP1000,Green sea.,Bungalow,23825834,Tamil Nadu,Coimbatore,4102,5,2,lift|clubhouse|security|gym|garden|pool,Unfurnished,2025-10-14,Builder,gated-community|corner-plot,#6ab45e,4.7,True,rent
+PROP1001,Usually each keep team allow.,Villa,24733522,Karnataka,Mysore,732,5,1,lift|power-backup|security|wifi|pool|clubhouse,Furnished,2025-09-06,Builder,luxury|lake-view|affordable,#1361c4,1.3,False,sale
+PROP1002,Billion somebody research perform.,Apartment,17965682,West Bengal,Kolkata,3401,5,4,garden|security|pool|power-backup|parking,Semi,2025-10-08,Owner,corner-plot|family-friendly|near-metro,#b48903,4.3,False,sale
+PROP1003,Record another month table.,Villa,40380527,Karnataka,Mysore,1179,3,5,power-backup|garden|clubhouse|gym,Unfurnished,2025-10-05,Owner,corner-plot|near-metro,#6ca2d4,2.0,True,sale
+PROP1004,Boy outside science agency view.,Apartment,32592182,West Bengal,Kolkata,2429,2,5,pool|power-backup|clubhouse|parking|lift|security,Furnished,2025-11-04,Agent,family-friendly|gated-community,#5e7d4f,2.6,True,sale
+PROP1005,City contain light.,Studio,31754529,Gujarat,Ahmedabad,632,5,4,garden|pool|parking|lift|power-backup,Furnished,2025-09-25,Agent,lake-view|affordable|gated-community,#f4f1d3,3.4,False,rent
+PROP1006,Seem image success.,Villa,24139520,West Bengal,Kolkata,4889,1,3,gym|parking|wifi|garden,Furnished,2025-10-14,Agent,affordable|lake-view|near-metro,#413448,1.9,True,sale
+PROP1007,Ahead size.,Villa,49829063,Karnataka,Bangalore,2811,5,4,clubhouse|parking|wifi|lift,Furnished,2025-08-04,Builder,family-friendly|lake-view|gated-community,#9c83e5,4.0,True,rent
+PROP1008,Someone will seven onto behavior.,Penthouse,4790155,Delhi,New Delhi,3312,4,5,wifi|gym|security|clubhouse|lift|power-backup,Unfurnished,2025-07-06,Agent,sea-view|luxury|family-friendly,#72af38,1.3,True,rent
+PROP1009,Bar per might.,Apartment,45675056,Karnataka,Mysore,3743,3,2,wifi|lift|garden|power-backup|security|gym,Unfurnished,2025-07-09,Owner,lake-view|sea-view|luxury|affordable,#09951d,1.2,False,sale
+PROP1010,Someone strong.,Studio,42257203,Delhi,New Delhi,3930,4,3,pool|clubhouse|parking|power-backup|wifi,Semi,2025-06-19,Builder,family-friendly|sea-view|corner-plot|luxury,#0cf9cf,3.4,True,sale
+PROP1011,Defense sister series.,Bungalow,6617775,Karnataka,Mysore,4352,3,3,lift|wifi|security|clubhouse|power-backup|parking,Unfurnished,2025-07-28,Builder,lake-view|near-metro|family-friendly,#472cbb,3.2,True,sale
+PROP1012,Read of article.,Studio,37298804,Maharashtra,Mumbai,828,6,1,security|parking|lift,Unfurnished,2025-07-02,Builder,near-metro|luxury,#c8ad9b,4.7,False,sale
+PROP1013,Loss since.,Bungalow,25562284,Karnataka,Mysore,3653,6,3,wifi|parking|clubhouse|lift|security,Unfurnished,2025-11-19,Owner,family-friendly|luxury|lake-view|affordable,#155dad,4.4,True,rent
+PROP1014,Church pressure.,Villa,2757495,West Bengal,Siliguri,2738,3,4,garden|security|wifi|power-backup|lift,Unfurnished,2025-11-19,Owner,family-friendly|affordable|luxury|gated-community,#f4f977,2.4,True,sale
+PROP1015,From fill political travel.,Penthouse,24910233,Gujarat,Vadodara,3456,5,5,parking|lift|clubhouse|pool|garden|power-backup,Semi,2025-11-17,Owner,corner-plot|luxury|near-metro|sea-view,#60e1ed,4.0,True,rent
+PROP1016,Feeling film score three describe.,Penthouse,45761217,Tamil Nadu,Chennai,1798,3,4,pool|wifi|gym|security|power-backup,Semi,2025-07-30,Owner,sea-view|corner-plot|affordable|gated-community,#e54c09,4.4,False,sale
+PROP1017,Few career school.,Villa,14191237,Maharashtra,Nagpur,1597,4,5,wifi|parking|garden|pool|lift|clubhouse,Furnished,2025-10-26,Agent,sea-view|affordable|near-metro|family-friendly,#58750b,4.4,True,sale
+PROP1018,Buy which shoulder.,Bungalow,41500280,Delhi,New Delhi,4794,5,5,parking|power-backup|garden|lift,Furnished,2025-10-22,Builder,near-metro|luxury|lake-view|corner-plot,#ea6d6f,4.8,True,sale
+PROP1019,Level third opportunity.,Penthouse,32447751,Karnataka,Bangalore,4919,6,2,wifi|lift|parking|pool,Semi,2025-10-13,Builder,family-friendly|near-metro,#3ad882,1.1,False,rent
+PROP1020,Forward past.,Penthouse,16513327,Karnataka,Mangalore,4970,1,5,gym|parking|pool,Unfurnished,2025-06-21,Agent,sea-view|family-friendly|luxury|gated-community,#fb3701,4.0,False,sale
+PROP1021,Sign effort main prevent accept.,Villa,31750312,Karnataka,Mysore,1992,1,4,pool|parking|lift,Unfurnished,2025-11-19,Owner,corner-plot|family-friendly|affordable|near-metro,#8c6eb6,2.9,False,sale
+PROP1022,Again several head.,Apartment,25544153,Tamil Nadu,Chennai,2508,2,2,lift|security|garden|gym|pool|parking,Semi,2025-06-24,Builder,gated-community|family-friendly,#233bec,1.6,True,rent
+PROP1023,Sing what.,Penthouse,26412813,Gujarat,Ahmedabad,770,6,2,gym|clubhouse|wifi|security|parking,Semi,2025-07-15,Agent,sea-view|lake-view|corner-plot,#1e026a,2.0,False,rent
+PROP1024,Else reflect.,Studio,44990914,Delhi,New Delhi,3617,5,2,parking|clubhouse|lift|gym|power-backup|security,Unfurnished,2025-09-20,Agent,near-metro|affordable,#f2e883,4.6,False,sale
+PROP1025,Manage head pretty.,Villa,39369496,Delhi,New Delhi,4876,4,4,security|pool|clubhouse|gym|wifi|lift,Semi,2025-09-25,Builder,affordable|corner-plot|luxury,#1f1cfc,4.9,True,sale
+PROP1026,Star stage behavior along tell.,Studio,13137116,Gujarat,Vadodara,3102,6,2,lift|garden|power-backup|security|gym,Unfurnished,2025-06-11,Builder,gated-community|sea-view|luxury|family-friendly,#e4e292,3.6,False,sale
+PROP1027,Yet rise.,Apartment,26277480,Gujarat,Vadodara,3616,4,5,gym|garden|parking,Unfurnished,2025-09-21,Builder,corner-plot|sea-view|luxury,#ff6de6,3.4,True,sale
+PROP1028,Down tend crime.,Apartment,45647723,Maharashtra,Mumbai,570,4,5,lift|wifi|security,Semi,2025-10-22,Owner,affordable|family-friendly|luxury,#b86847,1.0,False,sale
+PROP1029,Safe ability fire.,Penthouse,22580312,West Bengal,Siliguri,3692,6,3,power-backup|lift|garden,Semi,2025-09-25,Agent,lake-view|luxury|corner-plot,#1d4b7e,1.4,False,rent
+PROP1030,Let important entire.,Penthouse,39463030,Karnataka,Bangalore,3405,2,1,gym|pool|parking|clubhouse,Unfurnished,2025-09-10,Owner,lake-view|family-friendly,#57dded,1.3,False,rent
+PROP1031,Simply mouth if.,Penthouse,17012396,Gujarat,Vadodara,2593,5,4,power-backup|garden|security,Furnished,2025-09-28,Builder,family-friendly|affordable,#d0f291,4.0,False,rent
+PROP1032,Create during change couple.,Studio,886479,Tamil Nadu,Madurai,558,2,3,clubhouse|garden|gym|lift,Unfurnished,2025-07-24,Owner,gated-community|lake-view|affordable,#b0053f,2.2,False,sale
+PROP1033,Question act yourself.,Apartment,24614366,Delhi,New Delhi,1612,3,2,parking|clubhouse|gym,Semi,2025-10-03,Builder,lake-view|luxury,#ae29b6,2.5,False,sale
+PROP1034,For quality need approach.,Villa,30402804,West Bengal,Siliguri,4169,2,2,clubhouse|pool|power-backup|security|wifi,Furnished,2025-06-28,Agent,sea-view|near-metro,#b3c1b3,1.8,True,sale
+PROP1035,More authority computer.,Studio,39663905,West Bengal,Kolkata,2506,1,2,pool|power-backup|parking,Unfurnished,2025-06-28,Owner,gated-community|lake-view|affordable|family-friendly,#a5fbae,3.1,False,sale
+PROP1036,Sure image you likely house.,Bungalow,11442998,Gujarat,Surat,496,1,1,power-backup|clubhouse|gym,Unfurnished,2025-09-20,Builder,luxury|lake-view|sea-view,#2f64b3,4.6,False,sale
+PROP1037,Career happy few.,Villa,23451622,Gujarat,Surat,2730,1,2,security|clubhouse|pool|power-backup,Semi,2025-10-23,Agent,near-metro|family-friendly,#5fb758,3.6,False,sale
+PROP1038,Reality as professor red.,Penthouse,8698191,Karnataka,Bangalore,2646,1,5,pool|parking|gym|wifi|garden|clubhouse,Unfurnished,2025-06-24,Builder,family-friendly|gated-community|lake-view,#47dadf,2.9,False,rent
+PROP1039,Person both suggest out.,Studio,32274146,Gujarat,Ahmedabad,4662,5,5,garden|lift|gym|clubhouse,Semi,2025-09-22,Agent,gated-community|luxury|lake-view,#189432,1.6,False,rent
+PROP1040,Design inside because up turn.,Penthouse,21343481,Maharashtra,Mumbai,1524,6,1,power-backup|wifi|clubhouse,Furnished,2025-10-06,Owner,near-metro|gated-community|luxury,#8df727,1.4,True,rent
+PROP1041,Size position I kitchen example.,Penthouse,42670101,Maharashtra,Nagpur,4435,2,5,garden|gym|power-backup|security,Furnished,2025-09-20,Owner,corner-plot|near-metro,#f8e9b5,4.1,True,sale
+PROP1042,Likely idea bring they able.,Villa,43800075,Maharashtra,Nagpur,685,6,1,parking|security|lift,Unfurnished,2025-06-15,Agent,lake-view|affordable|near-metro,#533251,2.0,True,sale
+PROP1043,Language body third then million.,Villa,11892461,West Bengal,Siliguri,1482,2,2,clubhouse|lift|gym|wifi,Unfurnished,2025-10-09,Owner,corner-plot|luxury|affordable|gated-community,#99f3cc,3.8,True,sale
+PROP1044,Smile race check improve.,Villa,11098404,Delhi,New Delhi,1822,4,5,gym|power-backup|garden|wifi|parking,Furnished,2025-07-24,Owner,gated-community|affordable,#75d890,4.8,True,sale
+PROP1045,That image establish.,Penthouse,7983159,Maharashtra,Nagpur,712,3,3,wifi|garden|lift|clubhouse,Furnished,2025-07-17,Agent,sea-view|near-metro|luxury|lake-view,#560ebf,4.0,True,rent
+PROP1046,Sister stay front response develop.,Apartment,43552308,West Bengal,Kolkata,1995,3,5,gym|wifi|clubhouse,Unfurnished,2025-10-09,Agent,lake-view|luxury|near-metro|gated-community,#a78dde,1.1,True,sale
+PROP1047,Success open top now.,Penthouse,3828919,Gujarat,Ahmedabad,1090,1,3,garden|parking|power-backup|clubhouse,Unfurnished,2025-08-10,Builder,gated-community|luxury,#cc9fc0,3.3,True,rent
+PROP1048,Democratic sister.,Studio,690388,West Bengal,Kolkata,565,4,1,lift|parking|wifi|security,Semi,2025-06-07,Owner,gated-community|lake-view|sea-view,#509b90,2.1,False,rent
+PROP1049,Student everything claim.,Apartment,14280374,Delhi,New Delhi,3960,5,3,clubhouse|gym|lift|parking|wifi,Furnished,2025-10-06,Builder,sea-view|near-metro|luxury|corner-plot,#3efb4c,2.0,False,rent
+PROP1050,Anything blue.,Bungalow,3726371,West Bengal,Siliguri,1615,2,5,clubhouse|lift|garden,Semi,2025-08-26,Builder,luxury|family-friendly|affordable,#959c16,4.3,True,rent
+PROP1051,Enough window finish.,Penthouse,33673115,Gujarat,Surat,3209,3,1,pool|power-backup|gym|clubhouse|security|parking,Semi,2025-06-25,Builder,affordable|family-friendly|sea-view,#2c9e04,5.0,False,sale
+PROP1052,Set child state.,Studio,39042638,Delhi,New Delhi,4379,1,2,security|wifi|clubhouse|pool|garden|gym,Unfurnished,2025-10-31,Agent,sea-view|near-metro,#5c03ec,3.7,True,sale
+PROP1053,Huge including.,Villa,4387754,Tamil Nadu,Madurai,761,5,4,gym|wifi|pool|garden|power-backup,Unfurnished,2025-08-28,Owner,gated-community|affordable|corner-plot,#420d44,4.6,True,rent
+PROP1054,Great attention when.,Villa,12997466,Tamil Nadu,Coimbatore,3279,5,1,parking|power-backup|wifi|clubhouse|security,Semi,2025-06-20,Owner,near-metro|affordable,#71dc20,1.8,False,sale
+PROP1055,Us fill official center.,Penthouse,26025938,Tamil Nadu,Coimbatore,1157,5,3,gym|clubhouse|garden|pool,Semi,2025-08-13,Builder,lake-view|near-metro|family-friendly|gated-community,#75fa66,1.9,False,sale
+PROP1056,Never girl.,Studio,20534366,Maharashtra,Mumbai,881,5,5,parking|gym|wifi|power-backup|security|pool,Semi,2025-08-17,Builder,family-friendly|luxury|corner-plot,#fd20e1,2.6,True,rent
+PROP1057,Health newspaper.,Apartment,39937580,West Bengal,Siliguri,659,3,5,pool|lift|parking|wifi|garden,Furnished,2025-09-24,Agent,gated-community|sea-view|near-metro,#0ca62b,4.7,True,rent
+PROP1058,Military see first.,Penthouse,35096668,West Bengal,Kolkata,1671,1,4,garden|wifi|gym,Semi,2025-08-11,Owner,gated-community|near-metro|affordable,#d3bb0b,4.2,False,rent
+PROP1059,He morning media this technology.,Penthouse,35938563,Maharashtra,Mumbai,4550,6,1,pool|parking|lift|garden|wifi|power-backup,Unfurnished,2025-06-16,Owner,near-metro|affordable|lake-view,#78a808,4.7,False,sale
+PROP1060,Painting value.,Bungalow,35021661,Karnataka,Bangalore,4627,1,1,lift|parking|security|garden|gym,Unfurnished,2025-10-30,Builder,affordable|luxury|sea-view|family-friendly,#db738b,3.6,True,sale
+PROP1061,Will life together.,Villa,21125822,Maharashtra,Mumbai,4227,4,3,security|wifi|power-backup,Furnished,2025-06-29,Agent,sea-view|near-metro|corner-plot|luxury,#6acdb8,3.3,False,sale
+PROP1062,Thousand raise region.,Studio,14977707,West Bengal,Siliguri,3409,3,2,security|lift|gym|power-backup|wifi,Unfurnished,2025-08-10,Builder,family-friendly|corner-plot|affordable,#666014,1.1,True,sale
+PROP1063,Would early nothing company.,Villa,12452782,Karnataka,Mysore,2977,6,5,clubhouse|power-backup|lift,Unfurnished,2025-06-07,Builder,family-friendly|near-metro|gated-community,#279631,2.7,True,rent
+PROP1064,Hotel religious ten trip maintain.,Villa,27283362,Maharashtra,Pune,4830,5,1,clubhouse|garden|power-backup,Furnished,2025-07-20,Builder,sea-view|affordable|family-friendly|luxury,#741089,3.7,False,sale
+PROP1065,Word tax far economy.,Apartment,34214942,Delhi,New Delhi,4979,5,4,pool|lift|parking,Unfurnished,2025-07-13,Builder,gated-community|affordable|family-friendly|sea-view,#13da4b,2.4,True,sale
+PROP1066,Move step.,Studio,35294582,Maharashtra,Nagpur,4113,5,2,gym|lift|garden,Furnished,2025-08-20,Agent,gated-community|sea-view|affordable|family-friendly,#116841,2.9,False,rent
+PROP1067,Share notice however fight.,Bungalow,44356121,Karnataka,Mysore,3933,2,4,security|garden|lift,Unfurnished,2025-10-30,Builder,family-friendly|lake-view|sea-view,#3587ce,4.6,True,sale
+PROP1068,Officer music white image.,Villa,46324664,Karnataka,Bangalore,4257,1,3,lift|pool|parking|garden,Semi,2025-11-21,Builder,luxury|gated-community|corner-plot,#34b83e,4.0,False,rent
+PROP1069,Mother deal send.,Villa,40223753,Karnataka,Mysore,4639,4,2,security|power-backup|pool,Unfurnished,2025-10-14,Owner,affordable|near-metro|sea-view,#239ec0,2.0,True,sale
+PROP1070,Politics care international nature over.,Apartment,8370341,Gujarat,Ahmedabad,1313,1,2,power-backup|clubhouse|security|garden|wifi|parking,Semi,2025-06-11,Owner,family-friendly|sea-view,#c410a4,1.1,True,rent
+PROP1071,Since big truth card.,Studio,21994704,Gujarat,Surat,3605,1,2,security|power-backup|pool,Unfurnished,2025-10-03,Owner,affordable|corner-plot|lake-view|near-metro,#f1d186,2.0,False,rent
+PROP1072,Ok least pass pattern.,Penthouse,22750197,West Bengal,Siliguri,3918,6,5,parking|clubhouse|gym,Furnished,2025-10-12,Owner,near-metro|corner-plot|gated-community|lake-view,#3bc1e7,2.6,False,rent
+PROP1073,During boy article.,Studio,6867427,Maharashtra,Nagpur,4147,5,3,pool|security|lift|gym,Semi,2025-11-07,Owner,corner-plot|sea-view|luxury|gated-community,#72a947,2.9,False,sale
+PROP1074,Fear senior actually.,Penthouse,40856995,West Bengal,Siliguri,2278,4,5,parking|gym|lift|pool|power-backup|wifi,Semi,2025-06-05,Builder,affordable|lake-view|luxury,#6988a4,2.0,False,sale
+PROP1075,Space benefit.,Villa,36254516,Maharashtra,Nagpur,1857,5,3,wifi|gym|clubhouse|parking|garden,Semi,2025-11-04,Owner,family-friendly|lake-view|gated-community,#ed5f47,2.7,True,rent
+PROP1076,After voice company.,Penthouse,32014679,Maharashtra,Pune,2612,3,1,garden|lift|clubhouse,Unfurnished,2025-06-06,Builder,affordable|family-friendly|luxury,#dcb87d,2.0,True,sale
+PROP1077,Bed mouth you industry mind.,Apartment,49943718,Gujarat,Surat,4126,6,1,lift|pool|garden,Furnished,2025-08-02,Agent,near-metro|affordable|sea-view,#3c25b3,2.8,False,rent
+PROP1078,Small result hold.,Studio,43962499,Gujarat,Vadodara,4666,3,3,security|wifi|lift|power-backup,Semi,2025-11-09,Builder,sea-view|gated-community|corner-plot|near-metro,#759ba0,4.7,True,sale
+PROP1079,Catch note these network.,Penthouse,19287811,Maharashtra,Pune,2361,1,3,garden|pool|power-backup|gym|security|wifi,Unfurnished,2025-07-19,Builder,corner-plot|lake-view|gated-community|luxury,#be95ae,1.9,False,sale
+PROP1080,Among red drop positive.,Villa,38040082,West Bengal,Kolkata,4241,4,3,garden|parking|power-backup|clubhouse,Unfurnished,2025-10-13,Builder,sea-view|lake-view,#ad62d5,1.5,True,sale
+PROP1081,Within show wear.,Penthouse,46973317,Delhi,New Delhi,3236,1,4,power-backup|lift|clubhouse|gym|pool|wifi,Semi,2025-11-17,Agent,affordable|near-metro|luxury|lake-view,#690aab,3.8,False,sale
+PROP1082,Current foreign section.,Penthouse,38916732,Karnataka,Mangalore,1318,5,3,security|pool|lift|garden,Unfurnished,2025-07-30,Agent,affordable|near-metro|gated-community,#f565ea,2.1,False,rent
+PROP1083,Car seek deep rich.,Villa,38586037,West Bengal,Kolkata,2956,2,4,power-backup|wifi|parking|lift|garden,Furnished,2025-11-10,Builder,family-friendly|luxury,#0242ff,5.0,False,sale
+PROP1084,Accept level much.,Apartment,45865419,Maharashtra,Mumbai,1780,2,4,lift|power-backup|gym|security|wifi,Semi,2025-10-25,Agent,gated-community|corner-plot,#8a2a34,1.8,True,sale
+PROP1085,Big late political.,Penthouse,42912920,Tamil Nadu,Madurai,3287,3,2,parking|pool|wifi|gym|garden,Furnished,2025-07-16,Builder,corner-plot|sea-view,#ad3fb5,2.3,False,rent
+PROP1086,Follow protect white.,Studio,2111513,West Bengal,Kolkata,2673,6,5,lift|clubhouse|power-backup|gym,Furnished,2025-09-07,Agent,affordable|luxury|gated-community|family-friendly,#334bba,3.2,False,sale
+PROP1087,Civil however rather nature.,Bungalow,47717340,Gujarat,Surat,4318,2,4,security|parking|garden|pool|power-backup,Unfurnished,2025-08-05,Builder,corner-plot|lake-view|near-metro,#0f2f4e,1.5,False,sale
+PROP1088,Increase drop well security school.,Apartment,44804151,Delhi,New Delhi,4873,2,2,security|garden|pool|wifi|clubhouse|power-backup,Semi,2025-10-19,Agent,sea-view|family-friendly,#694333,3.3,True,rent
+PROP1089,Avoid third less.,Bungalow,36895490,West Bengal,Kolkata,4647,2,3,security|garden|parking|power-backup|clubhouse,Furnished,2025-07-07,Builder,sea-view|lake-view,#42f4bb,1.7,True,rent
+PROP1090,Street imagine also.,Studio,39797428,Gujarat,Ahmedabad,3224,3,5,pool|clubhouse|security,Unfurnished,2025-07-20,Owner,gated-community|sea-view,#1ede5f,3.8,False,sale
+PROP1091,Question either do.,Villa,33788731,Gujarat,Ahmedabad,2437,3,5,power-backup|parking|wifi|security|gym,Semi,2025-11-03,Builder,sea-view|affordable|near-metro|gated-community,#4e5150,3.6,False,rent
+PROP1092,Able small.,Villa,13043277,Gujarat,Ahmedabad,4227,5,5,wifi|pool|garden|security,Furnished,2025-07-31,Builder,corner-plot|lake-view|family-friendly|sea-view,#b71540,5.0,True,sale
+PROP1093,Around stand under single.,Villa,9556409,Tamil Nadu,Madurai,4471,1,3,wifi|security|pool|clubhouse,Unfurnished,2025-09-12,Builder,affordable|sea-view|near-metro|family-friendly,#ccbf73,1.9,False,rent
+PROP1094,Mission arrive land.,Penthouse,15018841,Maharashtra,Nagpur,932,3,1,lift|garden|wifi|pool|parking|clubhouse,Furnished,2025-06-17,Owner,sea-view|near-metro|corner-plot|affordable,#f95009,4.3,False,sale
+PROP1095,Wonder as save character begin.,Villa,28712515,Delhi,New Delhi,3654,5,3,security|lift|gym|parking|power-backup|clubhouse,Semi,2025-07-17,Agent,lake-view|gated-community|corner-plot,#46e523,4.8,True,rent
+PROP1096,Know idea though market skill.,Bungalow,4222630,Tamil Nadu,Madurai,3594,1,3,lift|security|gym|power-backup|wifi|parking,Unfurnished,2025-11-20,Owner,family-friendly|affordable|near-metro|sea-view,#5e0442,3.0,False,sale
+PROP1097,Stuff any police.,Villa,27365117,Tamil Nadu,Chennai,4818,1,2,clubhouse|pool|wifi|security,Semi,2025-07-12,Owner,corner-plot|affordable|luxury|lake-view,#9ed537,3.0,False,rent
+PROP1098,One move culture.,Villa,16244444,Gujarat,Ahmedabad,2406,3,4,garden|parking|clubhouse,Furnished,2025-10-30,Owner,luxury|gated-community|lake-view|corner-plot,#2e3b27,1.6,True,rent
+PROP1099,House contain and keep do.,Apartment,14702821,West Bengal,Kolkata,3034,3,5,parking|clubhouse|gym|wifi|security|lift,Unfurnished,2025-11-19,Builder,family-friendly|near-metro,#70002d,1.8,True,sale
+PROP1100,Early memory debate low.,Villa,46160794,Tamil Nadu,Coimbatore,903,1,5,garden|parking|clubhouse,Furnished,2025-06-08,Agent,family-friendly|sea-view,#bc31a7,3.0,True,rent
+PROP1101,Budget enter ok another turn.,Villa,2995654,West Bengal,Siliguri,2997,5,3,gym|parking|security|power-backup|clubhouse,Semi,2025-07-03,Builder,near-metro|lake-view|corner-plot,#8a1265,2.1,True,rent
+PROP1102,Alone anything time forget administration.,Apartment,17343722,Tamil Nadu,Coimbatore,4854,6,5,gym|power-backup|garden,Unfurnished,2025-11-14,Owner,lake-view|near-metro,#74cbe2,3.9,True,sale
+PROP1103,Artist you state.,Villa,45633971,West Bengal,Siliguri,2715,4,5,clubhouse|gym|pool|power-backup,Semi,2025-09-26,Builder,gated-community|family-friendly|sea-view|luxury,#12fc38,3.2,False,rent
+PROP1104,Option international production discuss fill.,Apartment,16587052,Karnataka,Mysore,1783,2,3,garden|wifi|pool|gym|power-backup|lift,Unfurnished,2025-11-16,Agent,gated-community|family-friendly|affordable,#3ff2c0,1.5,False,sale
+PROP1105,Social either administration listen likely.,Bungalow,11374889,Gujarat,Vadodara,4344,6,4,clubhouse|power-backup|lift|security,Unfurnished,2025-07-18,Builder,luxury|family-friendly|affordable|near-metro,#f28a45,1.4,True,rent
+PROP1106,Both attorney line different news.,Bungalow,21313543,Delhi,New Delhi,2117,4,1,wifi|pool|clubhouse|parking,Semi,2025-10-05,Agent,affordable|corner-plot|near-metro|gated-community,#820f18,4.5,False,sale
+PROP1107,Risk happy laugh.,Apartment,19514568,Karnataka,Mysore,1665,4,2,pool|parking|garden|lift|clubhouse,Semi,2025-06-25,Builder,affordable|gated-community,#91868d,3.2,True,rent
+PROP1108,Black card.,Apartment,28101579,Maharashtra,Nagpur,895,4,3,clubhouse|gym|parking|power-backup|security|pool,Furnished,2025-07-06,Agent,lake-view|corner-plot|affordable|luxury,#28aed9,1.2,False,rent
+PROP1109,Economic risk him pattern.,Villa,31667450,Maharashtra,Mumbai,4482,6,5,power-backup|lift|security,Semi,2025-08-31,Agent,affordable|near-metro|gated-community,#325eee,3.8,True,rent
+PROP1110,Pick test require.,Bungalow,29958095,Maharashtra,Nagpur,2564,4,1,pool|gym|wifi|power-backup,Unfurnished,2025-08-09,Builder,sea-view|corner-plot|lake-view,#fa4a8a,1.3,True,sale
+PROP1111,Guy machine break head.,Bungalow,30600754,Karnataka,Mangalore,3105,1,1,parking|gym|power-backup|wifi|pool|garden,Unfurnished,2025-09-15,Builder,corner-plot|near-metro,#e99927,2.0,False,rent
+PROP1112,You can trouble.,Bungalow,9402699,Delhi,New Delhi,1012,1,1,garden|clubhouse|power-backup,Unfurnished,2025-10-25,Builder,luxury|lake-view|corner-plot,#1b4b04,1.1,False,sale
+PROP1113,According start author some.,Apartment,46624589,Karnataka,Mangalore,3882,1,5,security|gym|clubhouse|power-backup|parking,Semi,2025-10-29,Owner,near-metro|gated-community|sea-view|luxury,#e00065,2.3,True,rent
+PROP1114,Once school road.,Bungalow,9676834,Karnataka,Mysore,3219,5,3,gym|lift|parking|pool|wifi|clubhouse,Furnished,2025-10-08,Builder,corner-plot|lake-view|family-friendly|sea-view,#455876,1.5,True,rent
+PROP1115,Future fish.,Studio,40432689,Karnataka,Mangalore,2491,5,3,power-backup|garden|wifi|pool|parking,Furnished,2025-07-26,Owner,gated-community|affordable|corner-plot|lake-view,#10336f,4.4,False,rent
+PROP1116,Nothing high social focus.,Apartment,35262175,Tamil Nadu,Madurai,2753,6,1,clubhouse|security|pool|gym|wifi,Furnished,2025-06-06,Agent,sea-view|near-metro|gated-community|lake-view,#a92b76,4.3,True,sale
+PROP1117,Receive green machine own give.,Bungalow,12443570,Karnataka,Mangalore,2049,4,2,parking|security|gym|power-backup|pool|lift,Unfurnished,2025-11-07,Owner,gated-community|family-friendly|affordable|sea-view,#fbefce,1.4,True,sale
+PROP1118,Idea suffer radio themselves.,Penthouse,11546153,Karnataka,Mysore,4420,2,3,power-backup|parking|pool,Semi,2025-10-18,Builder,affordable|near-metro|family-friendly,#476115,2.2,True,rent
+PROP1119,Say market.,Villa,35757392,Tamil Nadu,Coimbatore,3130,4,3,clubhouse|power-backup|parking|garden|pool,Unfurnished,2025-08-16,Owner,gated-community|luxury|near-metro|corner-plot,#8130e3,1.7,False,rent
+PROP1120,Number clear economic.,Penthouse,28840167,Tamil Nadu,Madurai,3964,2,3,pool|parking|lift|clubhouse|garden|wifi,Furnished,2025-08-02,Agent,family-friendly|sea-view|corner-plot|near-metro,#74969c,2.7,False,sale
+PROP1121,Production too writer that fast.,Villa,2479403,Gujarat,Surat,3692,1,3,power-backup|gym|wifi|lift|garden,Furnished,2025-06-17,Builder,sea-view|family-friendly|luxury|gated-community,#162511,4.1,True,rent
+PROP1122,More call level.,Bungalow,31621104,West Bengal,Siliguri,608,4,2,parking|clubhouse|pool|security,Unfurnished,2025-09-23,Builder,corner-plot|lake-view|sea-view,#3ae1c6,1.5,False,sale
+PROP1123,Social certain ok community.,Bungalow,14358107,Tamil Nadu,Chennai,766,4,5,gym|power-backup|wifi,Semi,2025-10-28,Owner,near-metro|lake-view|affordable|gated-community,#9c33af,2.6,True,sale
+PROP1124,Hotel herself attorney.,Villa,15091436,Tamil Nadu,Chennai,2056,5,4,security|wifi|lift|garden,Semi,2025-08-18,Builder,gated-community|sea-view|corner-plot,#d26617,4.6,True,rent
+PROP1125,Subject total special second car.,Studio,31472809,West Bengal,Siliguri,4098,1,5,clubhouse|wifi|garden|lift,Furnished,2025-07-17,Agent,sea-view|gated-community|lake-view,#2e0675,2.6,False,rent
+PROP1126,Police mention yeah build.,Studio,39723169,Maharashtra,Pune,3236,3,2,security|garden|power-backup|pool,Furnished,2025-08-14,Agent,near-metro|sea-view|family-friendly,#5e2be6,1.9,False,rent
+PROP1127,Material small million guess.,Apartment,36051292,Karnataka,Mangalore,3204,6,5,gym|parking|lift|power-backup,Semi,2025-09-10,Agent,near-metro|sea-view|gated-community,#73e3f3,3.3,False,rent
+PROP1128,Attack health here discuss.,Bungalow,26900702,Gujarat,Ahmedabad,1359,4,3,gym|power-backup|garden|parking|security|wifi,Furnished,2025-06-16,Builder,lake-view|family-friendly|affordable|near-metro,#e51161,4.0,True,sale
+PROP1129,Effort look long doctor theory.,Studio,9987625,Gujarat,Ahmedabad,3163,6,2,power-backup|garden|gym|clubhouse|lift,Semi,2025-07-01,Owner,corner-plot|lake-view|affordable|sea-view,#0dcc0a,3.0,True,sale
+PROP1130,Participant test decade.,Apartment,31274905,Maharashtra,Nagpur,3316,4,4,garden|security|pool|clubhouse,Furnished,2025-07-02,Builder,near-metro|affordable,#e2e650,2.9,True,sale
+PROP1131,Meeting guy management individual.,Apartment,30826150,Karnataka,Mysore,3350,1,5,wifi|power-backup|lift,Unfurnished,2025-11-16,Owner,lake-view|luxury,#0dc162,3.6,True,rent
+PROP1132,Necessary black eat life.,Studio,47025728,West Bengal,Siliguri,2506,6,1,power-backup|parking|garden,Semi,2025-07-08,Owner,corner-plot|sea-view|near-metro|affordable,#5ab6f5,4.5,True,sale
+PROP1133,Card example attorney wait.,Villa,31614255,Karnataka,Bangalore,1212,4,2,clubhouse|parking|pool,Furnished,2025-10-15,Agent,corner-plot|affordable|family-friendly,#64d810,3.7,False,sale
+PROP1134,Civil energy.,Studio,15842361,Delhi,New Delhi,4885,5,2,garden|lift|parking|wifi|power-backup|clubhouse,Unfurnished,2025-06-22,Agent,affordable|lake-view|corner-plot,#a125ed,1.4,False,rent
+PROP1135,Next on try true follow.,Villa,27647968,Maharashtra,Pune,2914,4,2,security|garden|parking|lift,Unfurnished,2025-11-06,Builder,affordable|family-friendly,#3d661b,1.6,False,rent
+PROP1136,Contain together share kind state.,Apartment,45078343,West Bengal,Siliguri,2841,2,3,security|parking|wifi|garden|power-backup,Furnished,2025-11-11,Agent,sea-view|near-metro,#20ef97,4.0,True,sale
+PROP1137,Teach yard modern.,Villa,43242895,West Bengal,Siliguri,1070,6,5,security|parking|clubhouse|wifi,Semi,2025-10-01,Builder,family-friendly|lake-view|gated-community,#b00d3e,1.3,False,sale
+PROP1138,Like I majority business.,Villa,23428450,Delhi,New Delhi,1922,6,3,security|gym|garden|power-backup|wifi|clubhouse,Furnished,2025-10-17,Builder,affordable|corner-plot|family-friendly|gated-community,#354f20,4.4,True,rent
+PROP1139,Pick site main choose.,Studio,17427347,Maharashtra,Mumbai,4161,1,1,gym|clubhouse|parking|garden|power-backup,Furnished,2025-10-07,Agent,family-friendly|affordable|corner-plot|luxury,#c2fef0,1.6,False,rent
+PROP1140,Population according.,Apartment,40228143,Gujarat,Ahmedabad,4775,2,2,parking|clubhouse|lift|power-backup|wifi,Unfurnished,2025-10-15,Agent,affordable|lake-view|luxury,#26a5ca,3.2,True,sale
+PROP1141,Last accept several child free.,Penthouse,37339678,Gujarat,Ahmedabad,4869,2,4,pool|power-backup|clubhouse|garden,Unfurnished,2025-07-02,Owner,corner-plot|luxury|affordable|near-metro,#0d7e09,4.2,True,sale
+PROP1142,Already again energy peace interview.,Apartment,39803585,Maharashtra,Mumbai,2955,4,5,wifi|pool|garden|clubhouse,Furnished,2025-10-12,Owner,near-metro|affordable,#d2a43d,2.5,True,rent
+PROP1143,Movement huge.,Studio,26019022,Gujarat,Surat,783,6,3,gym|power-backup|clubhouse|security|parking,Semi,2025-09-13,Agent,luxury|affordable,#0d9cbd,3.2,False,sale
+PROP1144,Believe deep pretty leader.,Apartment,3615688,Maharashtra,Mumbai,1890,6,4,security|garden|gym|power-backup,Unfurnished,2025-06-24,Builder,sea-view|near-metro|luxury,#13ecaa,2.3,False,rent
+PROP1145,Model detail.,Penthouse,48757492,Maharashtra,Nagpur,3136,6,3,parking|garden|pool|wifi|power-backup,Unfurnished,2025-10-10,Agent,near-metro|lake-view|affordable|gated-community,#e68200,2.6,True,rent
+PROP1146,Price the experience.,Studio,27476962,Gujarat,Vadodara,2952,2,5,parking|clubhouse|pool|lift,Furnished,2025-06-18,Builder,lake-view|luxury|family-friendly|corner-plot,#e95333,4.2,False,sale
+PROP1147,Center sure race pass value.,Penthouse,16245457,Delhi,New Delhi,4141,5,3,gym|lift|garden|clubhouse|security|power-backup,Unfurnished,2025-11-06,Agent,gated-community|lake-view,#e47068,4.1,True,sale
+PROP1148,Network draw investment true.,Apartment,36005828,Karnataka,Mysore,1181,3,3,garden|gym|security,Semi,2025-06-08,Owner,corner-plot|luxury|sea-view|family-friendly,#d09cd3,3.4,False,sale
+PROP1149,Check hard spend.,Bungalow,35423686,Tamil Nadu,Madurai,1981,1,3,clubhouse|lift|parking|gym|pool,Furnished,2025-06-08,Owner,sea-view|family-friendly|corner-plot,#24b797,3.4,False,sale
+PROP1150,Set our.,Apartment,39609859,Tamil Nadu,Chennai,1948,1,2,wifi|pool|power-backup,Unfurnished,2025-11-05,Agent,family-friendly|lake-view|luxury,#bf6a1b,2.4,False,sale
+PROP1151,Property fight analysis subject.,Studio,6225709,Gujarat,Vadodara,2850,2,3,garden|power-backup|security|lift|wifi,Unfurnished,2025-09-07,Agent,lake-view|affordable,#5e610b,3.2,True,rent
+PROP1152,System meet series think memory.,Bungalow,28448172,Tamil Nadu,Chennai,2432,1,3,lift|garden|pool|power-backup,Furnished,2025-10-18,Agent,affordable|corner-plot|sea-view,#3ef650,2.4,False,sale
+PROP1153,Popular trial baby.,Apartment,2167345,West Bengal,Kolkata,4153,5,5,security|parking|gym|pool|clubhouse,Furnished,2025-08-02,Owner,sea-view|family-friendly|lake-view|luxury,#6edd81,1.8,False,rent
+PROP1154,Each issue lead there.,Studio,21712877,West Bengal,Kolkata,2542,6,2,clubhouse|lift|garden|parking|pool|wifi,Furnished,2025-11-16,Agent,sea-view|gated-community|lake-view,#389d97,3.3,True,sale
+PROP1155,Career mouth approach gun that.,Apartment,39606640,Delhi,New Delhi,963,1,3,clubhouse|lift|gym|security,Furnished,2025-08-05,Agent,near-metro|family-friendly,#e5c40a,1.6,False,sale
+PROP1156,Religious feeling computer because discussion.,Penthouse,12543356,Tamil Nadu,Coimbatore,1946,1,5,wifi|gym|security|power-backup|pool|clubhouse,Unfurnished,2025-06-19,Agent,sea-view|gated-community,#68c7fa,3.6,False,rent
+PROP1157,Anything necessary wall condition receive.,Apartment,20962476,Maharashtra,Nagpur,1482,1,4,garden|gym|lift|pool|power-backup,Unfurnished,2025-07-08,Builder,lake-view|near-metro|gated-community|family-friendly,#8e57f8,3.3,True,sale
+PROP1158,Thank identify stage federal.,Penthouse,34945471,Tamil Nadu,Chennai,541,6,1,gym|clubhouse|security|lift|power-backup|parking,Furnished,2025-10-16,Agent,family-friendly|near-metro|affordable,#d0bec3,1.0,False,rent
+PROP1159,No impact.,Apartment,15094239,Karnataka,Mangalore,4602,5,4,security|clubhouse|pool|parking|wifi,Unfurnished,2025-08-24,Builder,affordable|luxury|gated-community,#3a1628,1.0,True,rent
+PROP1160,Form visit which sport.,Villa,4698148,Tamil Nadu,Coimbatore,1142,2,2,pool|garden|security,Unfurnished,2025-11-11,Owner,lake-view|corner-plot|near-metro,#697f7d,3.7,True,sale
+PROP1161,International our why hope.,Apartment,21792379,Karnataka,Mysore,3554,2,1,parking|security|clubhouse,Semi,2025-10-07,Agent,affordable|corner-plot|near-metro|gated-community,#206a1e,1.7,True,sale
+PROP1162,Indeed simple expect night.,Apartment,47394276,Maharashtra,Mumbai,4352,6,5,wifi|lift|power-backup,Unfurnished,2025-06-30,Owner,lake-view|corner-plot|near-metro,#be86f4,3.0,True,sale
+PROP1163,Compare believe why argue.,Penthouse,3528441,Karnataka,Mysore,1184,3,2,pool|lift|gym|parking|garden,Unfurnished,2025-07-17,Owner,near-metro|family-friendly|lake-view,#d5b7af,3.5,True,rent
+PROP1164,Nothing real.,Apartment,47807302,Tamil Nadu,Chennai,4902,5,2,pool|clubhouse|garden|security,Unfurnished,2025-10-03,Owner,lake-view|gated-community|near-metro|affordable,#592067,3.6,False,sale
+PROP1165,Himself gun.,Villa,48906340,Maharashtra,Nagpur,3141,5,3,gym|power-backup|wifi|lift|garden,Furnished,2025-09-27,Owner,family-friendly|corner-plot|affordable|gated-community,#6892eb,1.5,False,rent
+PROP1166,Work mind picture charge.,Apartment,31793233,Gujarat,Surat,2950,5,4,power-backup|parking|pool|security|garden|gym,Semi,2025-10-09,Owner,lake-view|near-metro,#284b50,4.2,False,rent
+PROP1167,Official recently send suffer.,Studio,35529914,Delhi,New Delhi,1277,3,1,gym|security|garden|clubhouse,Furnished,2025-09-08,Builder,near-metro|affordable|corner-plot|family-friendly,#d05f20,3.1,True,rent
+PROP1168,Woman send relationship so.,Villa,2779743,Gujarat,Surat,642,5,4,clubhouse|parking|security|pool,Unfurnished,2025-07-23,Owner,sea-view|near-metro|corner-plot,#afe0a9,3.7,False,rent
+PROP1169,Difficult various wind follow piece.,Studio,22312355,Gujarat,Surat,2181,1,4,lift|pool|gym|clubhouse,Semi,2025-10-03,Builder,lake-view|luxury|corner-plot|gated-community,#6bc57f,2.3,True,sale
+PROP1170,Not now animal.,Studio,38717269,West Bengal,Siliguri,502,6,4,garden|gym|wifi|power-backup|parking|security,Semi,2025-09-23,Owner,affordable|lake-view|near-metro,#b7f86b,2.4,False,sale
+PROP1171,Natural ask.,Bungalow,25963820,Maharashtra,Mumbai,1113,5,5,gym|security|clubhouse|power-backup,Semi,2025-06-21,Builder,near-metro|corner-plot,#ccdd15,1.6,False,sale
+PROP1172,Bed likely choice every.,Villa,30190184,Maharashtra,Nagpur,1698,1,2,wifi|pool|security|gym|garden|parking,Furnished,2025-06-26,Owner,affordable|family-friendly|luxury,#a43b3d,3.2,False,sale
+PROP1173,Summer international include recognize.,Apartment,3179905,Delhi,New Delhi,659,2,5,wifi|lift|gym|security|garden|power-backup,Furnished,2025-10-27,Agent,lake-view|near-metro,#b5eb11,3.1,False,sale
+PROP1174,Better run itself nor.,Studio,19438120,Tamil Nadu,Chennai,3374,4,3,security|gym|wifi|garden|parking|power-backup,Furnished,2025-06-11,Owner,corner-plot|near-metro|affordable,#460e27,1.8,False,rent
+PROP1175,Board marriage mention data.,Penthouse,19439726,Maharashtra,Pune,1361,5,5,lift|pool|clubhouse|gym|parking|security,Furnished,2025-08-17,Agent,luxury|gated-community,#46cbfa,3.1,False,sale
+PROP1176,Information out discuss word as.,Villa,34421547,West Bengal,Kolkata,1488,1,2,lift|garden|pool|clubhouse|wifi|power-backup,Furnished,2025-08-14,Owner,near-metro|affordable|family-friendly|gated-community,#e92584,4.8,False,rent
+PROP1177,American son soon west.,Apartment,21673049,Maharashtra,Pune,3872,4,1,clubhouse|lift|pool|security|garden,Semi,2025-08-23,Owner,affordable|near-metro,#5c4140,1.2,False,rent
+PROP1178,Control city year responsibility.,Penthouse,20722779,Karnataka,Mysore,784,2,1,gym|garden|clubhouse|power-backup|pool|security,Semi,2025-09-01,Builder,sea-view|affordable|family-friendly,#b47d3a,1.3,True,sale
+PROP1179,Property goal.,Studio,14840784,Delhi,New Delhi,1505,2,2,lift|parking|gym|pool|clubhouse,Furnished,2025-06-05,Agent,affordable|family-friendly|gated-community|luxury,#7756d5,3.3,False,rent
+PROP1180,Decision answer.,Villa,17149877,Maharashtra,Mumbai,2440,5,2,pool|wifi|security|power-backup,Semi,2025-08-12,Builder,gated-community|corner-plot|luxury|affordable,#fcb99b,4.8,False,rent
+PROP1181,Budget agency.,Studio,6757466,Karnataka,Mangalore,3724,3,3,clubhouse|pool|gym|garden|parking|lift,Semi,2025-08-12,Builder,corner-plot|gated-community|near-metro,#5efbbd,1.1,False,rent
+PROP1182,Always loss town concern.,Bungalow,20408423,West Bengal,Siliguri,3760,2,4,garden|parking|clubhouse|gym|lift,Semi,2025-10-25,Agent,affordable|luxury,#1b635a,5.0,True,rent
+PROP1183,Ready weight because power.,Apartment,5224155,Delhi,New Delhi,1204,2,1,pool|gym|power-backup|security|garden,Semi,2025-10-10,Agent,near-metro|family-friendly,#7e0505,1.9,True,rent
+PROP1184,Remain show response.,Apartment,12287243,West Bengal,Kolkata,4783,5,5,parking|lift|pool|power-backup|gym|security,Semi,2025-07-28,Owner,affordable|luxury|family-friendly|gated-community,#d21b64,4.1,True,rent
+PROP1185,Raise impact.,Villa,37911679,West Bengal,Kolkata,2772,6,4,gym|wifi|pool|power-backup,Semi,2025-07-04,Owner,gated-community|affordable|family-friendly|lake-view,#d6e672,2.6,False,sale
+PROP1186,Where report behavior.,Studio,44865498,Gujarat,Surat,1638,4,4,clubhouse|power-backup|parking,Unfurnished,2025-08-19,Agent,affordable|lake-view|gated-community|corner-plot,#0dd1cf,4.7,True,sale
+PROP1187,Speak represent sit however require.,Penthouse,30563581,Tamil Nadu,Coimbatore,2969,3,2,gym|power-backup|clubhouse|pool|lift|parking,Furnished,2025-06-22,Agent,lake-view|sea-view,#919dee,4.5,False,rent
+PROP1188,Deal picture subject response issue.,Penthouse,1708831,Maharashtra,Pune,3986,5,5,lift|clubhouse|garden,Unfurnished,2025-07-20,Agent,corner-plot|family-friendly|luxury|affordable,#0ec846,2.0,True,rent
+PROP1189,Stock several scientist.,Penthouse,14341359,Delhi,New Delhi,1167,3,2,garden|parking|lift|security|power-backup|gym,Semi,2025-07-18,Builder,near-metro|sea-view|affordable|corner-plot,#136b9b,3.5,False,rent
+PROP1190,Land anyone best recently.,Villa,22191125,Delhi,New Delhi,2633,2,2,garden|power-backup|clubhouse,Unfurnished,2025-08-03,Builder,lake-view|corner-plot|affordable,#dbbc5b,4.1,True,rent
+PROP1191,Support evening war that leave.,Apartment,48512496,Delhi,New Delhi,2402,4,5,lift|garden|parking|security|wifi|pool,Unfurnished,2025-06-30,Owner,lake-view|gated-community|corner-plot|luxury,#dd2797,1.9,False,rent
+PROP1192,Good sport technology.,Penthouse,49859147,Karnataka,Mangalore,510,1,5,power-backup|pool|security|parking|gym,Furnished,2025-06-12,Agent,sea-view|family-friendly,#ecec11,1.2,False,rent
+PROP1193,Return stuff.,Studio,31512493,Maharashtra,Pune,811,1,5,wifi|clubhouse|gym|lift,Unfurnished,2025-08-13,Agent,near-metro|family-friendly|luxury,#cb4690,3.2,True,sale
+PROP1194,Officer serve.,Bungalow,42720087,West Bengal,Siliguri,4690,5,4,security|power-backup|garden|lift|clubhouse,Semi,2025-07-02,Builder,gated-community|affordable|family-friendly,#6d3ce9,4.0,False,rent
+PROP1195,Young small everybody painting.,Penthouse,32522176,Maharashtra,Nagpur,3185,4,2,parking|lift|garden|clubhouse|pool,Semi,2025-10-22,Owner,corner-plot|lake-view|affordable,#63e45b,3.6,True,sale
+PROP1196,Able chance agreement Congress.,Villa,32318360,Gujarat,Ahmedabad,2186,3,5,security|gym|garden|clubhouse,Unfurnished,2025-09-20,Builder,gated-community|affordable,#1c7139,1.7,True,rent
+PROP1197,Speech join third.,Studio,46651260,West Bengal,Kolkata,4040,1,2,lift|gym|wifi|security|power-backup,Unfurnished,2025-09-04,Builder,family-friendly|gated-community|corner-plot|luxury,#70b596,3.1,True,sale
+PROP1198,Top young entire spend.,Bungalow,28893873,Tamil Nadu,Madurai,2758,6,2,lift|clubhouse|power-backup|parking|security,Semi,2025-07-09,Builder,sea-view|gated-community,#d83fe1,3.2,True,rent
+PROP1199,See financial church imagine.,Villa,1338690,Gujarat,Ahmedabad,708,2,2,security|gym|parking|lift|pool|garden,Furnished,2025-06-26,Agent,luxury|gated-community,#39b025,4.6,True,sale
+PROP1200,Include teacher against and.,Villa,6337375,Delhi,New Delhi,3954,3,3,wifi|parking|garden|lift,Semi,2025-10-27,Agent,corner-plot|luxury|gated-community,#c01f98,1.7,True,sale
+PROP1201,Clearly bed table pass politics.,Studio,9870508,West Bengal,Kolkata,2348,5,1,garden|parking|clubhouse|pool|lift,Furnished,2025-08-13,Builder,lake-view|sea-view|corner-plot,#c91e96,2.3,False,sale
+PROP1202,Up drive.,Studio,8861977,Maharashtra,Nagpur,1421,1,3,parking|lift|security|wifi|gym|garden,Furnished,2025-08-10,Agent,family-friendly|lake-view|sea-view|affordable,#d0550f,3.3,False,rent
+PROP1203,Help audience development.,Penthouse,39871309,Tamil Nadu,Madurai,4741,6,2,clubhouse|gym|wifi,Unfurnished,2025-10-26,Owner,luxury|sea-view|near-metro,#359c98,3.3,False,sale
+PROP1204,Analysis buy beat general.,Studio,44189789,Tamil Nadu,Chennai,1784,6,4,lift|parking|power-backup|clubhouse,Unfurnished,2025-09-02,Owner,sea-view|family-friendly|corner-plot|lake-view,#404178,1.4,False,sale
+PROP1205,Appear oil.,Villa,24139214,Tamil Nadu,Madurai,2836,5,1,gym|power-backup|pool|lift,Furnished,2025-09-27,Builder,lake-view|sea-view|affordable,#5335f8,3.4,True,rent
+PROP1206,Born most ever particular perform.,Penthouse,49259819,Karnataka,Mangalore,1026,2,4,security|clubhouse|pool|gym|garden|power-backup,Furnished,2025-10-06,Builder,lake-view|sea-view|family-friendly,#e8a37f,3.4,True,sale
+PROP1207,Somebody rise education.,Studio,24433962,Tamil Nadu,Chennai,3483,4,2,security|garden|wifi|power-backup,Furnished,2025-11-06,Owner,near-metro|lake-view|gated-community|luxury,#1311ea,5.0,True,rent
+PROP1208,Child lot.,Bungalow,16421230,Maharashtra,Mumbai,2327,1,4,gym|pool|security|lift|wifi|power-backup,Furnished,2025-07-23,Agent,family-friendly|affordable|sea-view|lake-view,#976ca6,2.1,False,sale
+PROP1209,Him exactly my.,Apartment,12081096,Karnataka,Mysore,3704,4,5,lift|pool|security|power-backup,Furnished,2025-06-25,Owner,affordable|luxury|near-metro,#80760e,4.0,True,sale
+PROP1210,System together natural management popular.,Apartment,18435509,Maharashtra,Pune,3791,2,3,wifi|parking|garden|gym,Unfurnished,2025-08-19,Agent,luxury|family-friendly,#f9109b,1.1,False,rent
+PROP1211,Specific knowledge American seek those.,Bungalow,25984005,Maharashtra,Mumbai,1897,6,5,pool|clubhouse|wifi|parking,Semi,2025-08-25,Builder,sea-view|family-friendly|gated-community,#8983db,3.3,False,rent
+PROP1212,Cause arrive something.,Apartment,37214646,Maharashtra,Mumbai,4047,6,4,pool|power-backup|parking|lift,Semi,2025-11-21,Owner,near-metro|luxury,#19a37f,4.8,False,rent
+PROP1213,Factor allow painting task court.,Penthouse,27918060,Karnataka,Mangalore,2264,2,3,gym|parking|clubhouse|lift,Unfurnished,2025-06-22,Builder,family-friendly|luxury|gated-community,#9214c7,4.8,False,rent
+PROP1214,Line wrong green thank.,Bungalow,36739708,Tamil Nadu,Madurai,4673,3,1,parking|wifi|lift|clubhouse|pool|garden,Unfurnished,2025-07-31,Owner,gated-community|sea-view|lake-view|near-metro,#a5c048,1.1,False,sale
+PROP1215,Occur media.,Villa,32064258,Maharashtra,Mumbai,2537,5,1,power-backup|wifi|gym|pool,Unfurnished,2025-10-06,Builder,lake-view|affordable|gated-community,#ccf66b,4.9,False,rent
+PROP1216,Anything someone probably win.,Villa,45518034,Tamil Nadu,Coimbatore,2439,6,2,wifi|garden|pool|lift|gym|parking,Semi,2025-09-16,Builder,near-metro|corner-plot,#138821,3.6,True,sale
+PROP1217,Former finish bill.,Villa,24901220,Tamil Nadu,Coimbatore,2601,5,4,lift|garden|gym,Unfurnished,2025-10-14,Builder,family-friendly|near-metro|sea-view|lake-view,#f5f205,4.8,False,sale
+PROP1218,Political yes.,Penthouse,14983918,Tamil Nadu,Coimbatore,1754,5,4,gym|security|power-backup|lift|garden|pool,Furnished,2025-08-15,Builder,sea-view|lake-view|family-friendly|corner-plot,#7cff8d,3.0,False,sale
+PROP1219,Process idea campaign onto.,Studio,10679227,Delhi,New Delhi,1431,3,1,clubhouse|pool|power-backup|lift|wifi|garden,Unfurnished,2025-07-27,Agent,family-friendly|affordable|luxury|lake-view,#61c6ad,4.6,True,rent
+PROP1220,History worker operation.,Bungalow,25654755,Maharashtra,Mumbai,1738,6,4,garden|parking|clubhouse|wifi,Unfurnished,2025-09-03,Owner,luxury|affordable,#85aa66,2.6,False,sale
+PROP1221,Study whom.,Studio,48597423,Tamil Nadu,Chennai,2793,4,4,power-backup|wifi|gym|parking|security,Unfurnished,2025-10-13,Agent,luxury|sea-view|lake-view,#4d8761,3.8,True,sale
+PROP1222,Pm recently ready could.,Apartment,19736918,Tamil Nadu,Madurai,2071,3,4,power-backup|wifi|security|garden|clubhouse|gym,Semi,2025-08-01,Builder,lake-view|gated-community,#0814cf,1.7,False,rent
+PROP1223,Since write turn let.,Penthouse,22906255,Karnataka,Bangalore,1934,2,3,wifi|power-backup|gym|pool,Furnished,2025-09-22,Builder,luxury|near-metro|family-friendly,#729e44,1.4,True,sale
+PROP1224,Herself state moment.,Studio,9508081,Gujarat,Ahmedabad,551,5,5,lift|gym|power-backup,Furnished,2025-09-13,Agent,corner-plot|family-friendly|affordable,#6b4615,3.2,False,sale
+PROP1225,Writer myself.,Studio,29928831,West Bengal,Kolkata,2274,3,2,pool|clubhouse|parking|garden|wifi,Unfurnished,2025-11-16,Agent,lake-view|near-metro|sea-view,#a1c6bb,3.0,True,rent
+PROP1226,Option yet.,Apartment,45036817,West Bengal,Kolkata,3987,1,3,garden|security|clubhouse|gym,Furnished,2025-07-19,Agent,corner-plot|family-friendly|sea-view|near-metro,#9929e1,1.9,True,sale
+PROP1227,Per message.,Studio,48127907,West Bengal,Siliguri,4529,3,4,wifi|gym|power-backup|security|lift|parking,Unfurnished,2025-06-18,Builder,luxury|gated-community,#7e0220,3.0,True,rent
+PROP1228,Go fill protect.,Studio,18426631,Tamil Nadu,Chennai,3950,3,4,gym|parking|lift|security,Unfurnished,2025-10-15,Agent,sea-view|corner-plot,#e525be,4.7,False,rent
+PROP1229,Onto nothing score book born.,Studio,1395228,Maharashtra,Pune,3919,4,4,security|lift|garden|power-backup|parking,Semi,2025-07-05,Builder,lake-view|luxury|affordable,#244d16,1.4,False,sale
+PROP1230,Rich month assume guess forward.,Bungalow,28222803,Delhi,New Delhi,4450,5,5,parking|garden|clubhouse|power-backup,Semi,2025-08-05,Builder,family-friendly|luxury,#047cf0,2.0,True,sale
+PROP1231,Until mention arrive fire.,Penthouse,47212427,Gujarat,Surat,3858,2,3,pool|lift|wifi,Semi,2025-08-14,Owner,family-friendly|sea-view|affordable,#e2fa59,2.5,False,sale
+PROP1232,Conference only across look face.,Bungalow,21272020,Delhi,New Delhi,4105,1,1,clubhouse|gym|lift|wifi|garden,Unfurnished,2025-06-12,Owner,lake-view|family-friendly|affordable,#025528,4.1,True,rent
+PROP1233,Sure city.,Apartment,9363164,Maharashtra,Nagpur,884,2,1,clubhouse|pool|lift|parking|gym|security,Unfurnished,2025-09-28,Builder,near-metro|gated-community,#0b2b70,1.8,False,sale
+PROP1234,Defense put half wall.,Villa,40221307,Tamil Nadu,Chennai,3414,1,4,garden|power-backup|security|wifi|pool,Furnished,2025-07-08,Agent,gated-community|corner-plot,#176fd1,2.0,False,sale
+PROP1235,Control explain.,Studio,33175862,Gujarat,Ahmedabad,4008,5,2,gym|wifi|pool|clubhouse|garden|lift,Unfurnished,2025-11-16,Agent,gated-community|corner-plot|lake-view,#92d523,2.1,True,rent
+PROP1236,Yes happy and small.,Villa,2107370,Tamil Nadu,Chennai,1945,1,2,pool|clubhouse|gym|garden,Unfurnished,2025-10-29,Owner,family-friendly|sea-view|corner-plot|luxury,#872939,3.8,True,sale
+PROP1237,Have require health trouble.,Penthouse,28234711,Delhi,New Delhi,405,4,5,security|garden|pool|power-backup|parking,Furnished,2025-07-15,Builder,near-metro|corner-plot|family-friendly|lake-view,#d087cf,2.4,False,rent
+PROP1238,Two theory media various.,Bungalow,43991256,Gujarat,Vadodara,2667,3,2,pool|lift|power-backup,Furnished,2025-07-25,Agent,gated-community|corner-plot,#b2cdb3,2.9,False,rent
+PROP1239,Event score difficult item news.,Penthouse,41165629,West Bengal,Kolkata,3550,6,5,garden|parking|lift|security,Furnished,2025-06-28,Builder,affordable|luxury|lake-view|corner-plot,#17d672,2.1,True,sale
+PROP1240,Recent maintain east subject.,Penthouse,40606179,Tamil Nadu,Chennai,2760,4,2,security|pool|wifi|gym|lift|clubhouse,Semi,2025-10-16,Builder,near-metro|gated-community|family-friendly|luxury,#6ee040,3.1,True,rent
+PROP1241,Bring example possible.,Bungalow,41148414,Gujarat,Vadodara,564,5,2,pool|wifi|security|parking,Unfurnished,2025-08-05,Builder,sea-view|gated-community,#b5c8bf,4.4,True,rent
+PROP1242,Doctor at.,Studio,21282410,Karnataka,Mangalore,1884,4,1,security|clubhouse|wifi|parking|power-backup,Unfurnished,2025-07-22,Builder,sea-view|affordable,#7ebff6,3.0,False,rent
+PROP1243,Upon begin none.,Apartment,30390615,Maharashtra,Pune,801,2,4,garden|security|power-backup|gym|clubhouse,Semi,2025-08-24,Owner,corner-plot|affordable,#434813,4.0,True,rent
+PROP1244,Long time else financial.,Villa,37157579,Tamil Nadu,Chennai,4992,6,1,security|pool|lift|gym|parking|wifi,Unfurnished,2025-09-13,Builder,lake-view|corner-plot|family-friendly,#b26a0f,4.4,False,sale
+PROP1245,Walk baby economy identify actually.,Bungalow,39112317,Maharashtra,Pune,1301,1,1,clubhouse|parking|pool,Semi,2025-10-15,Agent,gated-community|family-friendly|sea-view|luxury,#4932aa,3.9,False,sale
+PROP1246,Energy even sound modern.,Bungalow,41215605,Maharashtra,Pune,3724,3,5,garden|parking|wifi,Furnished,2025-10-13,Builder,affordable|near-metro|corner-plot|lake-view,#1994da,4.3,True,sale
+PROP1247,Give central market in rock.,Bungalow,15573201,Karnataka,Mangalore,1783,4,4,lift|garden|power-backup|security,Furnished,2025-08-27,Agent,gated-community|sea-view|corner-plot,#0a2c92,4.8,False,rent
+PROP1248,Weight radio none in.,Bungalow,28664699,West Bengal,Kolkata,1943,6,1,lift|parking|power-backup|security|wifi|pool,Unfurnished,2025-09-11,Agent,family-friendly|corner-plot|luxury,#b5168e,1.2,True,sale
+PROP1249,Yourself provide range start attention.,Studio,7386560,West Bengal,Siliguri,3467,3,5,power-backup|security|wifi|clubhouse|garden,Semi,2025-09-12,Builder,corner-plot|near-metro|gated-community|lake-view,#a64943,3.1,False,rent
+PROP1250,Company anyone their down company.,Apartment,14089084,Maharashtra,Pune,1608,1,3,pool|parking|power-backup|lift|security|garden,Unfurnished,2025-10-21,Builder,corner-plot|lake-view|luxury,#e6f488,2.1,False,rent
+PROP1251,Window everyone.,Penthouse,26118636,Delhi,New Delhi,1280,4,1,clubhouse|parking|garden,Semi,2025-10-31,Owner,gated-community|family-friendly|affordable,#7ba356,3.5,True,rent
+PROP1252,Employee watch provide conference.,Villa,38960067,Karnataka,Bangalore,1826,1,4,lift|clubhouse|parking|pool|wifi,Unfurnished,2025-10-02,Owner,family-friendly|affordable|near-metro,#b549a5,3.8,True,rent
+PROP1253,Next whole series.,Apartment,1628294,Karnataka,Mangalore,3081,3,1,parking|security|lift|garden|power-backup|pool,Furnished,2025-08-27,Agent,lake-view|affordable|family-friendly|luxury,#060ca1,1.6,False,rent
+PROP1254,Suddenly nation experience.,Penthouse,10215175,West Bengal,Siliguri,4888,1,3,clubhouse|power-backup|security|lift|parking|pool,Furnished,2025-07-30,Owner,gated-community|affordable,#805613,3.9,False,rent
+PROP1255,Street reduce within science reason.,Villa,27501265,West Bengal,Siliguri,1787,4,1,pool|clubhouse|lift|wifi|security|garden,Semi,2025-10-11,Builder,sea-view|affordable,#7dbd8a,3.6,False,rent
+PROP1256,As himself event indicate.,Studio,20727045,Delhi,New Delhi,4530,5,3,power-backup|wifi|gym|security|parking,Semi,2025-08-26,Builder,corner-plot|near-metro|affordable|gated-community,#04f72f,2.9,False,rent
+PROP1257,Believe city.,Bungalow,9854646,Delhi,New Delhi,777,4,1,security|parking|clubhouse,Semi,2025-06-17,Owner,lake-view|sea-view|near-metro|family-friendly,#151b11,1.3,True,sale
+PROP1258,So wish increase your.,Villa,36503753,Gujarat,Surat,2998,6,5,garden|security|clubhouse|parking|wifi,Semi,2025-06-28,Owner,affordable|luxury|corner-plot,#352c17,1.9,True,rent
+PROP1259,Nor black course.,Villa,31008556,Gujarat,Vadodara,2929,1,2,pool|security|power-backup|gym|parking,Furnished,2025-07-27,Owner,sea-view|luxury|gated-community,#567d44,3.1,True,rent
+PROP1260,Middle piece husband four six.,Penthouse,16733192,Maharashtra,Mumbai,2647,4,4,gym|wifi|clubhouse|garden|pool,Furnished,2025-10-04,Owner,affordable|near-metro|luxury,#96552b,1.6,True,rent
+PROP1261,Tell official modern.,Apartment,45028128,West Bengal,Siliguri,2890,6,4,garden|wifi|security|gym,Furnished,2025-10-15,Agent,near-metro|gated-community,#ab632d,4.0,False,rent
+PROP1262,Least accept kid make win.,Villa,23117569,Gujarat,Vadodara,500,4,5,lift|security|parking,Semi,2025-11-14,Agent,gated-community|near-metro|luxury|sea-view,#6b45ff,4.2,True,rent
+PROP1263,Industry until participant agreement nature.,Bungalow,17667088,Maharashtra,Pune,2007,3,3,security|lift|wifi|gym,Semi,2025-11-08,Agent,near-metro|luxury|sea-view,#172487,4.4,True,rent
+PROP1264,Tree above artist risk address.,Bungalow,21142416,Delhi,New Delhi,2780,5,5,parking|clubhouse|pool,Unfurnished,2025-11-09,Owner,family-friendly|luxury,#c49f5c,3.5,True,sale
+PROP1265,Director huge late.,Villa,13464413,Tamil Nadu,Madurai,631,6,5,power-backup|gym|lift|clubhouse,Semi,2025-11-06,Agent,family-friendly|sea-view|gated-community,#199b15,3.7,False,sale
+PROP1266,Support why key house.,Bungalow,11660357,Karnataka,Bangalore,413,6,3,clubhouse|gym|lift|pool|parking,Semi,2025-11-09,Owner,corner-plot|family-friendly|gated-community|sea-view,#4dc902,4.0,False,sale
+PROP1267,Look require.,Studio,13798968,Maharashtra,Pune,4844,6,2,wifi|pool|parking|security|garden|lift,Furnished,2025-11-18,Builder,sea-view|corner-plot,#96ce97,3.1,False,sale
+PROP1268,Fire Congress unit a.,Apartment,43077147,West Bengal,Siliguri,3194,5,5,clubhouse|wifi|garden,Unfurnished,2025-06-25,Owner,sea-view|luxury,#503290,2.7,False,sale
+PROP1269,Child whether news service recent.,Bungalow,26503331,Karnataka,Bangalore,1849,6,3,pool|garden|lift|gym,Semi,2025-06-23,Builder,gated-community|affordable|family-friendly|lake-view,#cfeea2,3.0,False,rent
+PROP1270,Go eight affect.,Bungalow,17886715,Gujarat,Ahmedabad,1819,2,5,clubhouse|garden|pool|security|parking|lift,Semi,2025-07-14,Builder,lake-view|sea-view|near-metro,#792a52,1.1,False,rent
+PROP1271,Even down improve.,Studio,38443989,Gujarat,Vadodara,1956,6,5,pool|security|parking,Unfurnished,2025-10-22,Builder,family-friendly|gated-community,#389f8d,2.6,True,rent
+PROP1272,Finish it that talk.,Studio,46610384,Tamil Nadu,Coimbatore,2657,5,2,lift|clubhouse|pool|wifi,Unfurnished,2025-08-04,Agent,corner-plot|lake-view|family-friendly|affordable,#1da2b4,1.3,True,rent
+PROP1273,Pm money lay.,Studio,1804521,Delhi,New Delhi,2992,5,5,gym|pool|lift|garden|wifi,Furnished,2025-08-30,Builder,luxury|lake-view|family-friendly,#523e51,3.1,False,rent
+PROP1274,Record always religious animal.,Studio,12676138,Tamil Nadu,Coimbatore,2281,4,5,clubhouse|power-backup|gym,Furnished,2025-07-08,Agent,lake-view|family-friendly|affordable,#0f2b25,1.8,False,rent
+PROP1275,Economy center.,Apartment,9897155,West Bengal,Siliguri,4879,5,3,security|parking|garden|wifi,Semi,2025-08-13,Agent,gated-community|luxury|corner-plot|family-friendly,#a29a17,3.9,True,sale
+PROP1276,Threat action administration black hotel.,Villa,38920914,Tamil Nadu,Chennai,1855,5,2,security|clubhouse|gym,Unfurnished,2025-11-15,Agent,sea-view|family-friendly|luxury,#9a3283,4.9,True,rent
+PROP1277,Choice practice challenge employee.,Penthouse,542248,West Bengal,Siliguri,3957,1,3,gym|parking|garden|power-backup|security|lift,Semi,2025-07-29,Agent,lake-view|family-friendly|gated-community|luxury,#72d83c,2.2,False,rent
+PROP1278,Focus drive.,Villa,10585277,Gujarat,Vadodara,1422,2,5,garden|lift|gym|security|pool|parking,Unfurnished,2025-07-16,Owner,corner-plot|near-metro,#0e865a,4.4,False,sale
+PROP1279,Mother interesting often character.,Penthouse,29800102,Tamil Nadu,Madurai,3928,3,1,garden|power-backup|clubhouse|wifi,Furnished,2025-09-25,Agent,gated-community|lake-view|corner-plot,#030197,4.1,False,rent
+PROP1280,Member something.,Penthouse,22462906,Tamil Nadu,Chennai,3753,2,2,clubhouse|lift|garden|parking|power-backup,Furnished,2025-06-12,Owner,luxury|family-friendly|near-metro,#84e22b,3.7,True,rent
+PROP1281,Four moment couple.,Penthouse,31234448,West Bengal,Kolkata,2002,5,4,pool|security|lift|garden|wifi,Unfurnished,2025-06-21,Owner,near-metro|sea-view|affordable,#5427a9,2.5,True,sale
+PROP1282,Realize commercial loss scene.,Villa,9959181,Delhi,New Delhi,3117,4,1,security|wifi|lift|garden|gym|parking,Unfurnished,2025-08-15,Agent,family-friendly|luxury,#9e60ef,3.2,True,sale
+PROP1283,Tonight Republican around.,Penthouse,30305800,West Bengal,Siliguri,3378,5,4,garden|clubhouse|lift|parking|wifi,Unfurnished,2025-08-08,Owner,luxury|corner-plot,#3d914d,4.3,True,sale
+PROP1284,Recently trade this information.,Studio,7241328,West Bengal,Kolkata,1679,4,5,clubhouse|power-backup|wifi|security|garden|pool,Furnished,2025-11-17,Owner,gated-community|near-metro|sea-view|family-friendly,#9d1232,4.8,False,rent
+PROP1285,Chance bar agree.,Apartment,6281772,Maharashtra,Pune,3420,4,1,power-backup|pool|gym|wifi|parking|security,Unfurnished,2025-08-04,Agent,family-friendly|near-metro|affordable,#c937d4,4.0,True,sale
+PROP1286,Item lay real.,Apartment,10156785,Tamil Nadu,Chennai,2740,4,5,power-backup|garden|lift|wifi|gym|security,Semi,2025-09-11,Builder,luxury|gated-community,#9ff8e9,4.3,False,sale
+PROP1287,Wind hotel sister.,Apartment,18087068,Delhi,New Delhi,499,3,1,lift|power-backup|pool|wifi|parking,Unfurnished,2025-08-23,Agent,affordable|near-metro|gated-community|luxury,#2df222,2.6,True,rent
+PROP1288,Just see operation.,Apartment,30050286,West Bengal,Kolkata,953,5,5,pool|power-backup|gym|parking|wifi|clubhouse,Furnished,2025-10-14,Builder,family-friendly|lake-view,#fc2b0b,1.2,False,sale
+PROP1289,Push sell three.,Apartment,17477330,West Bengal,Kolkata,4042,5,3,lift|power-backup|gym,Unfurnished,2025-09-22,Builder,corner-plot|luxury|affordable,#086eb6,4.1,True,rent
+PROP1290,Hit kitchen choose.,Villa,9449358,West Bengal,Siliguri,3400,1,5,clubhouse|security|lift|parking,Furnished,2025-09-27,Owner,affordable|lake-view|sea-view,#fcf0e1,3.4,False,rent
+PROP1291,Daughter so change.,Studio,18806448,Karnataka,Mangalore,3797,3,1,parking|garden|lift,Semi,2025-08-25,Owner,near-metro|family-friendly,#1ba074,3.7,False,sale
+PROP1292,Eight choice.,Villa,37451706,Tamil Nadu,Chennai,3945,5,1,wifi|security|garden|parking|lift|pool,Unfurnished,2025-10-11,Owner,luxury|family-friendly,#42bb35,4.5,True,sale
+PROP1293,Will skin pick play.,Villa,16741505,West Bengal,Siliguri,1606,4,1,lift|wifi|clubhouse|gym|garden,Furnished,2025-11-02,Builder,luxury|near-metro,#fd815e,1.8,True,sale
+PROP1294,Like establish.,Bungalow,41220764,Karnataka,Mysore,920,4,2,garden|wifi|gym|lift|clubhouse|security,Unfurnished,2025-06-06,Agent,family-friendly|near-metro,#064f6c,1.4,True,sale
+PROP1295,Would summer pattern.,Bungalow,42160892,Gujarat,Ahmedabad,1986,6,4,power-backup|gym|parking|clubhouse|garden,Unfurnished,2025-09-15,Builder,gated-community|corner-plot|lake-view,#f2898a,2.2,False,sale
+PROP1296,Follow dinner talk fly media.,Apartment,12962005,Delhi,New Delhi,629,3,4,parking|power-backup|garden|gym,Furnished,2025-08-28,Builder,sea-view|gated-community|near-metro|affordable,#8bb442,3.3,False,rent
+PROP1297,Administration somebody nation.,Apartment,23793369,Gujarat,Ahmedabad,4080,5,2,pool|wifi|clubhouse,Furnished,2025-08-22,Agent,gated-community|sea-view|near-metro,#669830,3.2,False,sale
+PROP1298,Method center sell.,Apartment,28091874,West Bengal,Siliguri,2131,3,4,security|clubhouse|gym|lift|wifi,Unfurnished,2025-06-27,Agent,corner-plot|affordable|near-metro,#ab48a9,4.6,True,rent
+PROP1299,Door pull close.,Penthouse,40489838,Maharashtra,Mumbai,2208,6,3,wifi|power-backup|gym,Furnished,2025-07-24,Agent,luxury|family-friendly,#86dc7c,4.9,True,rent
+PROP1300,Or recently law.,Villa,44558816,Tamil Nadu,Coimbatore,2651,5,3,garden|pool|wifi|lift,Furnished,2025-08-30,Agent,affordable|gated-community,#2f1bd4,1.1,False,sale
+PROP1301,Edge indicate nation international.,Studio,34074802,Gujarat,Vadodara,4246,6,4,power-backup|garden|parking|clubhouse|wifi|gym,Unfurnished,2025-10-11,Builder,near-metro|corner-plot,#a16773,1.2,True,sale
+PROP1302,Civil day fear resource.,Studio,23380170,West Bengal,Siliguri,2355,6,3,parking|pool|gym|wifi|security,Unfurnished,2025-08-12,Owner,sea-view|near-metro|luxury|corner-plot,#6dc19d,1.3,False,rent
+PROP1303,Especially hot.,Penthouse,2099185,Delhi,New Delhi,4439,2,2,gym|power-backup|lift,Furnished,2025-07-09,Builder,family-friendly|lake-view|near-metro|affordable,#70fac5,1.9,True,sale
+PROP1304,Big born final.,Villa,10611647,West Bengal,Kolkata,1463,3,4,clubhouse|parking|wifi,Furnished,2025-11-11,Builder,family-friendly|lake-view|corner-plot,#31701a,5.0,False,rent
+PROP1305,Number possible cause.,Villa,39988469,Delhi,New Delhi,2381,3,5,clubhouse|gym|parking|power-backup,Semi,2025-07-31,Agent,affordable|gated-community|sea-view,#bd5ebd,1.3,False,sale
+PROP1306,Experience tough almost.,Villa,46540371,Tamil Nadu,Coimbatore,2354,1,5,parking|garden|power-backup|security,Unfurnished,2025-08-15,Agent,corner-plot|sea-view|luxury,#246f51,4.1,False,rent
+PROP1307,For mouth consider statement.,Penthouse,20239483,Maharashtra,Nagpur,3566,2,2,wifi|lift|pool,Unfurnished,2025-09-12,Agent,corner-plot|affordable|lake-view|luxury,#17dc7d,4.3,False,rent
+PROP1308,Among bank.,Bungalow,20079123,Tamil Nadu,Chennai,436,5,2,security|garden|gym|parking|wifi,Semi,2025-07-11,Owner,lake-view|corner-plot,#f98beb,5.0,True,rent
+PROP1309,Clear social foot determine pass.,Apartment,11463681,Delhi,New Delhi,2826,1,2,power-backup|security|clubhouse|gym,Furnished,2025-08-27,Owner,gated-community|corner-plot|affordable|lake-view,#d0eef3,1.3,False,sale
+PROP1310,Themselves sort then.,Penthouse,10253150,Maharashtra,Mumbai,545,3,4,garden|gym|wifi|power-backup,Unfurnished,2025-07-27,Owner,family-friendly|corner-plot|lake-view,#416a9e,3.1,True,sale
+PROP1311,Force no affect up home.,Penthouse,33949802,Maharashtra,Pune,1625,2,5,parking|gym|lift|security|wifi|power-backup,Furnished,2025-06-19,Owner,near-metro|sea-view|corner-plot,#5fac4d,2.1,True,rent
+PROP1312,Center music adult.,Villa,29982341,West Bengal,Kolkata,1661,6,5,garden|gym|security|power-backup|parking|lift,Unfurnished,2025-09-23,Agent,gated-community|lake-view,#ddc1d4,1.2,False,rent
+PROP1313,Traditional view.,Villa,13125272,Delhi,New Delhi,2719,4,1,pool|power-backup|wifi|gym,Unfurnished,2025-06-29,Builder,luxury|sea-view|lake-view|family-friendly,#b65ff2,1.8,False,rent
+PROP1314,Type rich soon.,Apartment,29540562,West Bengal,Siliguri,2066,2,3,garden|clubhouse|parking|lift,Unfurnished,2025-10-25,Owner,gated-community|luxury|affordable,#cfdbb9,3.4,False,rent
+PROP1315,Issue computer wish impact suggest.,Bungalow,27624465,Maharashtra,Pune,1131,5,2,gym|power-backup|parking|garden|pool,Semi,2025-09-23,Agent,luxury|affordable|gated-community,#048228,4.6,False,rent
+PROP1316,Son pull owner create.,Bungalow,49571405,Tamil Nadu,Madurai,1377,6,2,security|garden|clubhouse,Unfurnished,2025-09-10,Agent,sea-view|luxury|near-metro|affordable,#2074f0,2.2,False,sale
+PROP1317,Here both small.,Penthouse,36262766,Gujarat,Surat,426,2,2,security|lift|wifi|parking|power-backup|clubhouse,Unfurnished,2025-10-15,Agent,near-metro|affordable|luxury|family-friendly,#ed8b10,4.3,True,sale
+PROP1318,Seat gun now skill left.,Villa,28293203,Delhi,New Delhi,2438,2,2,garden|clubhouse|power-backup|lift|parking,Unfurnished,2025-09-23,Owner,sea-view|lake-view|family-friendly,#f8d133,4.8,True,rent
+PROP1319,Teach head street myself.,Penthouse,32115402,Karnataka,Mysore,4505,1,5,security|gym|parking,Semi,2025-08-28,Agent,sea-view|lake-view|corner-plot,#4262d8,2.6,True,rent
+PROP1320,Camera wonder avoid condition.,Villa,11400300,Delhi,New Delhi,2743,6,2,pool|parking|wifi|gym|power-backup|security,Unfurnished,2025-09-04,Builder,lake-view|affordable|family-friendly|sea-view,#ad5960,1.5,False,rent
+PROP1321,Modern history west music close.,Penthouse,32466568,West Bengal,Siliguri,2604,4,4,security|clubhouse|lift,Semi,2025-10-11,Owner,corner-plot|family-friendly|affordable,#f02df0,1.8,False,sale
+PROP1322,Help your identify.,Studio,35038405,Gujarat,Surat,2020,5,2,parking|security|pool|gym|wifi|lift,Furnished,2025-09-13,Builder,family-friendly|gated-community|sea-view|affordable,#243a73,3.3,True,sale
+PROP1323,Score left real produce line.,Studio,17890342,Tamil Nadu,Chennai,4804,5,2,gym|security|pool,Semi,2025-07-16,Owner,lake-view|near-metro|affordable|corner-plot,#9542cf,2.9,True,sale
+PROP1324,It when nearly.,Bungalow,25730725,Maharashtra,Nagpur,1368,2,5,garden|wifi|power-backup|lift|security,Furnished,2025-07-29,Owner,near-metro|family-friendly,#a21506,2.6,False,sale
+PROP1325,Far real air truth choose.,Bungalow,8321566,Delhi,New Delhi,3967,6,5,wifi|security|gym,Furnished,2025-07-17,Owner,sea-view|lake-view|affordable|corner-plot,#88355b,3.1,True,rent
+PROP1326,Fast him without.,Penthouse,20111327,Maharashtra,Pune,2948,5,3,wifi|clubhouse|gym|parking|pool|lift,Unfurnished,2025-08-01,Builder,near-metro|gated-community|sea-view|lake-view,#b6495f,3.3,False,rent
+PROP1327,Specific save hospital leave.,Villa,48889242,Tamil Nadu,Madurai,3753,3,1,clubhouse|gym|lift,Unfurnished,2025-07-30,Builder,gated-community|luxury|family-friendly,#85d0ff,3.8,True,sale
+PROP1328,Central soon indicate.,Penthouse,35894988,West Bengal,Siliguri,449,5,4,power-backup|wifi|security,Furnished,2025-09-09,Agent,near-metro|gated-community,#53e53e,1.9,False,rent
+PROP1329,Wide education.,Bungalow,1798787,Tamil Nadu,Coimbatore,1419,5,2,gym|wifi|garden,Unfurnished,2025-09-06,Owner,affordable|sea-view,#e85e87,1.1,True,rent
+PROP1330,Prepare economy player design.,Bungalow,40363661,West Bengal,Siliguri,2410,1,2,lift|pool|parking|wifi|gym,Semi,2025-07-15,Agent,affordable|lake-view,#7708bb,3.7,True,sale
+PROP1331,Court song certainly.,Villa,47066321,Karnataka,Bangalore,2608,6,3,pool|security|gym|garden|wifi|lift,Semi,2025-08-01,Agent,luxury|gated-community,#335c3b,1.9,True,rent
+PROP1332,Account hospital certainly another.,Apartment,4692929,Maharashtra,Pune,4326,5,1,garden|wifi|clubhouse,Semi,2025-10-12,Builder,sea-view|affordable|lake-view|gated-community,#865491,4.2,False,rent
+PROP1333,Food style today.,Studio,29914378,Karnataka,Mangalore,1012,6,1,clubhouse|wifi|lift|power-backup|security|garden,Furnished,2025-10-24,Agent,luxury|sea-view|near-metro|gated-community,#3b7f26,3.2,True,sale
+PROP1334,Than can red.,Villa,38716602,Gujarat,Surat,2667,2,2,power-backup|lift|gym|pool,Semi,2025-11-08,Agent,affordable|gated-community|sea-view,#38efaa,1.5,False,rent
+PROP1335,Citizen make there road.,Studio,21409913,Karnataka,Mysore,1050,6,3,clubhouse|pool|garden,Semi,2025-08-02,Agent,lake-view|corner-plot,#51de6c,4.1,True,rent
+PROP1336,Six structure.,Studio,40574339,Tamil Nadu,Chennai,1056,2,3,lift|garden|security,Unfurnished,2025-08-10,Owner,lake-view|gated-community|affordable|sea-view,#da7075,3.8,True,rent
+PROP1337,Since happen nearly.,Villa,14427773,Delhi,New Delhi,4068,4,5,wifi|garden|power-backup,Furnished,2025-08-16,Agent,sea-view|near-metro|lake-view,#ec8ed4,2.3,True,rent
+PROP1338,Such condition.,Penthouse,31117882,Delhi,New Delhi,3923,4,3,clubhouse|lift|pool,Unfurnished,2025-10-29,Owner,gated-community|lake-view|corner-plot|near-metro,#34cb39,1.8,False,rent
+PROP1339,Dinner gun some even.,Apartment,12251630,West Bengal,Siliguri,4908,3,1,power-backup|pool|gym|security,Unfurnished,2025-10-30,Owner,affordable|near-metro|family-friendly|luxury,#7b4cfc,4.8,False,sale
+PROP1340,Economy if matter just now.,Studio,20209261,Karnataka,Mangalore,3688,5,1,parking|security|pool|garden,Unfurnished,2025-10-02,Owner,affordable|near-metro,#4b0ee1,5.0,False,sale
+PROP1341,Heart medical value plant fast.,Villa,7750501,Karnataka,Mangalore,1798,5,5,security|wifi|pool|power-backup,Furnished,2025-10-07,Agent,affordable|near-metro|gated-community,#7583d8,4.4,True,sale
+PROP1342,Purpose seem.,Bungalow,5793262,Gujarat,Vadodara,3215,5,5,parking|power-backup|clubhouse|security|wifi|pool,Semi,2025-10-20,Agent,lake-view|luxury|sea-view|near-metro,#5d7f44,4.3,True,sale
+PROP1343,Word walk.,Bungalow,34776648,Maharashtra,Pune,1636,6,1,gym|clubhouse|garden,Furnished,2025-10-11,Owner,sea-view|lake-view|corner-plot|family-friendly,#73776a,3.6,True,rent
+PROP1344,Appear on bank meet would.,Bungalow,39338195,Tamil Nadu,Coimbatore,2722,3,1,power-backup|garden|parking,Semi,2025-10-25,Builder,corner-plot|family-friendly|luxury|gated-community,#0900e1,3.0,False,sale
+PROP1345,Provide remain.,Penthouse,11519135,Karnataka,Bangalore,1807,3,4,power-backup|parking|security|clubhouse|garden,Furnished,2025-08-07,Builder,sea-view|luxury|gated-community|family-friendly,#4ada16,5.0,True,sale
+PROP1346,Discuss may run.,Studio,36126904,Maharashtra,Pune,3329,4,5,garden|wifi|gym|lift|power-backup|parking,Unfurnished,2025-08-24,Agent,family-friendly|luxury|lake-view|near-metro,#b52780,1.3,False,sale
+PROP1347,Section clear analysis.,Apartment,42753018,Gujarat,Vadodara,4526,4,2,gym|clubhouse|wifi|pool|lift|power-backup,Unfurnished,2025-07-26,Owner,corner-plot|lake-view|sea-view,#c40fc4,1.7,True,rent
+PROP1348,Light but subject put.,Apartment,2940956,Gujarat,Surat,4250,6,1,parking|lift|wifi,Semi,2025-06-14,Agent,sea-view|lake-view|gated-community|corner-plot,#957ff5,3.0,True,sale
+PROP1349,Discover education store tonight.,Studio,5829805,West Bengal,Kolkata,4099,5,5,garden|clubhouse|gym|pool|lift,Semi,2025-10-15,Agent,corner-plot|lake-view|luxury,#58ca0b,4.5,True,rent
+PROP1350,Approach kitchen soon reduce responsibility.,Villa,21025379,Maharashtra,Pune,2234,1,2,wifi|security|power-backup|clubhouse|garden,Furnished,2025-11-13,Builder,family-friendly|sea-view|corner-plot|lake-view,#bc8fee,2.3,True,rent
+PROP1351,Bit PM bank follow dark.,Studio,12328100,West Bengal,Kolkata,1490,6,2,clubhouse|gym|power-backup|wifi,Furnished,2025-07-09,Builder,near-metro|family-friendly|gated-community,#ce94a2,2.7,False,sale
+PROP1352,Simple wear.,Penthouse,43766324,West Bengal,Kolkata,1291,4,4,parking|pool|power-backup|wifi|garden,Semi,2025-06-18,Agent,corner-plot|affordable,#04d78c,2.3,False,sale
+PROP1353,Guy real ask.,Apartment,18747527,Gujarat,Surat,1241,4,4,power-backup|lift|garden|parking|gym,Unfurnished,2025-08-15,Owner,gated-community|family-friendly|affordable|luxury,#6dd280,4.4,True,rent
+PROP1354,Range common top start.,Villa,28413051,Delhi,New Delhi,4111,4,5,security|gym|lift,Furnished,2025-06-07,Builder,lake-view|sea-view,#ececcb,3.0,False,sale
+PROP1355,Idea pull.,Bungalow,43616265,Karnataka,Mysore,2350,2,3,gym|garden|clubhouse|pool|security|lift,Furnished,2025-06-18,Agent,lake-view|affordable|near-metro,#dee95f,4.1,True,sale
+PROP1356,Reduce though if newspaper about.,Apartment,15921290,Tamil Nadu,Chennai,4847,4,5,lift|security|power-backup|garden,Unfurnished,2025-11-07,Builder,affordable|luxury|corner-plot|gated-community,#267453,2.6,False,rent
+PROP1357,Could want.,Studio,12292563,West Bengal,Siliguri,4677,6,3,wifi|gym|garden,Furnished,2025-07-24,Owner,near-metro|corner-plot|lake-view|sea-view,#158837,2.6,False,rent
+PROP1358,Walk key election.,Studio,30459862,Delhi,New Delhi,2525,5,1,lift|clubhouse|wifi|pool,Furnished,2025-11-06,Owner,gated-community|luxury,#9e52a3,2.5,False,rent
+PROP1359,Picture cause measure.,Bungalow,2564301,Gujarat,Vadodara,674,2,1,gym|pool|lift|garden|power-backup,Unfurnished,2025-09-15,Builder,family-friendly|sea-view|luxury|near-metro,#b8b881,4.5,True,rent
+PROP1360,Goal across foot seek successful.,Bungalow,48686277,Karnataka,Bangalore,4725,5,1,security|pool|parking,Unfurnished,2025-08-31,Agent,family-friendly|sea-view,#9668eb,4.3,True,sale
+PROP1361,Region over next cold voice.,Villa,34158098,Maharashtra,Mumbai,412,6,1,pool|security|wifi|power-backup,Semi,2025-07-11,Owner,sea-view|family-friendly|near-metro,#d67155,1.6,True,sale
+PROP1362,Color return us social.,Apartment,24824136,Gujarat,Ahmedabad,3079,5,1,garden|power-backup|lift,Unfurnished,2025-10-31,Agent,corner-plot|near-metro|sea-view|family-friendly,#3b6957,4.1,True,sale
+PROP1363,Let ability last.,Bungalow,35030615,Maharashtra,Pune,4438,3,2,clubhouse|security|wifi|power-backup,Semi,2025-06-28,Owner,luxury|lake-view,#dcfeec,3.3,True,rent
+PROP1364,Surface site.,Penthouse,47579607,Tamil Nadu,Coimbatore,1879,1,4,pool|gym|wifi|security|power-backup,Furnished,2025-10-01,Agent,gated-community|luxury|affordable,#f4c875,3.5,False,sale
+PROP1365,Safe item future would keep.,Studio,11877369,Tamil Nadu,Chennai,2068,2,3,clubhouse|power-backup|parking|security|garden|lift,Semi,2025-07-08,Owner,corner-plot|near-metro|luxury,#359ae2,3.5,True,rent
+PROP1366,Until program.,Penthouse,16357997,West Bengal,Kolkata,3817,1,4,lift|pool|wifi|parking|garden|security,Furnished,2025-10-25,Builder,luxury|corner-plot,#de881b,1.6,False,sale
+PROP1367,Especially poor effect matter.,Villa,7384603,Delhi,New Delhi,4624,1,1,garden|gym|clubhouse|lift|security|parking,Unfurnished,2025-10-06,Owner,corner-plot|affordable|family-friendly|sea-view,#6106c4,2.6,False,rent
+PROP1368,Pass represent.,Villa,23773363,Gujarat,Surat,3105,3,4,security|pool|clubhouse|power-backup,Unfurnished,2025-07-14,Owner,family-friendly|sea-view|corner-plot|gated-community,#f1511c,3.1,True,sale
+PROP1369,Fine I information through.,Studio,9242091,Delhi,New Delhi,582,4,5,pool|gym|power-backup,Semi,2025-09-26,Owner,affordable|near-metro|corner-plot,#f3524e,4.4,True,rent
+PROP1370,Find adult.,Apartment,8788533,Delhi,New Delhi,4115,4,4,power-backup|pool|lift|clubhouse,Unfurnished,2025-10-28,Owner,family-friendly|affordable|near-metro|gated-community,#bf8342,2.4,False,rent
+PROP1371,Anyone dark American down.,Villa,32935895,Tamil Nadu,Chennai,1631,1,3,gym|power-backup|security|garden|wifi,Furnished,2025-08-22,Agent,lake-view|gated-community|sea-view,#32b44c,3.0,True,rent
+PROP1372,View show where would just.,Studio,47356346,Maharashtra,Mumbai,4404,3,1,lift|wifi|garden,Unfurnished,2025-10-03,Agent,corner-plot|lake-view,#554fb0,3.5,True,sale
+PROP1373,Reflect fund.,Studio,27612205,Gujarat,Surat,3247,4,4,clubhouse|gym|lift,Furnished,2025-11-11,Agent,family-friendly|near-metro|sea-view,#311289,2.3,True,rent
+PROP1374,East situation house the.,Villa,28041817,Maharashtra,Nagpur,522,2,1,gym|clubhouse|parking|security|wifi|garden,Furnished,2025-07-24,Agent,family-friendly|lake-view|corner-plot|sea-view,#04f37d,4.5,True,rent
+PROP1375,Picture choose occur maybe.,Villa,6402399,West Bengal,Kolkata,3111,1,1,gym|power-backup|garden|clubhouse,Unfurnished,2025-09-26,Agent,near-metro|family-friendly|gated-community|affordable,#e76a79,4.0,True,rent
+PROP1376,Control put high.,Penthouse,41489412,Karnataka,Mysore,3339,2,5,security|garden|clubhouse,Unfurnished,2025-09-06,Builder,corner-plot|gated-community|affordable,#dffdce,3.0,False,rent
+PROP1377,Message finally since other.,Apartment,48950068,Gujarat,Vadodara,499,2,2,clubhouse|power-backup|wifi|security|garden|parking,Furnished,2025-09-26,Owner,gated-community|luxury,#be6174,3.8,True,rent
+PROP1378,First major young subject.,Studio,35881208,Tamil Nadu,Chennai,425,5,5,security|wifi|lift|gym,Furnished,2025-09-12,Builder,lake-view|corner-plot|luxury,#f015fc,2.4,False,rent
+PROP1379,Catch money occur.,Studio,27835262,Gujarat,Ahmedabad,752,3,5,clubhouse|security|gym|power-backup|lift,Furnished,2025-08-23,Builder,luxury|near-metro|gated-community|lake-view,#d30952,4.9,True,rent
+PROP1380,Interest college win sure.,Villa,36060384,Delhi,New Delhi,4528,6,3,lift|power-backup|garden,Furnished,2025-09-05,Agent,sea-view|corner-plot,#2da835,4.4,False,sale
+PROP1381,Lose physical kind increase.,Bungalow,36503325,Tamil Nadu,Coimbatore,4319,2,3,pool|garden|power-backup,Furnished,2025-08-28,Owner,sea-view|lake-view,#a999d5,1.8,True,sale
+PROP1382,Probably boy.,Villa,39476199,Karnataka,Bangalore,2892,3,1,clubhouse|lift|wifi|pool|gym|power-backup,Unfurnished,2025-08-02,Builder,family-friendly|lake-view|affordable,#b73ed1,3.0,False,sale
+PROP1383,Happy nearly city much.,Apartment,1731227,Tamil Nadu,Chennai,2718,2,2,gym|clubhouse|wifi|garden|lift|power-backup,Furnished,2025-07-28,Agent,sea-view|family-friendly,#35b7ed,2.5,True,sale
+PROP1384,Data design can politics.,Villa,4519579,West Bengal,Kolkata,3797,4,1,parking|gym|security|wifi|clubhouse,Furnished,2025-10-14,Owner,family-friendly|lake-view|corner-plot,#48a95d,2.3,False,rent
+PROP1385,Parent cause eat physical heavy.,Penthouse,7163993,Delhi,New Delhi,1161,2,4,pool|wifi|garden,Semi,2025-11-07,Agent,sea-view|gated-community|near-metro|corner-plot,#937696,1.7,True,rent
+PROP1386,Far find wish note consumer.,Villa,21454726,Delhi,New Delhi,2912,4,2,clubhouse|parking|garden|pool|security,Furnished,2025-08-02,Agent,luxury|lake-view|sea-view,#cb3efd,3.4,True,sale
+PROP1387,Throughout toward want.,Studio,40279742,West Bengal,Kolkata,4921,5,4,parking|pool|gym|power-backup,Unfurnished,2025-11-21,Owner,near-metro|luxury|lake-view|family-friendly,#4a57c2,1.2,True,sale
+PROP1388,Black figure old.,Villa,16862618,Karnataka,Bangalore,2699,2,4,gym|security|pool|clubhouse|wifi,Unfurnished,2025-08-24,Owner,corner-plot|family-friendly|near-metro,#f17a91,4.8,False,rent
+PROP1389,Can my get first.,Apartment,41328256,Maharashtra,Pune,3236,3,2,garden|security|parking,Furnished,2025-11-16,Builder,corner-plot|near-metro|lake-view,#13069c,4.9,False,sale
+PROP1390,Far recent then.,Apartment,28459682,Gujarat,Surat,2888,3,2,gym|clubhouse|parking|power-backup,Furnished,2025-09-17,Owner,family-friendly|near-metro,#663543,1.2,True,sale
+PROP1391,Have suddenly share cold wife.,Penthouse,1727712,Maharashtra,Nagpur,3411,1,3,wifi|clubhouse|garden|lift|gym,Semi,2025-07-14,Owner,affordable|corner-plot|family-friendly,#e7c6c4,2.3,True,sale
+PROP1392,There task them.,Villa,29041866,Maharashtra,Pune,975,3,5,lift|clubhouse|wifi|garden|pool,Unfurnished,2025-10-14,Agent,luxury|family-friendly|gated-community|affordable,#2a0592,3.0,True,rent
+PROP1393,Rise exactly discover executive.,Penthouse,34441138,Tamil Nadu,Madurai,3884,3,1,pool|wifi|gym|clubhouse|power-backup,Semi,2025-09-13,Builder,lake-view|corner-plot|near-metro|luxury,#3c843c,4.4,False,rent
+PROP1394,Trial class might could.,Penthouse,32920958,Karnataka,Mangalore,2046,4,2,lift|garden|clubhouse|security,Semi,2025-11-03,Agent,corner-plot|near-metro|lake-view|affordable,#e489c3,4.2,True,rent
+PROP1395,Begin pick third.,Apartment,17233811,Maharashtra,Nagpur,4805,4,1,security|clubhouse|parking|gym|wifi,Unfurnished,2025-11-11,Builder,family-friendly|luxury,#a3158c,3.5,False,rent
+PROP1396,Society magazine industry hope.,Penthouse,4706546,Maharashtra,Pune,3864,4,3,power-backup|wifi|clubhouse|parking,Furnished,2025-09-01,Builder,luxury|near-metro|affordable|lake-view,#751c5f,1.6,False,sale
+PROP1397,Exactly network environment.,Penthouse,20596696,Maharashtra,Nagpur,736,3,5,gym|lift|security|clubhouse|wifi,Furnished,2025-10-02,Owner,near-metro|sea-view|corner-plot|lake-view,#eb7f4d,3.1,True,rent
+PROP1398,Investment form star control evening.,Studio,21229653,Delhi,New Delhi,470,5,4,security|gym|wifi|power-backup|garden|clubhouse,Furnished,2025-10-16,Owner,lake-view|sea-view|gated-community,#d9cae3,3.8,False,rent
+PROP1399,Recognize table decade world beat.,Penthouse,22482107,Delhi,New Delhi,3549,1,1,security|lift|gym|wifi|clubhouse|parking,Furnished,2025-09-30,Owner,affordable|near-metro|sea-view,#f63288,1.4,False,sale
+PROP1400,Teach serve quickly.,Bungalow,22305402,West Bengal,Kolkata,566,6,2,security|gym|pool,Furnished,2025-10-15,Builder,family-friendly|corner-plot|near-metro|sea-view,#fe9a9f,2.8,True,rent
+PROP1401,Again race use should.,Bungalow,48495340,Maharashtra,Pune,4865,1,3,clubhouse|pool|lift|parking,Furnished,2025-06-26,Agent,luxury|corner-plot|gated-community|near-metro,#66081d,1.7,False,rent
+PROP1402,Well soon second off.,Penthouse,47880860,Delhi,New Delhi,4327,2,4,wifi|parking|lift,Furnished,2025-11-21,Builder,gated-community|affordable|near-metro,#040835,3.5,False,rent
+PROP1403,View clear wind imagine.,Villa,35987636,Tamil Nadu,Coimbatore,2002,2,1,power-backup|pool|clubhouse|parking,Unfurnished,2025-10-21,Builder,gated-community|sea-view,#7a3962,1.7,False,rent
+PROP1404,Glass tonight baby training option.,Studio,37965184,Karnataka,Mysore,4158,3,5,garden|clubhouse|power-backup|parking|pool|lift,Unfurnished,2025-09-14,Owner,family-friendly|near-metro|sea-view,#4133dd,3.2,True,rent
+PROP1405,Ago another sell size without.,Bungalow,18614816,Gujarat,Surat,3075,5,4,lift|wifi|parking|garden|pool,Semi,2025-09-11,Agent,sea-view|gated-community|affordable,#b7db3c,4.3,False,sale
+PROP1406,You marriage woman drop.,Apartment,20142162,Maharashtra,Mumbai,3007,5,2,gym|garden|clubhouse|pool,Unfurnished,2025-08-17,Agent,affordable|sea-view|luxury|family-friendly,#3073d1,2.0,True,sale
+PROP1407,Happy democratic with.,Villa,14886885,West Bengal,Kolkata,2285,4,1,pool|wifi|security|lift|clubhouse,Unfurnished,2025-07-30,Agent,near-metro|family-friendly,#ef365e,4.0,False,rent
+PROP1408,Media person.,Studio,7043402,Maharashtra,Mumbai,3176,5,2,pool|garden|security|gym|clubhouse,Furnished,2025-06-06,Builder,near-metro|lake-view|family-friendly,#878d55,3.5,False,rent
+PROP1409,Paper check three new.,Studio,44166374,Maharashtra,Mumbai,4391,2,3,security|lift|wifi|power-backup,Unfurnished,2025-06-08,Owner,sea-view|corner-plot,#efadb9,2.6,False,sale
+PROP1410,Floor minute.,Villa,47934532,Gujarat,Surat,3433,6,2,parking|lift|garden|wifi|pool|power-backup,Furnished,2025-06-18,Owner,sea-view|near-metro|corner-plot,#9d5712,4.3,True,sale
+PROP1411,Wonder full approach.,Penthouse,8234176,Karnataka,Mysore,1199,4,3,wifi|lift|gym|clubhouse|garden|power-backup,Unfurnished,2025-10-05,Owner,near-metro|lake-view,#3a1ed6,1.9,True,rent
+PROP1412,Mr minute art.,Bungalow,49897587,Karnataka,Mangalore,3798,3,3,clubhouse|wifi|lift|gym,Furnished,2025-09-29,Builder,gated-community|family-friendly,#dfae4b,2.5,True,rent
+PROP1413,Mean find past medical agency.,Studio,28960401,Tamil Nadu,Coimbatore,4469,1,3,clubhouse|pool|lift|garden|security,Semi,2025-10-25,Agent,luxury|gated-community,#b06f56,1.8,False,rent
+PROP1414,Sometimes soldier idea.,Bungalow,6995046,West Bengal,Siliguri,3169,5,2,lift|security|garden|parking,Furnished,2025-06-20,Builder,luxury|corner-plot,#91dd99,4.9,True,sale
+PROP1415,Claim herself business how American.,Penthouse,22585753,Tamil Nadu,Chennai,2649,6,5,pool|parking|lift|wifi|clubhouse|power-backup,Unfurnished,2025-10-02,Owner,affordable|corner-plot|luxury,#4bbae4,4.7,True,rent
+PROP1416,Purpose major also since.,Penthouse,12558884,Maharashtra,Mumbai,2992,5,3,power-backup|security|gym|clubhouse|wifi|lift,Unfurnished,2025-10-20,Agent,sea-view|luxury|near-metro|affordable,#86e573,2.8,True,rent
+PROP1417,With edge.,Apartment,35359294,Tamil Nadu,Madurai,1808,4,1,pool|security|power-backup|gym,Unfurnished,2025-07-01,Agent,near-metro|gated-community|luxury,#7733b0,4.4,False,sale
+PROP1418,Class grow position different role.,Penthouse,14611524,Maharashtra,Mumbai,1223,4,3,clubhouse|gym|garden|parking|wifi,Semi,2025-08-14,Owner,luxury|corner-plot|affordable|near-metro,#1394ee,1.4,False,rent
+PROP1419,Often arrive.,Penthouse,44562017,Karnataka,Mangalore,2726,2,2,parking|clubhouse|security|pool|wifi|garden,Semi,2025-08-21,Owner,family-friendly|corner-plot,#c34924,4.1,True,sale
+PROP1420,Lead open TV result result.,Apartment,13846098,Gujarat,Ahmedabad,457,5,5,lift|wifi|gym|parking|power-backup|pool,Unfurnished,2025-09-03,Owner,family-friendly|sea-view|corner-plot|luxury,#d8d285,2.8,True,rent
+PROP1421,Soon market or phone.,Studio,40921198,West Bengal,Siliguri,4665,1,3,security|pool|clubhouse|wifi|parking|garden,Unfurnished,2025-08-21,Agent,sea-view|gated-community,#95e1eb,4.3,False,sale
+PROP1422,Stage catch grow without.,Bungalow,1793342,Gujarat,Ahmedabad,4058,3,1,clubhouse|lift|pool,Unfurnished,2025-09-08,Owner,affordable|sea-view|gated-community,#e89071,4.6,False,rent
+PROP1423,Memory maybe.,Villa,39768221,Maharashtra,Nagpur,3207,5,3,garden|security|parking|power-backup|pool|gym,Furnished,2025-07-23,Builder,family-friendly|sea-view|affordable|luxury,#af5bce,2.0,False,rent
+PROP1424,Certain policy change both.,Apartment,39426711,Maharashtra,Mumbai,4004,4,5,parking|lift|gym|wifi|pool|clubhouse,Semi,2025-07-14,Owner,lake-view|near-metro|family-friendly|sea-view,#56f2dd,1.9,True,rent
+PROP1425,If black.,Studio,47180855,Karnataka,Mangalore,1869,3,4,gym|security|wifi,Semi,2025-10-15,Builder,gated-community|lake-view|sea-view|family-friendly,#7647a0,2.4,False,sale
+PROP1426,Boy beyond hold thousand various.,Penthouse,43161115,West Bengal,Kolkata,3272,3,1,clubhouse|lift|garden|pool|parking,Furnished,2025-06-09,Owner,corner-plot|family-friendly|affordable|gated-community,#e59a50,2.8,True,rent
+PROP1427,Produce stage bag skill money.,Apartment,31159833,West Bengal,Siliguri,1493,1,1,pool|clubhouse|garden|parking|security,Furnished,2025-08-29,Agent,near-metro|sea-view,#f84908,3.9,False,sale
+PROP1428,Until property after.,Villa,889829,Delhi,New Delhi,3044,6,4,lift|parking|clubhouse,Unfurnished,2025-11-22,Agent,near-metro|gated-community,#880602,1.0,True,sale
+PROP1429,Line skin understand.,Bungalow,33060916,West Bengal,Kolkata,1298,5,4,pool|garden|gym|clubhouse|parking|security,Furnished,2025-11-02,Builder,gated-community|affordable,#81f323,4.7,False,rent
+PROP1430,I treat cut.,Villa,44393302,Karnataka,Mysore,2047,4,3,pool|parking|clubhouse|security,Unfurnished,2025-07-26,Owner,family-friendly|corner-plot|luxury|affordable,#24c3d3,4.4,False,rent
+PROP1431,Professor at source.,Bungalow,23637363,Maharashtra,Nagpur,3070,6,4,wifi|security|gym|lift|garden,Furnished,2025-11-11,Owner,affordable|gated-community|luxury|sea-view,#dceb39,4.9,True,rent
+PROP1432,Commercial common discover person.,Penthouse,12189677,Tamil Nadu,Chennai,3046,5,4,power-backup|lift|garden,Furnished,2025-11-01,Agent,sea-view|corner-plot|family-friendly|lake-view,#23682e,2.6,True,rent
+PROP1433,Everyone type training keep apply.,Studio,20667047,Delhi,New Delhi,4694,5,5,power-backup|wifi|lift|pool|gym,Furnished,2025-10-23,Owner,family-friendly|near-metro|lake-view,#85110f,1.5,False,rent
+PROP1434,Begin long beat against.,Bungalow,41954055,Delhi,New Delhi,570,6,2,power-backup|security|lift|clubhouse|garden|pool,Furnished,2025-10-19,Builder,lake-view|near-metro|gated-community|corner-plot,#65a900,4.9,True,sale
+PROP1435,Him tonight.,Studio,34242604,Delhi,New Delhi,3282,3,4,parking|lift|gym|pool|power-backup,Unfurnished,2025-08-09,Agent,gated-community|luxury,#1adc27,1.5,False,sale
+PROP1436,Outside education stock take mean.,Studio,19612542,West Bengal,Kolkata,4719,1,5,lift|pool|security|clubhouse|parking|wifi,Furnished,2025-08-21,Builder,near-metro|luxury|lake-view|affordable,#3d12df,2.9,True,sale
+PROP1437,Majority event so chair.,Penthouse,27836822,Maharashtra,Nagpur,1646,2,5,parking|lift|gym,Semi,2025-11-05,Builder,corner-plot|affordable|lake-view|gated-community,#8b7673,4.3,True,rent
+PROP1438,Course mouth arrive.,Villa,12704690,Delhi,New Delhi,3140,3,1,lift|parking|security,Semi,2025-10-19,Agent,gated-community|lake-view,#56a433,3.6,False,rent
+PROP1439,Trade miss culture get.,Apartment,14960217,Maharashtra,Pune,2752,1,2,parking|power-backup|gym,Unfurnished,2025-08-17,Agent,gated-community|corner-plot|affordable,#2a8a48,1.2,False,rent
+PROP1440,Voice world major.,Studio,33948811,Tamil Nadu,Chennai,3131,4,2,clubhouse|parking|wifi|security,Unfurnished,2025-08-14,Agent,lake-view|affordable|gated-community|sea-view,#027570,4.1,True,rent
+PROP1441,Smile lead customer.,Bungalow,43010525,Tamil Nadu,Chennai,3334,4,3,lift|power-backup|garden|parking,Unfurnished,2025-08-19,Owner,corner-plot|lake-view|family-friendly,#8bfdee,3.8,False,sale
+PROP1442,Well week.,Penthouse,19666542,Tamil Nadu,Coimbatore,2625,2,2,gym|clubhouse|power-backup|security|parking,Furnished,2025-07-15,Agent,corner-plot|affordable|gated-community,#079a2b,4.6,True,rent
+PROP1443,Move rise network short.,Apartment,44890400,Karnataka,Bangalore,2964,4,2,clubhouse|gym|security|wifi,Unfurnished,2025-07-05,Owner,gated-community|family-friendly|luxury|sea-view,#676f8f,4.1,True,rent
+PROP1444,Those next moment.,Bungalow,13645599,Maharashtra,Nagpur,973,6,4,garden|parking|wifi|clubhouse|power-backup,Unfurnished,2025-08-27,Agent,corner-plot|luxury|family-friendly,#2bc02b,4.5,False,sale
+PROP1445,Nearly clearly sound part.,Bungalow,13406578,Gujarat,Surat,827,2,2,security|gym|clubhouse|wifi|garden|parking,Furnished,2025-08-07,Builder,luxury|near-metro|corner-plot,#e563d7,2.4,False,rent
+PROP1446,Generation central reason carry.,Penthouse,40416908,Gujarat,Vadodara,2153,5,2,gym|parking|pool|wifi|clubhouse,Furnished,2025-06-14,Agent,affordable|family-friendly|lake-view|sea-view,#bdaf4e,4.9,True,sale
+PROP1447,Including than create prevent condition.,Penthouse,17266929,Maharashtra,Pune,3128,1,3,pool|clubhouse|security|lift,Unfurnished,2025-11-10,Owner,lake-view|near-metro,#7913ef,2.4,False,rent
+PROP1448,Party late.,Apartment,22937670,Gujarat,Ahmedabad,4368,6,3,power-backup|pool|parking|wifi|lift,Unfurnished,2025-11-05,Builder,family-friendly|corner-plot,#9e3406,3.3,True,rent
+PROP1449,Career everyone catch responsibility work.,Apartment,13467316,Delhi,New Delhi,4680,2,3,pool|clubhouse|security|lift|wifi|power-backup,Furnished,2025-07-21,Builder,family-friendly|lake-view|gated-community|affordable,#7627da,3.1,True,sale
+PROP1450,Draw important piece believe.,Apartment,45239988,Gujarat,Ahmedabad,3857,6,1,lift|gym|wifi|clubhouse,Furnished,2025-08-28,Owner,affordable|lake-view|sea-view,#98186c,3.9,True,sale
+PROP1451,Expect single.,Bungalow,15407820,West Bengal,Kolkata,3194,2,2,lift|security|parking,Unfurnished,2025-10-02,Owner,luxury|affordable|family-friendly,#d3bd87,1.1,True,rent
+PROP1452,Large far half.,Penthouse,40316956,Gujarat,Surat,4537,4,5,garden|gym|security|wifi|lift|pool,Unfurnished,2025-11-18,Owner,sea-view|lake-view|near-metro|luxury,#61739f,1.6,False,sale
+PROP1453,Support through.,Penthouse,36277098,Maharashtra,Mumbai,2588,6,5,clubhouse|pool|wifi|parking|power-backup|lift,Unfurnished,2025-11-09,Agent,gated-community|luxury,#cfa256,3.4,True,sale
+PROP1454,Significant education mother someone throughout.,Studio,9892770,West Bengal,Siliguri,1959,6,3,clubhouse|pool|parking,Unfurnished,2025-11-13,Owner,affordable|sea-view|near-metro|luxury,#12f69c,2.1,True,sale
+PROP1455,Return authority.,Apartment,25725096,Karnataka,Bangalore,464,2,1,power-backup|wifi|pool|lift|gym|parking,Semi,2025-10-06,Owner,family-friendly|sea-view|corner-plot,#097d10,2.2,False,rent
+PROP1456,Film brother.,Villa,19821111,Maharashtra,Mumbai,454,4,5,clubhouse|garden|parking|gym|wifi|lift,Unfurnished,2025-08-14,Owner,sea-view|gated-community|family-friendly|corner-plot,#22a59a,3.8,False,sale
+PROP1457,Body easy vote life poor.,Villa,39318902,Tamil Nadu,Coimbatore,3612,5,5,garden|gym|security,Furnished,2025-10-27,Agent,near-metro|lake-view|gated-community|family-friendly,#e53056,3.6,False,rent
+PROP1458,Return sure religious hand material.,Apartment,37524308,Delhi,New Delhi,1857,6,3,parking|lift|power-backup|gym,Unfurnished,2025-06-10,Owner,luxury|sea-view|lake-view,#e1e4b7,4.3,True,sale
+PROP1459,Seat put.,Apartment,14777617,Gujarat,Vadodara,4364,4,5,lift|wifi|parking|garden|pool|power-backup,Semi,2025-10-31,Builder,corner-plot|gated-community,#ebddfd,3.9,True,rent
+PROP1460,Without enough.,Studio,7803239,West Bengal,Siliguri,3067,4,5,pool|lift|wifi|gym|power-backup,Semi,2025-09-02,Owner,sea-view|affordable|luxury,#587916,3.9,True,sale
+PROP1461,Attack film bed range.,Studio,43408992,Karnataka,Mysore,3813,4,3,lift|power-backup|security|pool|wifi,Semi,2025-11-12,Agent,affordable|near-metro|sea-view,#3d4d89,5.0,False,rent
+PROP1462,Fear arrive well that recognize.,Studio,33270454,Karnataka,Mysore,3058,1,3,wifi|security|lift|pool,Furnished,2025-09-02,Owner,lake-view|sea-view,#514527,2.0,True,sale
+PROP1463,Perform most piece.,Penthouse,34814779,Gujarat,Ahmedabad,1465,1,4,power-backup|pool|garden|clubhouse|parking|wifi,Semi,2025-10-31,Builder,luxury|lake-view,#7f17eb,3.5,False,rent
+PROP1464,Kitchen who general leg.,Bungalow,14677284,Gujarat,Vadodara,1267,6,4,garden|security|parking|gym|pool,Unfurnished,2025-11-13,Owner,affordable|family-friendly|corner-plot,#61a66f,2.3,False,rent
+PROP1465,Have score either.,Apartment,22699611,West Bengal,Siliguri,3180,4,5,gym|power-backup|clubhouse|wifi|pool|garden,Unfurnished,2025-07-12,Owner,family-friendly|gated-community,#8299be,3.8,False,sale
+PROP1466,Defense central.,Penthouse,27461982,West Bengal,Kolkata,4664,5,1,lift|gym|parking,Unfurnished,2025-08-12,Owner,luxury|corner-plot,#552f66,2.1,False,sale
+PROP1467,Mind at fast especially kind.,Studio,37088555,Maharashtra,Nagpur,3075,2,1,wifi|pool|security|parking|gym|lift,Semi,2025-06-19,Builder,lake-view|family-friendly|corner-plot,#a43519,1.6,False,rent
+PROP1468,Open drive ten trial.,Studio,977400,Maharashtra,Pune,646,1,3,security|lift|clubhouse|pool,Unfurnished,2025-09-19,Agent,sea-view|lake-view|affordable|near-metro,#d45444,1.2,True,sale
+PROP1469,Leave idea at before.,Apartment,44740746,West Bengal,Siliguri,2918,5,2,clubhouse|power-backup|pool|wifi,Furnished,2025-10-05,Builder,near-metro|lake-view|sea-view,#59a0f3,1.2,False,rent
+PROP1470,Action south rule appear fight.,Studio,12613816,Maharashtra,Mumbai,1433,6,1,lift|pool|security|garden,Unfurnished,2025-07-01,Owner,family-friendly|affordable|corner-plot,#54fbae,3.0,True,rent
+PROP1471,Assume special eat gas fact.,Bungalow,23330110,Tamil Nadu,Madurai,3173,6,4,wifi|gym|security|parking|pool,Furnished,2025-10-28,Builder,near-metro|luxury|gated-community,#f9f00c,3.0,True,sale
+PROP1472,Use upon market.,Bungalow,25929177,Delhi,New Delhi,1155,1,2,wifi|pool|security|power-backup|clubhouse,Semi,2025-10-29,Builder,family-friendly|gated-community|corner-plot|lake-view,#507195,1.8,False,sale
+PROP1473,Half possible final.,Studio,10171749,Karnataka,Bangalore,2739,2,2,power-backup|parking|wifi,Furnished,2025-07-12,Owner,sea-view|corner-plot|luxury|near-metro,#087eb3,1.5,False,sale
+PROP1474,Happy over car.,Villa,39301788,Tamil Nadu,Coimbatore,4287,2,4,garden|wifi|security,Furnished,2025-11-02,Agent,affordable|near-metro|luxury|sea-view,#356eb2,4.0,True,rent
+PROP1475,Hear story.,Studio,760916,Delhi,New Delhi,3265,1,3,security|gym|wifi|parking|garden|clubhouse,Furnished,2025-09-04,Agent,family-friendly|near-metro,#9bb5af,4.9,True,rent
+PROP1476,Actually finally leave.,Apartment,35583574,Tamil Nadu,Chennai,668,4,1,power-backup|parking|clubhouse|security|pool|gym,Semi,2025-11-10,Agent,near-metro|lake-view|sea-view,#0d0745,4.2,True,rent
+PROP1477,Relationship particular letter small.,Studio,6036048,Maharashtra,Pune,2362,1,3,garden|pool|security,Unfurnished,2025-11-04,Owner,family-friendly|near-metro|luxury,#d5b0c3,3.2,False,rent
+PROP1478,Might ground effect down.,Apartment,14856551,Tamil Nadu,Madurai,2245,5,2,garden|lift|parking,Unfurnished,2025-10-03,Owner,corner-plot|family-friendly|affordable,#cc715b,4.2,True,rent
+PROP1479,Fill project glass.,Bungalow,27912404,Karnataka,Bangalore,3455,2,4,lift|garden|wifi|gym|pool|security,Semi,2025-11-21,Owner,gated-community|lake-view,#618506,2.5,True,rent
+PROP1480,Management note including week.,Villa,3505551,Tamil Nadu,Madurai,4004,2,3,power-backup|lift|parking|clubhouse|pool,Semi,2025-11-08,Agent,family-friendly|luxury|gated-community|corner-plot,#9970df,4.6,True,sale
+PROP1481,Popular list force staff.,Villa,11448105,Delhi,New Delhi,3603,2,4,wifi|lift|clubhouse,Furnished,2025-06-05,Owner,luxury|affordable|family-friendly,#197587,2.6,False,rent
+PROP1482,Popular address friend east.,Studio,35460133,West Bengal,Siliguri,2850,2,1,security|gym|garden,Unfurnished,2025-08-29,Agent,lake-view|family-friendly,#f63fa8,3.3,True,sale
+PROP1483,He water.,Studio,25501389,Karnataka,Mangalore,1497,3,4,lift|parking|power-backup|garden|gym,Furnished,2025-11-01,Agent,affordable|near-metro|luxury|gated-community,#a06c92,1.8,False,sale
+PROP1484,Former ball.,Penthouse,36577866,Delhi,New Delhi,668,5,2,gym|lift|security|power-backup,Unfurnished,2025-10-30,Agent,sea-view|gated-community|corner-plot,#39bcca,3.8,True,sale
+PROP1485,Far less ever.,Studio,7332905,West Bengal,Siliguri,1329,6,2,pool|power-backup|wifi|gym|security|lift,Unfurnished,2025-06-26,Agent,luxury|affordable|family-friendly,#c19659,1.0,True,sale
+PROP1486,Amount look book six.,Apartment,29930603,Gujarat,Ahmedabad,2787,5,2,lift|garden|wifi|pool|security|clubhouse,Furnished,2025-07-16,Builder,lake-view|affordable|sea-view|near-metro,#4d9ca8,4.6,True,rent
+PROP1487,Minute sport individual.,Bungalow,39721609,Maharashtra,Nagpur,4352,1,5,gym|garden|pool|wifi,Semi,2025-08-31,Builder,luxury|affordable|near-metro,#0fd404,2.3,False,rent
+PROP1488,Unit hope vote candidate.,Apartment,40142688,Maharashtra,Mumbai,3316,3,2,power-backup|parking|security|pool|garden,Semi,2025-08-23,Owner,lake-view|luxury|sea-view|corner-plot,#81e45f,2.7,True,rent
+PROP1489,Dark born seat evening.,Penthouse,38077850,Gujarat,Vadodara,4057,3,3,parking|garden|pool|security,Semi,2025-06-06,Owner,near-metro|luxury|affordable,#4dfbb8,3.1,False,sale
+PROP1490,Step enter vote.,Penthouse,11326968,Tamil Nadu,Chennai,2638,4,5,parking|garden|gym|clubhouse|pool,Semi,2025-11-20,Agent,sea-view|corner-plot|near-metro|affordable,#397de1,4.5,False,rent
+PROP1491,Necessary which range environment.,Bungalow,19285353,Tamil Nadu,Madurai,1868,1,5,security|lift|garden,Unfurnished,2025-09-09,Agent,sea-view|lake-view|luxury|gated-community,#b0a936,3.4,False,rent
+PROP1492,Morning whole home.,Studio,28439460,West Bengal,Siliguri,596,5,1,security|parking|garden|power-backup|pool,Unfurnished,2025-06-23,Agent,near-metro|sea-view|family-friendly,#5fd740,3.1,True,rent
+PROP1493,Thus theory forward.,Penthouse,30449682,Gujarat,Ahmedabad,2799,2,3,security|gym|power-backup|garden|clubhouse,Semi,2025-06-22,Builder,luxury|corner-plot|near-metro,#543cd8,3.2,False,sale
+PROP1494,Ground body performance.,Apartment,32164317,Delhi,New Delhi,1956,3,3,security|clubhouse|lift|gym|wifi,Furnished,2025-06-05,Builder,gated-community|sea-view,#446758,3.8,False,sale
+PROP1495,Particular bed expect land practice.,Apartment,24833762,West Bengal,Kolkata,1045,4,1,lift|gym|power-backup|clubhouse|parking,Unfurnished,2025-10-12,Builder,near-metro|sea-view|affordable|corner-plot,#7a0a34,4.7,False,sale
+PROP1496,Feel his then history list.,Apartment,6023638,Maharashtra,Pune,3137,5,1,garden|pool|clubhouse|power-backup|gym|wifi,Unfurnished,2025-07-07,Builder,lake-view|corner-plot|family-friendly|luxury,#235681,3.5,True,sale
+PROP1497,Kid glass prevent contain.,Bungalow,26682062,Tamil Nadu,Coimbatore,4454,2,1,lift|wifi|pool|garden,Unfurnished,2025-10-22,Agent,corner-plot|lake-view,#cb3f24,2.4,True,sale
+PROP1498,Note around until call.,Penthouse,44875572,West Bengal,Siliguri,2820,6,4,parking|pool|security|clubhouse,Semi,2025-09-29,Agent,sea-view|affordable|corner-plot,#1bc323,3.2,True,rent
+PROP1499,Edge citizen.,Apartment,34308700,Maharashtra,Pune,2646,3,3,parking|wifi|lift|clubhouse|garden|security,Furnished,2025-11-02,Agent,gated-community|sea-view|affordable,#fe227c,3.1,False,sale
+PROP1500,Even toward can writer.,Penthouse,22661176,Maharashtra,Mumbai,1459,4,1,clubhouse|power-backup|wifi|pool|gym|security,Semi,2025-07-15,Builder,near-metro|gated-community,#2c8901,3.0,True,sale
+PROP1501,Performance involve site appear.,Studio,35798798,Tamil Nadu,Chennai,4796,4,2,wifi|garden|lift|security,Unfurnished,2025-11-16,Agent,near-metro|lake-view|corner-plot,#85e6f7,2.0,False,sale
+PROP1502,Far walk surface.,Penthouse,16914003,Delhi,New Delhi,1621,2,4,power-backup|wifi|parking|security|lift,Furnished,2025-06-20,Builder,luxury|gated-community|sea-view|family-friendly,#d95af5,3.2,True,rent
+PROP1503,Mission western city entire have.,Apartment,14048817,Delhi,New Delhi,3588,3,3,clubhouse|security|lift,Semi,2025-07-22,Builder,near-metro|corner-plot|affordable|family-friendly,#03cf68,1.8,True,sale
+PROP1504,Decade great expect maybe.,Studio,14354385,Maharashtra,Pune,3610,6,1,wifi|parking|gym|security,Semi,2025-07-06,Owner,luxury|gated-community|family-friendly,#33ae9d,1.3,True,sale
+PROP1505,Standard direction drop sort make.,Penthouse,28843535,West Bengal,Kolkata,4084,1,5,power-backup|pool|security,Furnished,2025-11-10,Builder,luxury|near-metro,#35297e,1.3,True,rent
+PROP1506,Great write the through both.,Studio,15918411,West Bengal,Siliguri,3900,2,5,power-backup|clubhouse|garden|security|pool|lift,Furnished,2025-08-31,Agent,affordable|luxury,#888f58,1.2,True,rent
+PROP1507,Whole body.,Penthouse,45566946,West Bengal,Kolkata,2036,2,2,pool|power-backup|security,Furnished,2025-08-25,Owner,lake-view|affordable,#8caa08,2.3,True,rent
+PROP1508,Group reach black quite system.,Villa,44051590,Delhi,New Delhi,2431,5,3,pool|lift|power-backup|security|parking,Semi,2025-11-17,Agent,family-friendly|sea-view|near-metro|affordable,#f104f2,2.7,True,rent
+PROP1509,Appear PM thus lead.,Bungalow,44622827,Tamil Nadu,Coimbatore,1806,2,3,parking|clubhouse|wifi|gym,Semi,2025-09-21,Owner,affordable|family-friendly|corner-plot|lake-view,#9bb9de,1.5,False,sale
+PROP1510,Firm discussion agent appear.,Bungalow,21783933,Maharashtra,Pune,3460,6,1,parking|garden|pool|lift,Furnished,2025-06-19,Owner,near-metro|sea-view|affordable,#066c53,4.9,True,sale
+PROP1511,Necessary fly create letter measure.,Villa,25828122,Maharashtra,Nagpur,4174,1,3,lift|clubhouse|power-backup|pool|parking,Furnished,2025-08-21,Builder,lake-view|gated-community|family-friendly,#a189b6,2.4,True,rent
+PROP1512,Arm whatever mean himself family.,Bungalow,3441686,Maharashtra,Nagpur,2421,1,4,pool|gym|lift|wifi|power-backup|security,Unfurnished,2025-08-14,Agent,near-metro|affordable|lake-view,#2cbfeb,2.4,True,sale
+PROP1513,Rather far large so your.,Studio,49938673,Karnataka,Bangalore,3277,5,4,security|wifi|clubhouse,Unfurnished,2025-07-30,Owner,affordable|gated-community|corner-plot,#d67199,3.7,False,rent
+PROP1514,Fund past bad top.,Bungalow,12965428,Maharashtra,Nagpur,1180,5,4,lift|wifi|gym|security,Semi,2025-11-07,Builder,gated-community|corner-plot|sea-view,#35c1d9,2.2,False,sale
+PROP1515,Per yeah election.,Villa,47791642,Tamil Nadu,Madurai,2429,5,1,lift|security|parking|garden,Furnished,2025-09-10,Builder,sea-view|gated-community|corner-plot,#c9ced8,3.4,False,rent
+PROP1516,Single program leg.,Villa,23733786,Delhi,New Delhi,1030,3,5,security|parking|lift|garden|clubhouse,Unfurnished,2025-10-17,Owner,lake-view|corner-plot,#1fd206,4.3,True,rent
+PROP1517,Star he several play good.,Studio,44107770,Gujarat,Vadodara,2675,2,1,lift|power-backup|security,Unfurnished,2025-11-06,Owner,luxury|corner-plot,#8583f4,1.4,False,sale
+PROP1518,Perhaps serious tree interest.,Apartment,42185589,Tamil Nadu,Madurai,4143,5,5,security|wifi|lift|gym|parking|garden,Semi,2025-11-16,Builder,near-metro|luxury|gated-community|family-friendly,#096519,3.8,True,sale
+PROP1519,Production agent miss.,Penthouse,20590218,Karnataka,Mysore,4792,1,4,gym|clubhouse|pool,Semi,2025-06-19,Builder,family-friendly|affordable|lake-view|corner-plot,#70d4ca,4.5,True,sale
+PROP1520,Blue at sign suffer add.,Studio,34892796,Gujarat,Vadodara,4914,2,3,pool|gym|wifi|parking|security|lift,Semi,2025-06-21,Builder,corner-plot|gated-community|luxury,#eb1d1d,2.5,False,rent
+PROP1521,Bit fast local world.,Apartment,23071094,Gujarat,Vadodara,4316,4,2,pool|power-backup|parking|clubhouse|lift,Semi,2025-08-05,Builder,near-metro|corner-plot,#1b4af0,2.7,False,sale
+PROP1522,Energy shake resource throw fall.,Bungalow,13559323,Karnataka,Mangalore,3632,6,2,power-backup|clubhouse|security|gym,Unfurnished,2025-10-29,Builder,sea-view|lake-view|near-metro|affordable,#017134,4.0,False,sale
+PROP1523,Cost song community nation.,Penthouse,21590767,Gujarat,Vadodara,3209,4,2,pool|garden|gym|power-backup|security,Semi,2025-09-30,Agent,sea-view|luxury|lake-view,#ce752a,2.0,False,sale
+PROP1524,Analysis court take.,Penthouse,47399091,Karnataka,Mangalore,4805,1,5,garden|clubhouse|parking|wifi,Unfurnished,2025-06-21,Owner,near-metro|gated-community|luxury,#8ebb02,4.4,False,rent
+PROP1525,Push class rise.,Apartment,48119139,Tamil Nadu,Madurai,1526,6,5,wifi|pool|gym|parking,Unfurnished,2025-07-15,Agent,near-metro|affordable,#98cc7f,4.3,False,sale
+PROP1526,Share will indeed specific.,Apartment,14671818,Tamil Nadu,Coimbatore,3802,3,1,gym|pool|power-backup|clubhouse|parking|garden,Semi,2025-09-15,Agent,gated-community|family-friendly,#898f9b,3.4,False,rent
+PROP1527,News office model appear.,Apartment,37488358,Gujarat,Ahmedabad,1037,3,5,gym|lift|pool,Semi,2025-06-05,Agent,family-friendly|affordable|gated-community|near-metro,#a53edd,2.4,False,sale
+PROP1528,Morning fund happen though audience.,Villa,25070299,West Bengal,Kolkata,2768,1,3,power-backup|security|garden|parking|clubhouse|lift,Furnished,2025-10-16,Agent,near-metro|sea-view|gated-community|family-friendly,#8cc3ae,4.2,True,rent
+PROP1529,Tonight until Mrs parent.,Bungalow,10922683,Delhi,New Delhi,699,5,2,security|wifi|clubhouse|gym|power-backup,Furnished,2025-09-23,Builder,family-friendly|sea-view|gated-community,#bcae33,1.1,True,sale
+PROP1530,Brother often.,Villa,34227022,Tamil Nadu,Chennai,2547,3,2,gym|lift|clubhouse|security|garden,Semi,2025-10-01,Owner,affordable|sea-view|family-friendly,#513fc7,1.1,False,rent
+PROP1531,Two among painting seven.,Villa,18344266,Gujarat,Ahmedabad,4539,6,1,wifi|security|garden,Unfurnished,2025-07-24,Owner,gated-community|corner-plot|affordable|lake-view,#c06a62,4.1,True,rent
+PROP1532,How understand tough window activity.,Villa,33406147,Delhi,New Delhi,1958,3,5,gym|security|lift|garden,Unfurnished,2025-11-07,Owner,lake-view|luxury|affordable,#549bf9,4.1,False,sale
+PROP1533,Sell myself movie other some.,Bungalow,46910357,Delhi,New Delhi,3869,2,3,clubhouse|wifi|garden,Unfurnished,2025-09-13,Builder,sea-view|affordable|luxury,#a0799a,1.8,True,rent
+PROP1534,Finish draw resource.,Apartment,6567194,Gujarat,Vadodara,1147,1,2,power-backup|pool|garden|gym,Unfurnished,2025-07-03,Agent,luxury|affordable|near-metro,#d3ce27,4.7,False,rent
+PROP1535,Activity car pretty.,Apartment,39360673,Delhi,New Delhi,4239,2,5,power-backup|garden|lift|wifi|parking,Unfurnished,2025-07-09,Builder,gated-community|luxury|sea-view,#7d8ab9,4.8,False,sale
+PROP1536,Hand soon former whom.,Studio,39655479,Delhi,New Delhi,655,5,1,pool|garden|wifi,Furnished,2025-11-16,Agent,corner-plot|sea-view|near-metro,#742cd3,4.7,False,rent
+PROP1537,Reveal since hot.,Studio,43452021,West Bengal,Kolkata,3585,3,1,power-backup|security|lift|parking|pool,Furnished,2025-10-13,Agent,affordable|sea-view,#c992e4,4.8,False,sale
+PROP1538,The though.,Studio,43443389,Maharashtra,Nagpur,919,4,4,security|power-backup|parking|wifi,Semi,2025-07-17,Builder,luxury|lake-view|family-friendly|affordable,#bcb369,2.7,True,rent
+PROP1539,Step audience.,Bungalow,44744656,Karnataka,Mangalore,3508,3,3,gym|power-backup|parking,Furnished,2025-06-11,Builder,near-metro|lake-view|sea-view|corner-plot,#cbed39,1.6,True,rent
+PROP1540,Child whether likely expect.,Penthouse,12202957,Karnataka,Bangalore,1719,1,4,parking|lift|garden,Unfurnished,2025-11-09,Owner,affordable|gated-community|family-friendly,#96cd41,3.1,False,sale
+PROP1541,Future test.,Apartment,36795490,Maharashtra,Mumbai,741,3,1,security|power-backup|clubhouse,Semi,2025-09-07,Builder,gated-community|corner-plot|family-friendly|lake-view,#bc1f88,3.5,False,rent
+PROP1542,Method choose someone.,Penthouse,9037541,Delhi,New Delhi,3918,4,2,pool|parking|security|garden,Unfurnished,2025-10-06,Owner,affordable|near-metro|family-friendly|corner-plot,#f07a21,3.6,True,sale
+PROP1543,Experience late much right.,Penthouse,6800122,Maharashtra,Nagpur,2394,5,5,wifi|pool|gym|security,Unfurnished,2025-09-27,Owner,corner-plot|sea-view|gated-community,#5c2005,3.2,False,rent
+PROP1544,Will professor couple.,Villa,39125522,Tamil Nadu,Madurai,1758,4,2,lift|power-backup|gym|parking|security,Unfurnished,2025-11-13,Builder,affordable|family-friendly,#2ab1c5,2.1,False,sale
+PROP1545,Television late major buy.,Villa,24770680,Gujarat,Surat,1745,5,4,pool|power-backup|wifi|lift|gym|clubhouse,Furnished,2025-07-23,Owner,corner-plot|sea-view|luxury|gated-community,#9701d3,3.4,False,sale
+PROP1546,Cost police.,Bungalow,15738502,Karnataka,Mysore,4195,1,4,wifi|pool|parking|garden|power-backup,Unfurnished,2025-08-15,Owner,near-metro|sea-view|family-friendly|lake-view,#b2621f,2.3,False,sale
+PROP1547,Enter woman store local.,Studio,31228604,Karnataka,Mangalore,3938,2,3,security|clubhouse|gym,Semi,2025-08-13,Owner,near-metro|gated-community|corner-plot|sea-view,#832678,4.8,True,sale
+PROP1548,Hold arrive police adult.,Studio,41058345,Karnataka,Bangalore,1098,2,4,power-backup|security|pool|garden|clubhouse|lift,Semi,2025-08-31,Owner,corner-plot|luxury|sea-view|gated-community,#1335ab,2.7,False,rent
+PROP1549,Key seat create visit class.,Studio,29729256,West Bengal,Kolkata,1583,3,1,wifi|security|parking|gym,Furnished,2025-06-14,Owner,affordable|family-friendly|gated-community|sea-view,#49d318,2.0,False,sale
+PROP1550,Improve morning son white.,Apartment,12574380,Karnataka,Mangalore,888,3,5,pool|power-backup|wifi|parking,Semi,2025-08-07,Builder,sea-view|lake-view|affordable|luxury,#157e0a,2.9,False,rent
+PROP1551,Threat store sister.,Penthouse,16160620,Gujarat,Ahmedabad,2866,2,4,lift|power-backup|parking|pool,Semi,2025-11-12,Builder,affordable|gated-community|lake-view|sea-view,#8a929b,3.7,True,rent
+PROP1552,Reach body news.,Penthouse,45517406,West Bengal,Kolkata,4389,3,3,gym|security|lift|garden|wifi|clubhouse,Furnished,2025-06-21,Owner,luxury|lake-view,#938f6a,1.4,True,rent
+PROP1553,Family mother produce.,Villa,23604948,Gujarat,Ahmedabad,1749,2,5,wifi|power-backup|pool,Semi,2025-06-19,Owner,sea-view|affordable|luxury|corner-plot,#953fd9,1.2,True,sale
+PROP1554,Remember including hit trade already.,Penthouse,47728487,Maharashtra,Mumbai,4009,2,5,clubhouse|security|parking,Semi,2025-10-18,Builder,affordable|corner-plot,#db54c6,2.1,False,rent
+PROP1555,Peace behavior near.,Studio,41442771,Karnataka,Bangalore,4542,5,3,lift|clubhouse|power-backup|pool|gym|parking,Semi,2025-08-12,Builder,lake-view|near-metro,#acc099,1.4,True,sale
+PROP1556,Cause guy his able.,Apartment,6227185,Maharashtra,Nagpur,3326,2,1,power-backup|garden|clubhouse,Furnished,2025-08-08,Owner,corner-plot|gated-community|luxury,#ad1df7,3.8,False,rent
+PROP1557,Listen parent matter.,Studio,26277040,Maharashtra,Pune,4431,4,5,garden|lift|clubhouse|gym|power-backup,Unfurnished,2025-07-21,Builder,near-metro|affordable|family-friendly,#88f7ce,3.6,False,rent
+PROP1558,Statement break step one.,Apartment,23090388,Delhi,New Delhi,3641,2,2,wifi|lift|gym|garden|pool,Furnished,2025-11-19,Builder,sea-view|affordable|family-friendly|luxury,#8da878,2.7,True,rent
+PROP1559,Two go future simple.,Villa,10293880,Delhi,New Delhi,1669,6,5,gym|pool|clubhouse,Furnished,2025-10-11,Agent,luxury|affordable|family-friendly|gated-community,#342682,2.6,True,sale
+PROP1560,Term represent radio project.,Apartment,36044907,Karnataka,Bangalore,770,4,1,wifi|pool|clubhouse|garden,Unfurnished,2025-11-17,Builder,lake-view|gated-community,#c6754a,1.2,False,sale
+PROP1561,Blue couple.,Villa,686856,Gujarat,Vadodara,1313,1,2,gym|lift|garden|pool|clubhouse|wifi,Furnished,2025-10-29,Builder,family-friendly|gated-community|lake-view,#7c075a,3.7,False,sale
+PROP1562,Medical forward all.,Bungalow,1738081,Gujarat,Vadodara,4331,3,2,power-backup|wifi|garden|lift|security|parking,Furnished,2025-06-23,Agent,near-metro|gated-community|corner-plot|luxury,#0aab8a,3.8,True,rent
+PROP1563,Month trouble himself significant.,Penthouse,30858710,Maharashtra,Mumbai,601,3,5,power-backup|clubhouse|pool|lift|gym|parking,Semi,2025-10-07,Owner,corner-plot|affordable,#228af3,3.6,True,rent
+PROP1564,How all method something.,Studio,15065703,Delhi,New Delhi,2482,4,4,pool|parking|clubhouse|security|gym|power-backup,Semi,2025-10-10,Agent,sea-view|gated-community|family-friendly,#210364,4.8,True,sale
+PROP1565,Despite somebody.,Bungalow,25864447,Gujarat,Vadodara,1770,4,1,gym|wifi|garden,Unfurnished,2025-07-09,Owner,sea-view|gated-community|lake-view,#a2febf,3.3,False,sale
+PROP1566,Vote today other.,Bungalow,9492062,Karnataka,Mysore,1364,1,2,wifi|gym|security,Unfurnished,2025-08-01,Owner,family-friendly|luxury|near-metro,#f00b2f,3.8,False,rent
+PROP1567,Argue us.,Studio,13722332,Tamil Nadu,Chennai,3201,2,4,pool|security|lift|garden|power-backup,Furnished,2025-07-12,Owner,sea-view|family-friendly|near-metro|lake-view,#a7b9f8,2.5,False,sale
+PROP1568,Around serious imagine.,Apartment,2961336,Maharashtra,Pune,1983,1,1,garden|parking|gym|wifi,Furnished,2025-07-21,Owner,corner-plot|family-friendly|near-metro|luxury,#2d64db,1.7,True,rent
+PROP1569,Expert above director check community.,Villa,39832914,Maharashtra,Pune,3216,5,5,power-backup|clubhouse|parking|security|garden,Semi,2025-06-23,Owner,gated-community|lake-view,#12e691,2.5,True,rent
+PROP1570,Degree deal fish she.,Apartment,9473909,Gujarat,Ahmedabad,2492,5,3,pool|security|wifi|parking|lift,Semi,2025-07-29,Builder,corner-plot|luxury|sea-view|gated-community,#bf5ace,1.6,False,rent
+PROP1571,Fact follow agent be.,Apartment,49595961,Maharashtra,Nagpur,3735,2,5,garden|clubhouse|pool|power-backup|lift,Furnished,2025-09-17,Builder,affordable|luxury|corner-plot,#b95719,3.9,True,sale
+PROP1572,Who arrive year culture full.,Studio,32059382,Maharashtra,Pune,4342,6,2,garden|clubhouse|parking|gym,Semi,2025-09-26,Agent,lake-view|corner-plot|affordable|family-friendly,#5b24d9,3.1,True,rent
+PROP1573,Back them.,Bungalow,37964235,Karnataka,Mysore,2193,6,2,pool|parking|lift|security|wifi,Unfurnished,2025-09-25,Builder,family-friendly|affordable,#489aaf,1.7,False,sale
+PROP1574,High loss chair.,Bungalow,41533064,Delhi,New Delhi,1686,6,2,power-backup|garden|security|gym,Unfurnished,2025-10-13,Owner,affordable|luxury|sea-view|near-metro,#103977,3.7,True,rent
+PROP1575,Off part.,Penthouse,3993585,West Bengal,Siliguri,1334,6,2,power-backup|gym|garden,Semi,2025-09-07,Agent,sea-view|affordable|corner-plot|family-friendly,#19caa0,1.3,True,sale
+PROP1576,Notice Republican Republican become positive.,Penthouse,18143910,Gujarat,Ahmedabad,2081,2,3,pool|clubhouse|lift|garden,Unfurnished,2025-11-14,Owner,affordable|sea-view|gated-community,#7416c1,4.0,True,sale
+PROP1577,Born beautiful woman health account.,Studio,39037104,Tamil Nadu,Chennai,4181,5,2,garden|clubhouse|pool,Unfurnished,2025-09-24,Agent,corner-plot|luxury,#71a567,3.7,False,sale
+PROP1578,Back usually far.,Studio,37547400,Karnataka,Mangalore,760,6,4,power-backup|lift|gym|parking|security|clubhouse,Semi,2025-07-07,Builder,sea-view|corner-plot,#9883c2,1.4,False,sale
+PROP1579,New matter ready bag.,Apartment,25149846,Tamil Nadu,Chennai,3561,2,2,parking|pool|wifi|gym|security,Semi,2025-08-24,Agent,gated-community|corner-plot|near-metro|lake-view,#e20fba,1.4,True,sale
+PROP1580,Team society down.,Bungalow,47464598,Gujarat,Surat,415,2,4,garden|lift|power-backup|clubhouse,Semi,2025-06-14,Builder,family-friendly|gated-community,#bd512f,4.0,True,sale
+PROP1581,Participant matter kid could.,Penthouse,33384880,Tamil Nadu,Chennai,1339,4,2,clubhouse|wifi|lift|garden,Unfurnished,2025-08-27,Builder,corner-plot|sea-view|affordable|lake-view,#09d4f1,4.9,False,rent
+PROP1582,Whose idea.,Bungalow,44764299,Karnataka,Bangalore,2458,3,2,pool|wifi|garden,Unfurnished,2025-06-16,Owner,affordable|gated-community|luxury,#a231fa,3.6,True,rent
+PROP1583,Trouble long unit.,Apartment,20188253,Delhi,New Delhi,512,6,3,garden|wifi|security|parking,Unfurnished,2025-08-03,Builder,family-friendly|sea-view|corner-plot,#254e97,1.2,False,rent
+PROP1584,Including story red trade.,Studio,1868760,West Bengal,Siliguri,1973,1,4,power-backup|wifi|parking,Furnished,2025-09-16,Agent,affordable|gated-community|sea-view,#29ee1f,2.0,False,rent
+PROP1585,Certain available vote eight.,Penthouse,17800657,Karnataka,Bangalore,1110,2,1,clubhouse|lift|parking|garden|power-backup|gym,Semi,2025-07-13,Builder,lake-view|affordable|near-metro,#805d34,3.3,True,rent
+PROP1586,Its evidence rock build road.,Bungalow,37636974,Delhi,New Delhi,502,5,5,gym|power-backup|lift|wifi|parking,Furnished,2025-06-29,Builder,near-metro|lake-view,#2c370a,3.6,True,rent
+PROP1587,Get per rise energy.,Penthouse,4401490,Tamil Nadu,Madurai,4278,6,4,power-backup|parking|garden|gym,Unfurnished,2025-07-24,Agent,gated-community|affordable|family-friendly|corner-plot,#b41f85,2.6,True,sale
+PROP1588,Better agree bring force left.,Apartment,26824979,Gujarat,Ahmedabad,1986,3,5,clubhouse|security|wifi|lift|garden,Furnished,2025-09-23,Builder,corner-plot|gated-community|family-friendly,#8e6f0c,4.7,True,rent
+PROP1589,Probably as modern.,Studio,32448547,Gujarat,Surat,575,3,2,parking|wifi|garden|lift|power-backup,Semi,2025-09-04,Agent,sea-view|lake-view|affordable,#6970cf,2.0,False,rent
+PROP1590,Performance skill go interview man.,Bungalow,5846468,Tamil Nadu,Chennai,3542,5,5,pool|clubhouse|security,Furnished,2025-08-20,Agent,sea-view|corner-plot|gated-community|family-friendly,#470102,3.5,False,sale
+PROP1591,Ago same.,Studio,33209832,Tamil Nadu,Chennai,2286,6,2,pool|lift|parking|garden|security,Furnished,2025-11-19,Agent,affordable|sea-view|family-friendly|gated-community,#74639c,4.2,False,sale
+PROP1592,Enough trade effect.,Villa,14204492,Gujarat,Vadodara,1077,2,3,parking|power-backup|gym,Semi,2025-08-03,Agent,sea-view|gated-community,#73d681,3.8,True,sale
+PROP1593,Crime tree box seven hour.,Apartment,46806516,Gujarat,Ahmedabad,4752,6,1,gym|pool|clubhouse|power-backup|security,Furnished,2025-08-03,Agent,near-metro|luxury,#f8cb5e,3.5,False,sale
+PROP1594,Beat area notice.,Bungalow,16914110,Maharashtra,Nagpur,3274,3,1,gym|garden|security|pool|power-backup,Furnished,2025-11-15,Owner,near-metro|lake-view|luxury|family-friendly,#a73107,4.0,False,rent
+PROP1595,Prevent laugh own face bad.,Apartment,7951279,Delhi,New Delhi,4908,3,2,security|garden|power-backup,Furnished,2025-11-20,Agent,sea-view|near-metro,#7d7fa0,2.1,False,sale
+PROP1596,Professional program.,Penthouse,7301176,Gujarat,Vadodara,4874,3,4,lift|security|clubhouse|garden|gym,Furnished,2025-07-31,Owner,corner-plot|lake-view,#9c3736,3.1,True,rent
+PROP1597,Common scientist with.,Penthouse,6428474,Delhi,New Delhi,1148,2,3,garden|lift|clubhouse|power-backup|pool|wifi,Furnished,2025-11-09,Owner,family-friendly|affordable|corner-plot|gated-community,#900423,3.3,False,sale
+PROP1598,None hour improve real.,Villa,15200098,Tamil Nadu,Chennai,913,2,2,garden|parking|lift|gym|security|wifi,Furnished,2025-07-06,Owner,corner-plot|luxury,#e2c71e,2.8,True,sale
+PROP1599,Natural talk mention test.,Villa,30666380,Maharashtra,Nagpur,3042,5,4,lift|clubhouse|pool|garden|security|parking,Semi,2025-07-09,Owner,near-metro|corner-plot,#c3c4e2,1.1,True,sale
+PROP1600,However rise season better.,Apartment,44785207,Gujarat,Ahmedabad,3063,6,1,security|power-backup|garden|parking|clubhouse|wifi,Furnished,2025-08-25,Agent,family-friendly|corner-plot,#bd1194,2.0,False,sale
+PROP1601,Thank people blood.,Penthouse,4794551,West Bengal,Siliguri,1699,5,2,parking|security|clubhouse,Furnished,2025-10-04,Owner,lake-view|sea-view|luxury|near-metro,#0eac76,1.9,False,rent
+PROP1602,Benefit anyone sort clearly wall.,Penthouse,15674996,Gujarat,Surat,4325,5,3,gym|pool|security|garden|wifi|clubhouse,Furnished,2025-06-19,Agent,luxury|gated-community|sea-view,#72a95e,1.9,False,sale
+PROP1603,World organization continue.,Villa,34947148,Gujarat,Ahmedabad,1562,5,1,gym|power-backup|garden|lift,Unfurnished,2025-07-06,Builder,near-metro|corner-plot|gated-community,#627748,4.4,True,sale
+PROP1604,Skill share remain free.,Villa,24355380,Karnataka,Bangalore,4901,3,5,pool|wifi|gym|power-backup,Unfurnished,2025-08-19,Owner,sea-view|affordable|lake-view,#1e8e8e,2.6,True,rent
+PROP1605,Maintain big increase.,Penthouse,48169001,West Bengal,Kolkata,2943,5,4,lift|security|clubhouse|power-backup|wifi|garden,Furnished,2025-08-20,Builder,corner-plot|gated-community|lake-view|affordable,#34169f,2.2,True,rent
+PROP1606,Game ask bill personal high.,Villa,36819280,Delhi,New Delhi,3331,4,1,wifi|clubhouse|power-backup|pool|garden|parking,Unfurnished,2025-09-18,Owner,family-friendly|sea-view|lake-view|luxury,#43a2cd,1.7,False,sale
+PROP1607,Who or conference able.,Villa,17276948,Gujarat,Surat,2708,2,1,gym|lift|clubhouse|wifi|pool,Semi,2025-09-17,Builder,gated-community|sea-view,#ed4026,3.0,False,sale
+PROP1608,Dark subject.,Villa,40524417,Gujarat,Ahmedabad,2124,2,2,clubhouse|security|gym,Furnished,2025-10-29,Builder,corner-plot|sea-view,#1a6e6b,5.0,False,rent
+PROP1609,See do tell should billion.,Apartment,4859262,Delhi,New Delhi,3182,1,1,power-backup|garden|gym|lift,Unfurnished,2025-08-26,Builder,family-friendly|gated-community|sea-view,#3490ff,2.3,True,rent
+PROP1610,New career degree serve work.,Penthouse,49510437,Gujarat,Ahmedabad,3365,1,4,garden|wifi|power-backup|clubhouse|lift,Unfurnished,2025-11-20,Builder,gated-community|luxury|sea-view|lake-view,#6f242d,1.3,False,sale
+PROP1611,Material hear reality.,Studio,28569371,Tamil Nadu,Coimbatore,535,3,3,clubhouse|parking|garden|gym|lift,Semi,2025-07-03,Agent,luxury|gated-community|corner-plot,#9f2744,2.7,False,rent
+PROP1612,What get often traditional next.,Apartment,26061184,Tamil Nadu,Coimbatore,3648,1,5,pool|garden|clubhouse|security|power-backup,Furnished,2025-08-23,Builder,family-friendly|luxury|lake-view,#98c7c5,2.5,False,rent
+PROP1613,Certainly risk this.,Bungalow,28574344,Tamil Nadu,Coimbatore,4610,2,2,pool|wifi|security,Unfurnished,2025-08-24,Owner,sea-view|gated-community,#e3b80d,2.5,True,rent
+PROP1614,Five fill thought produce.,Apartment,49073715,Delhi,New Delhi,534,6,3,parking|garden|lift|gym,Unfurnished,2025-08-07,Owner,affordable|corner-plot|lake-view|luxury,#839da9,3.5,True,sale
+PROP1615,Truth purpose daughter.,Studio,19848818,Delhi,New Delhi,967,6,4,lift|clubhouse|wifi|gym,Unfurnished,2025-07-25,Owner,affordable|corner-plot|near-metro,#800008,4.5,True,sale
+PROP1616,Race hope stay tax.,Studio,17305599,Gujarat,Ahmedabad,3456,2,2,lift|gym|power-backup|garden|security,Furnished,2025-07-12,Agent,luxury|affordable,#7abb11,1.5,False,rent
+PROP1617,Recently whether between hit let.,Studio,25561032,West Bengal,Kolkata,3855,5,3,power-backup|wifi|security,Semi,2025-10-01,Owner,sea-view|luxury,#d729d4,4.5,False,sale
+PROP1618,Race century five.,Penthouse,23848141,Maharashtra,Pune,3277,3,5,parking|lift|pool|wifi,Furnished,2025-10-28,Owner,family-friendly|luxury|gated-community|corner-plot,#8c091d,1.1,True,sale
+PROP1619,Office early.,Studio,47933051,West Bengal,Kolkata,443,1,3,lift|gym|parking,Furnished,2025-10-31,Owner,luxury|near-metro|gated-community,#be67e2,2.6,False,rent
+PROP1620,Bill wish hear million ask.,Penthouse,38609054,West Bengal,Kolkata,3600,6,4,power-backup|pool|lift|security|garden,Unfurnished,2025-10-09,Builder,affordable|sea-view|family-friendly,#8bbc41,1.3,True,rent
+PROP1621,Your year fly.,Bungalow,37707799,Gujarat,Surat,2333,1,2,gym|wifi|lift|security|clubhouse|garden,Furnished,2025-06-08,Builder,lake-view|near-metro|luxury|gated-community,#814ed6,3.1,True,rent
+PROP1622,Possible by none.,Studio,11979296,West Bengal,Kolkata,882,6,2,lift|pool|power-backup|garden|clubhouse,Furnished,2025-08-28,Owner,luxury|gated-community,#0f704e,1.8,True,sale
+PROP1623,Beautiful especially charge.,Studio,11044621,Tamil Nadu,Madurai,4381,4,4,pool|clubhouse|garden,Semi,2025-08-22,Agent,affordable|near-metro|family-friendly,#fcac4c,4.8,False,sale
+PROP1624,Policy morning.,Studio,46294000,West Bengal,Kolkata,3952,6,4,garden|gym|clubhouse|lift,Unfurnished,2025-07-01,Builder,family-friendly|gated-community|near-metro|luxury,#93fa18,4.2,True,rent
+PROP1625,Too generation.,Apartment,32221531,Tamil Nadu,Chennai,3149,5,3,security|lift|wifi|power-backup,Semi,2025-10-12,Owner,gated-community|sea-view|near-metro,#ec73c2,3.0,True,sale
+PROP1626,Entire others.,Bungalow,45642403,Gujarat,Vadodara,2484,3,3,pool|lift|power-backup|security|garden|clubhouse,Furnished,2025-06-06,Agent,luxury|near-metro|family-friendly,#7f0901,4.8,True,rent
+PROP1627,Those yard.,Apartment,40679436,Gujarat,Ahmedabad,3937,5,1,power-backup|clubhouse|garden,Unfurnished,2025-06-13,Builder,luxury|family-friendly|affordable|lake-view,#33e465,2.9,True,rent
+PROP1628,Area interesting however least.,Villa,40055253,Delhi,New Delhi,752,5,2,gym|wifi|pool|lift|garden,Unfurnished,2025-06-24,Agent,lake-view|gated-community,#86e9ac,3.5,True,rent
+PROP1629,Why bar boy.,Villa,47294640,Delhi,New Delhi,2146,3,2,parking|lift|garden,Semi,2025-10-02,Agent,near-metro|luxury,#880d0a,2.3,True,rent
+PROP1630,To policy kind wonder head.,Studio,27168233,Delhi,New Delhi,1175,3,4,wifi|gym|power-backup|garden,Semi,2025-09-28,Agent,gated-community|family-friendly,#e1c8b7,3.1,False,sale
+PROP1631,Night old join challenge.,Studio,27558166,Delhi,New Delhi,825,1,1,power-backup|parking|wifi|garden|lift|pool,Furnished,2025-11-06,Builder,affordable|corner-plot|gated-community|near-metro,#3bf41b,3.6,False,rent
+PROP1632,Writer offer recently.,Apartment,37977436,Karnataka,Bangalore,1666,5,1,garden|gym|pool|parking|power-backup,Furnished,2025-08-04,Builder,family-friendly|luxury|lake-view|sea-view,#5b5140,1.8,True,sale
+PROP1633,Would age bit floor.,Penthouse,22969315,Gujarat,Ahmedabad,4919,1,3,power-backup|lift|gym|clubhouse|garden,Furnished,2025-11-12,Builder,lake-view|luxury|near-metro,#98c791,3.0,True,sale
+PROP1634,Executive series share.,Penthouse,40713009,Tamil Nadu,Chennai,3046,2,3,lift|pool|garden,Unfurnished,2025-10-06,Builder,lake-view|family-friendly|luxury|sea-view,#37bd44,2.3,True,rent
+PROP1635,Region out sure.,Apartment,39935439,Delhi,New Delhi,4261,2,3,power-backup|pool|clubhouse|garden|parking,Semi,2025-08-29,Owner,affordable|gated-community,#6c320c,4.1,False,sale
+PROP1636,View partner matter.,Studio,11939519,West Bengal,Siliguri,2594,6,2,clubhouse|garden|power-backup|parking|wifi,Unfurnished,2025-09-05,Agent,gated-community|family-friendly|near-metro,#ff92bd,4.2,True,sale
+PROP1637,Past type chair plan shake.,Villa,8818077,West Bengal,Kolkata,1478,2,4,power-backup|parking|wifi|gym|lift|security,Unfurnished,2025-10-06,Agent,near-metro|sea-view,#cba989,4.2,False,sale
+PROP1638,Piece keep recognize conference.,Studio,32646293,West Bengal,Kolkata,1186,5,1,lift|wifi|clubhouse|garden,Furnished,2025-10-25,Agent,family-friendly|luxury|near-metro|lake-view,#18a25f,4.6,True,sale
+PROP1639,Important despite game several.,Penthouse,33320757,Delhi,New Delhi,1489,4,3,garden|gym|security,Unfurnished,2025-08-15,Agent,gated-community|luxury|near-metro|sea-view,#2fd46e,4.9,True,sale
+PROP1640,Democrat defense evidence citizen.,Apartment,32383450,Tamil Nadu,Coimbatore,1945,6,1,security|garden|clubhouse,Semi,2025-08-11,Agent,near-metro|family-friendly|luxury|sea-view,#82e755,2.8,True,rent
+PROP1641,Guess get need.,Penthouse,26068952,Karnataka,Mangalore,2171,6,2,wifi|power-backup|security|clubhouse,Unfurnished,2025-10-02,Builder,family-friendly|gated-community|near-metro|lake-view,#4a1966,4.3,False,rent
+PROP1642,Trade strong record indeed.,Villa,14845237,West Bengal,Siliguri,4694,2,4,clubhouse|wifi|parking|gym,Furnished,2025-08-26,Agent,near-metro|lake-view|affordable|sea-view,#d1ca44,3.4,True,sale
+PROP1643,Conference decade.,Bungalow,46490572,Gujarat,Vadodara,3438,5,1,security|parking|power-backup|clubhouse|gym,Semi,2025-08-06,Owner,gated-community|family-friendly|affordable|luxury,#0b6a26,4.2,False,sale
+PROP1644,Fund social know.,Penthouse,36814709,Maharashtra,Pune,1769,5,3,garden|pool|power-backup|security|wifi,Furnished,2025-09-01,Builder,corner-plot|sea-view|lake-view,#197951,1.1,True,rent
+PROP1645,Option those theory front.,Penthouse,27467889,Tamil Nadu,Chennai,3786,4,2,security|garden|lift|gym,Semi,2025-08-01,Owner,near-metro|family-friendly,#94966b,1.2,True,rent
+PROP1646,Line large last.,Studio,18639577,Karnataka,Mysore,1880,6,2,power-backup|garden|pool|gym|lift,Semi,2025-07-11,Agent,sea-view|gated-community|corner-plot|luxury,#a590bf,4.4,True,rent
+PROP1647,Expect manage father eight.,Penthouse,5710749,Tamil Nadu,Madurai,1659,6,2,garden|clubhouse|lift|wifi|gym,Unfurnished,2025-06-18,Agent,near-metro|family-friendly|corner-plot|affordable,#cf20d4,1.7,False,rent
+PROP1648,Floor world chance factor.,Bungalow,37427616,Tamil Nadu,Madurai,1067,5,5,pool|parking|clubhouse|garden|lift,Semi,2025-08-19,Agent,luxury|gated-community|sea-view,#4fbac9,1.9,True,sale
+PROP1649,Who exactly billion.,Studio,11041096,Karnataka,Bangalore,4041,2,1,gym|wifi|lift|clubhouse|power-backup,Semi,2025-09-30,Agent,family-friendly|lake-view|sea-view,#84c8f5,3.7,True,sale
+PROP1650,Management family bad friend two.,Studio,32951759,Delhi,New Delhi,1611,5,1,pool|power-backup|clubhouse|security|lift,Semi,2025-10-27,Agent,near-metro|corner-plot,#395271,1.4,True,sale
+PROP1651,Every contain along stand offer.,Penthouse,34481416,West Bengal,Kolkata,2783,5,4,security|pool|wifi|clubhouse|lift|parking,Semi,2025-06-22,Builder,family-friendly|luxury|affordable|near-metro,#8e3887,1.0,False,sale
+PROP1652,Without month.,Studio,15788743,Tamil Nadu,Madurai,4332,3,1,parking|garden|lift|pool|power-backup,Semi,2025-10-26,Owner,sea-view|family-friendly|lake-view|near-metro,#53d837,1.2,False,rent
+PROP1653,Network reality among agency teacher.,Apartment,43846796,Tamil Nadu,Coimbatore,4015,1,2,pool|garden|security|lift|parking,Furnished,2025-06-17,Agent,gated-community|corner-plot,#77c7ed,3.7,True,rent
+PROP1654,Feeling tough something grow.,Studio,37224774,Delhi,New Delhi,900,3,5,wifi|gym|lift|security|clubhouse|garden,Semi,2025-07-23,Agent,near-metro|family-friendly|gated-community,#03e8a8,4.0,True,sale
+PROP1655,Free however machine people.,Apartment,9891781,West Bengal,Kolkata,3687,3,2,garden|pool|gym|power-backup,Furnished,2025-10-07,Owner,family-friendly|luxury|gated-community,#3ac382,3.9,False,sale
+PROP1656,Support plan.,Bungalow,9855666,Gujarat,Ahmedabad,3825,1,1,gym|wifi|pool,Semi,2025-08-21,Agent,near-metro|corner-plot|luxury|family-friendly,#ae1458,2.1,True,rent
+PROP1657,Much blood.,Apartment,33189191,Tamil Nadu,Chennai,1289,3,5,pool|gym|power-backup|lift|clubhouse|parking,Unfurnished,2025-06-28,Owner,sea-view|lake-view|luxury|family-friendly,#d8a1ed,3.3,False,rent
+PROP1658,Impact view.,Apartment,11897898,Gujarat,Surat,4535,3,4,lift|security|gym,Unfurnished,2025-09-22,Builder,sea-view|near-metro|corner-plot|luxury,#541c33,3.8,True,rent
+PROP1659,Important despite bank.,Villa,2031504,Gujarat,Vadodara,3044,6,2,clubhouse|garden|lift|power-backup|wifi|security,Unfurnished,2025-11-17,Agent,corner-plot|gated-community|sea-view,#5e3203,1.7,False,sale
+PROP1660,Happy body computer.,Studio,30863593,Delhi,New Delhi,4994,6,5,wifi|lift|garden,Unfurnished,2025-11-07,Owner,gated-community|corner-plot|luxury,#7d8a9f,4.9,True,rent
+PROP1661,Conference pull owner long.,Villa,45891256,Gujarat,Ahmedabad,3580,1,4,parking|power-backup|gym|lift,Furnished,2025-10-29,Owner,luxury|corner-plot|family-friendly,#f96793,4.6,True,sale
+PROP1662,Memory alone sure contain.,Studio,48954552,Karnataka,Mysore,2029,2,1,pool|gym|wifi|clubhouse|lift,Furnished,2025-06-07,Owner,lake-view|gated-community|corner-plot,#16848a,1.9,True,rent
+PROP1663,Fear have analysis figure.,Studio,22201800,Gujarat,Vadodara,1217,3,2,garden|wifi|power-backup|clubhouse|parking|lift,Unfurnished,2025-10-21,Owner,family-friendly|lake-view|luxury,#3904e8,3.7,False,rent
+PROP1664,Onto soon crime father.,Bungalow,27908083,West Bengal,Siliguri,4798,2,3,pool|garden|lift|security|wifi|clubhouse,Unfurnished,2025-10-18,Owner,near-metro|corner-plot|gated-community,#df2993,3.9,True,sale
+PROP1665,Our or wide.,Bungalow,36924601,Karnataka,Bangalore,3429,3,5,wifi|parking|clubhouse|lift|power-backup|security,Furnished,2025-11-02,Owner,lake-view|sea-view,#6ef32a,4.3,True,sale
+PROP1666,Without cold area.,Apartment,18895238,Tamil Nadu,Chennai,4690,5,2,clubhouse|gym|power-backup|wifi,Semi,2025-11-18,Agent,luxury|affordable|sea-view|corner-plot,#a63f74,1.4,True,rent
+PROP1667,Push recently build.,Studio,49027895,Delhi,New Delhi,3793,6,3,lift|power-backup|garden,Semi,2025-08-07,Agent,gated-community|affordable|corner-plot|family-friendly,#f9217c,2.7,False,rent
+PROP1668,Tonight stand hotel mind.,Bungalow,26913216,Maharashtra,Mumbai,1913,2,4,parking|gym|security|pool|garden|lift,Semi,2025-08-21,Agent,lake-view|corner-plot|affordable,#1f5e78,3.4,False,sale
+PROP1669,Home address nothing open stage.,Apartment,25634507,Gujarat,Ahmedabad,3275,5,1,pool|clubhouse|power-backup|lift|security|parking,Unfurnished,2025-07-15,Builder,near-metro|affordable|family-friendly|sea-view,#4061aa,1.6,False,rent
+PROP1670,Partner kid shoulder.,Apartment,19059928,Gujarat,Ahmedabad,3854,3,2,security|clubhouse|lift,Furnished,2025-11-22,Builder,affordable|corner-plot|luxury,#6f7cca,4.2,False,rent
+PROP1671,People thousand size raise.,Apartment,674889,Tamil Nadu,Madurai,2980,2,1,pool|power-backup|garden|clubhouse|lift,Unfurnished,2025-06-08,Agent,family-friendly|luxury|corner-plot|sea-view,#f461c7,3.1,False,rent
+PROP1672,Learn similar suddenly.,Studio,42716833,West Bengal,Kolkata,4797,5,4,clubhouse|garden|pool|lift|wifi,Semi,2025-08-06,Owner,affordable|lake-view,#06cedf,3.7,False,sale
+PROP1673,Center wrong eye.,Bungalow,34407486,Delhi,New Delhi,1026,2,5,parking|lift|pool|garden|gym,Unfurnished,2025-08-08,Builder,sea-view|family-friendly|affordable|corner-plot,#cfb178,4.0,False,rent
+PROP1674,Green certainly push despite total.,Penthouse,5917097,Tamil Nadu,Coimbatore,3820,1,4,security|power-backup|wifi,Furnished,2025-09-07,Agent,affordable|family-friendly|corner-plot|lake-view,#67306f,2.8,False,sale
+PROP1675,Wonder computer.,Studio,11489662,Delhi,New Delhi,3962,4,5,power-backup|security|garden|pool|wifi,Unfurnished,2025-10-23,Agent,luxury|family-friendly|gated-community|corner-plot,#de32d1,4.7,True,sale
+PROP1676,Your term message.,Bungalow,36541283,Tamil Nadu,Madurai,3109,3,3,wifi|clubhouse|power-backup|security,Unfurnished,2025-10-27,Agent,corner-plot|sea-view|affordable|family-friendly,#1dee0d,2.1,False,sale
+PROP1677,Start no where.,Villa,10231575,Maharashtra,Nagpur,649,4,2,pool|security|clubhouse|power-backup,Semi,2025-10-16,Owner,sea-view|corner-plot|luxury,#7c90b2,1.5,False,rent
+PROP1678,Opportunity prove require foreign.,Villa,26053420,Gujarat,Surat,658,2,4,garden|wifi|lift|security,Unfurnished,2025-11-21,Builder,gated-community|luxury|corner-plot,#e369a3,1.5,False,sale
+PROP1679,Skin pull yeah professional born.,Studio,28356493,West Bengal,Siliguri,1133,4,2,security|lift|power-backup|garden|pool|gym,Furnished,2025-09-10,Agent,corner-plot|affordable,#07f0e0,4.9,False,rent
+PROP1680,Force it child day.,Studio,42407951,West Bengal,Siliguri,1027,3,3,garden|pool|lift|power-backup|wifi|gym,Furnished,2025-11-08,Owner,lake-view|gated-community,#cad4fa,4.0,True,rent
+PROP1681,Position close common happy.,Bungalow,25145765,Gujarat,Surat,3321,2,4,garden|wifi|lift|pool|power-backup|clubhouse,Semi,2025-08-11,Owner,affordable|corner-plot,#07f463,2.6,True,sale
+PROP1682,Activity trip morning.,Apartment,6901588,Karnataka,Mysore,4254,2,4,pool|wifi|lift|parking|security,Semi,2025-10-02,Builder,corner-plot|affordable|sea-view,#758496,1.8,True,rent
+PROP1683,Throw along how her.,Apartment,8048839,Karnataka,Bangalore,1495,4,4,pool|wifi|security|parking,Unfurnished,2025-07-30,Owner,gated-community|lake-view|corner-plot,#8bb631,3.2,True,rent
+PROP1684,Moment health finally effect.,Penthouse,1042700,Gujarat,Surat,4189,6,4,wifi|parking|clubhouse|pool,Unfurnished,2025-09-10,Owner,corner-plot|affordable|gated-community,#81f3f2,1.5,True,rent
+PROP1685,Apply raise energy.,Penthouse,17343799,West Bengal,Kolkata,858,6,2,parking|pool|wifi,Semi,2025-09-02,Agent,lake-view|affordable,#b807f1,1.1,False,sale
+PROP1686,Respond right language.,Studio,33979625,West Bengal,Siliguri,4569,5,4,garden|pool|gym|clubhouse,Semi,2025-08-31,Agent,gated-community|lake-view,#1747f3,2.9,False,sale
+PROP1687,Method clear relate.,Bungalow,28668371,Maharashtra,Pune,769,5,3,pool|lift|gym|clubhouse|wifi,Furnished,2025-11-14,Owner,gated-community|luxury,#53d1af,2.6,False,sale
+PROP1688,Way share.,Bungalow,2163236,Gujarat,Ahmedabad,1106,4,2,wifi|power-backup|gym|security|parking|lift,Furnished,2025-07-24,Agent,luxury|affordable|gated-community,#d2b396,3.4,True,rent
+PROP1689,You type place form.,Villa,39277651,West Bengal,Kolkata,921,2,3,clubhouse|power-backup|gym|pool,Unfurnished,2025-11-12,Builder,luxury|lake-view|sea-view,#b4d639,1.5,False,rent
+PROP1690,Behind try yourself view officer.,Apartment,26880614,West Bengal,Kolkata,1192,2,5,pool|wifi|power-backup|parking|clubhouse,Semi,2025-11-08,Agent,lake-view|luxury,#6cc411,3.4,False,rent
+PROP1691,Present mind inside together rest.,Studio,16929634,Delhi,New Delhi,3895,4,1,power-backup|parking|pool,Furnished,2025-06-30,Builder,corner-plot|sea-view,#a87438,1.0,True,rent
+PROP1692,Upon challenge live feeling.,Villa,42229777,West Bengal,Siliguri,2679,6,5,pool|lift|gym|parking|wifi|clubhouse,Furnished,2025-07-01,Builder,sea-view|family-friendly,#4636c8,2.8,False,rent
+PROP1693,Finally win friend answer of.,Penthouse,35655271,Tamil Nadu,Coimbatore,3089,1,3,gym|pool|power-backup|wifi,Furnished,2025-10-04,Owner,luxury|corner-plot|affordable|sea-view,#6da8b4,1.5,False,rent
+PROP1694,Live leg their.,Studio,49351538,Tamil Nadu,Madurai,3977,5,5,power-backup|parking|gym|pool|garden,Semi,2025-06-30,Agent,corner-plot|luxury|near-metro,#e0c6db,4.6,False,rent
+PROP1695,Check standard million toward same.,Penthouse,28222864,West Bengal,Kolkata,4020,2,5,pool|lift|power-backup|parking,Furnished,2025-07-16,Builder,corner-plot|family-friendly|gated-community|lake-view,#ae9c40,5.0,False,rent
+PROP1696,Season dog financial ability.,Bungalow,48821723,Gujarat,Ahmedabad,2601,6,3,security|garden|clubhouse|parking|power-backup,Semi,2025-08-16,Agent,near-metro|sea-view,#8a2462,1.6,False,sale
+PROP1697,Expert effect floor.,Villa,35426495,Delhi,New Delhi,3782,3,1,power-backup|lift|security|garden|wifi,Furnished,2025-06-15,Builder,gated-community|family-friendly,#44eb82,3.9,True,rent
+PROP1698,Huge begin will manage.,Studio,30694106,Karnataka,Bangalore,450,4,5,wifi|clubhouse|lift,Semi,2025-06-13,Agent,family-friendly|sea-view|affordable|near-metro,#68a45b,2.2,False,rent
+PROP1699,Race federal find join.,Bungalow,639633,Tamil Nadu,Chennai,4046,2,2,power-backup|lift|security|wifi|pool,Furnished,2025-09-16,Agent,near-metro|affordable,#ca68cc,1.1,False,sale
+PROP1700,Half understand believe.,Penthouse,22616777,West Bengal,Siliguri,759,5,4,security|parking|clubhouse,Furnished,2025-11-06,Owner,lake-view|near-metro|sea-view,#485bcd,1.4,False,rent
+PROP1701,Type but street.,Villa,37472163,Maharashtra,Nagpur,3628,2,1,gym|security|garden,Furnished,2025-10-04,Agent,near-metro|lake-view|sea-view|luxury,#973eec,1.3,False,rent
+PROP1702,Politics speech meeting remember.,Studio,20839976,Karnataka,Bangalore,2020,2,1,power-backup|wifi|lift|parking,Furnished,2025-10-30,Agent,affordable|lake-view,#0a6317,4.5,False,sale
+PROP1703,His movement next usually I.,Studio,20703863,Tamil Nadu,Coimbatore,2517,4,1,wifi|clubhouse|parking|power-backup|lift|security,Unfurnished,2025-09-06,Agent,sea-view|gated-community|family-friendly|near-metro,#c55568,2.6,False,rent
+PROP1704,Power expert.,Studio,29109342,Maharashtra,Mumbai,1153,5,5,pool|security|wifi,Semi,2025-08-19,Owner,affordable|luxury,#20ca7a,2.3,False,sale
+PROP1705,War black.,Bungalow,37957359,Delhi,New Delhi,1257,6,2,wifi|garden|security|clubhouse|gym,Unfurnished,2025-08-20,Agent,family-friendly|sea-view|gated-community,#fe67e4,1.9,True,rent
+PROP1706,Forward price head.,Bungalow,46035399,Tamil Nadu,Madurai,3678,3,4,clubhouse|security|gym|pool,Semi,2025-06-28,Owner,gated-community|near-metro|affordable,#b73a46,4.1,False,sale
+PROP1707,Hand single.,Bungalow,33805753,Tamil Nadu,Coimbatore,460,6,4,clubhouse|wifi|garden|lift,Unfurnished,2025-09-28,Owner,gated-community|luxury,#9943a9,1.3,True,sale
+PROP1708,Eat tax.,Bungalow,11305403,Karnataka,Mangalore,4807,5,1,garden|wifi|clubhouse|gym|power-backup,Semi,2025-07-06,Agent,near-metro|lake-view,#444665,2.7,False,rent
+PROP1709,Imagine thousand drop available.,Studio,26598530,Tamil Nadu,Chennai,1337,2,1,garden|power-backup|clubhouse,Unfurnished,2025-08-05,Builder,near-metro|lake-view|family-friendly|affordable,#0f8f08,2.2,False,rent
+PROP1710,List so agent.,Penthouse,22750881,Tamil Nadu,Madurai,4877,3,4,clubhouse|garden|lift|security,Semi,2025-10-29,Agent,sea-view|corner-plot|gated-community|near-metro,#19b2cf,4.2,False,sale
+PROP1711,Whether view ground become care.,Villa,38771802,Delhi,New Delhi,939,1,2,garden|power-backup|security,Semi,2025-06-09,Agent,luxury|lake-view|affordable|near-metro,#ee1dad,4.4,True,rent
+PROP1712,Letter society compare eye wonder.,Villa,3515709,Delhi,New Delhi,4226,2,2,security|parking|pool|garden|wifi|clubhouse,Unfurnished,2025-07-31,Builder,sea-view|corner-plot,#5205ff,1.8,True,sale
+PROP1713,All degree upon he figure.,Bungalow,31634364,Gujarat,Surat,4941,6,3,lift|security|gym|wifi,Unfurnished,2025-10-19,Builder,family-friendly|lake-view|luxury|near-metro,#b7a7be,3.9,True,sale
+PROP1714,Through receive left real.,Apartment,1369333,Tamil Nadu,Chennai,4775,2,3,parking|clubhouse|power-backup|security|lift,Semi,2025-07-04,Builder,luxury|gated-community|sea-view,#5b049d,1.6,True,sale
+PROP1715,Today medical consumer woman.,Bungalow,28069324,Delhi,New Delhi,769,1,5,power-backup|clubhouse|wifi|garden|lift,Semi,2025-10-12,Agent,lake-view|gated-community|affordable|near-metro,#cddc61,4.4,False,rent
+PROP1716,Near suddenly.,Penthouse,29524247,Delhi,New Delhi,815,2,5,gym|parking|security,Semi,2025-07-09,Agent,near-metro|sea-view|affordable|family-friendly,#4f806f,4.9,True,rent
+PROP1717,Week body.,Studio,14021168,Karnataka,Mysore,2821,5,1,security|garden|parking|pool|wifi|lift,Semi,2025-07-11,Builder,lake-view|luxury,#5bb73a,2.6,False,sale
+PROP1718,Too off ground dream.,Villa,19806981,Maharashtra,Nagpur,1717,1,5,parking|lift|security|wifi|gym,Furnished,2025-09-13,Owner,affordable|family-friendly|near-metro|corner-plot,#ae42d6,3.1,True,rent
+PROP1719,Treat picture others partner.,Villa,27755136,Tamil Nadu,Coimbatore,1600,5,4,garden|lift|wifi,Furnished,2025-09-18,Agent,sea-view|corner-plot|affordable,#fe20e2,3.8,False,sale
+PROP1720,Customer skin whole.,Bungalow,42667916,Tamil Nadu,Chennai,1466,4,2,wifi|security|power-backup|pool|parking|garden,Furnished,2025-07-05,Owner,lake-view|corner-plot|near-metro,#d1e1f2,3.2,True,rent
+PROP1721,His little happen drug.,Apartment,35718864,Delhi,New Delhi,1032,3,4,clubhouse|garden|parking|wifi|pool|gym,Unfurnished,2025-08-25,Owner,lake-view|sea-view,#7cc239,1.5,True,sale
+PROP1722,Try it media range.,Penthouse,27509980,Karnataka,Bangalore,1764,3,2,lift|power-backup|security|parking|clubhouse,Furnished,2025-06-17,Agent,gated-community|sea-view|affordable|family-friendly,#688aa4,3.0,False,sale
+PROP1723,Fear executive carry difference.,Penthouse,31012843,Gujarat,Vadodara,2206,3,4,power-backup|clubhouse|gym|pool,Semi,2025-06-22,Builder,corner-plot|near-metro|affordable,#eae88f,4.4,False,rent
+PROP1724,Take develop recently let option.,Studio,11548195,Delhi,New Delhi,2968,6,3,security|clubhouse|pool,Furnished,2025-07-28,Builder,luxury|lake-view|gated-community|corner-plot,#80d64a,4.2,False,sale
+PROP1725,Various half modern gas appear.,Villa,3191652,Tamil Nadu,Coimbatore,4232,4,3,security|wifi|gym,Unfurnished,2025-07-06,Builder,gated-community|corner-plot,#6e33b0,2.0,False,sale
+PROP1726,Season lot visit service.,Studio,25128261,Karnataka,Mangalore,3806,4,1,clubhouse|lift|power-backup,Semi,2025-11-16,Agent,corner-plot|sea-view|luxury|near-metro,#94e3ba,2.4,True,rent
+PROP1727,Senior Republican else.,Studio,48381391,Tamil Nadu,Madurai,1101,5,4,lift|power-backup|wifi|parking|clubhouse|security,Semi,2025-10-24,Agent,family-friendly|gated-community|affordable,#ceb18e,3.2,True,rent
+PROP1728,Always stand.,Studio,37461661,Karnataka,Mysore,4605,2,2,security|wifi|pool|garden|lift,Unfurnished,2025-07-27,Owner,luxury|lake-view|family-friendly|affordable,#4ce635,3.2,True,sale
+PROP1729,White nature.,Bungalow,32506835,Karnataka,Mangalore,3624,5,5,lift|pool|garden|gym,Semi,2025-09-25,Builder,near-metro|gated-community|sea-view|luxury,#e4369e,3.5,False,sale
+PROP1730,Box great else.,Villa,44591995,Delhi,New Delhi,2946,2,4,clubhouse|garden|gym|wifi|power-backup,Semi,2025-07-07,Builder,corner-plot|affordable,#047740,4.1,True,sale
+PROP1731,House anything radio gas Congress.,Apartment,11507765,Karnataka,Mangalore,4629,6,3,clubhouse|power-backup|garden|pool,Unfurnished,2025-07-20,Builder,affordable|corner-plot|near-metro,#3ec089,1.4,False,rent
+PROP1732,Color identify carry participant.,Villa,22094826,Karnataka,Bangalore,3519,5,4,security|clubhouse|parking|gym|wifi|garden,Unfurnished,2025-08-26,Agent,family-friendly|luxury,#57841e,4.7,False,sale
+PROP1733,Republican the among bag.,Studio,16968898,Delhi,New Delhi,4795,1,3,parking|lift|garden|wifi|power-backup,Semi,2025-11-10,Owner,luxury|corner-plot|gated-community,#7410e8,2.0,False,sale
+PROP1734,Though miss discussion analysis region.,Villa,45761869,Maharashtra,Pune,2630,6,4,garden|gym|power-backup|lift|wifi|clubhouse,Unfurnished,2025-11-17,Owner,family-friendly|luxury|gated-community|lake-view,#0277e6,1.5,False,sale
+PROP1735,Whole establish.,Studio,15808702,Tamil Nadu,Chennai,4965,2,5,gym|lift|clubhouse|wifi,Unfurnished,2025-07-16,Agent,affordable|lake-view|gated-community|luxury,#2b6661,2.9,True,rent
+PROP1736,Military thing leave present.,Bungalow,35514253,Gujarat,Surat,1504,5,4,pool|power-backup|security,Semi,2025-08-27,Owner,affordable|sea-view|lake-view|family-friendly,#d95241,2.4,True,rent
+PROP1737,Leave ground fund.,Studio,3560254,Karnataka,Mysore,1208,4,4,wifi|clubhouse|gym|security,Unfurnished,2025-06-14,Agent,luxury|family-friendly|sea-view,#73a995,4.8,True,rent
+PROP1738,Effort fight throw wrong.,Apartment,41385890,Delhi,New Delhi,4171,1,4,pool|wifi|garden,Furnished,2025-11-19,Agent,near-metro|corner-plot|affordable|luxury,#86448c,1.6,True,sale
+PROP1739,Shake simply.,Studio,18232353,Maharashtra,Pune,3657,6,1,power-backup|security|wifi|clubhouse|pool|lift,Furnished,2025-10-25,Builder,near-metro|corner-plot|family-friendly,#527169,2.7,True,sale
+PROP1740,Class necessary fast center.,Studio,17663391,Maharashtra,Pune,2741,4,5,power-backup|lift|security|pool|wifi|clubhouse,Furnished,2025-08-03,Agent,family-friendly|luxury,#8c413c,3.1,True,sale
+PROP1741,Simply record far public.,Penthouse,36392516,Karnataka,Mangalore,3578,1,5,gym|power-backup|pool,Semi,2025-11-21,Agent,lake-view|gated-community|family-friendly|luxury,#dd8e49,4.5,True,sale
+PROP1742,Year sure above.,Studio,23656955,West Bengal,Kolkata,4132,2,1,clubhouse|lift|garden|parking,Unfurnished,2025-08-02,Builder,lake-view|luxury|gated-community|affordable,#e21cb7,4.5,True,rent
+PROP1743,Argue list kitchen television return.,Bungalow,15529435,West Bengal,Kolkata,4324,3,4,lift|security|wifi|power-backup,Unfurnished,2025-06-26,Builder,gated-community|affordable,#20983a,4.3,True,sale
+PROP1744,Fast foot including.,Bungalow,5722730,West Bengal,Siliguri,4391,3,2,clubhouse|power-backup|garden|security|wifi|lift,Furnished,2025-09-16,Agent,sea-view|corner-plot|near-metro|family-friendly,#c84980,3.1,True,rent
+PROP1745,Table purpose your.,Villa,32796620,Gujarat,Ahmedabad,3270,2,4,parking|pool|garden,Furnished,2025-07-27,Builder,family-friendly|luxury|sea-view,#061bf5,3.5,True,rent
+PROP1746,My listen something challenge quality.,Villa,1477098,Gujarat,Surat,3107,6,1,parking|pool|garden|clubhouse|gym|wifi,Unfurnished,2025-07-09,Builder,affordable|gated-community|corner-plot|lake-view,#1ca87f,2.4,False,sale
+PROP1747,Catch since wish.,Studio,27001737,West Bengal,Siliguri,1298,5,2,security|lift|pool,Unfurnished,2025-08-16,Agent,near-metro|family-friendly|luxury,#3a9454,4.6,False,rent
+PROP1748,Keep number herself miss.,Studio,45381167,Delhi,New Delhi,2094,4,3,wifi|parking|clubhouse|lift,Furnished,2025-11-19,Owner,affordable|lake-view,#b7d123,3.6,True,sale
+PROP1749,Let through whether difference.,Bungalow,19179364,Karnataka,Mysore,1259,4,2,clubhouse|garden|lift|pool,Semi,2025-09-30,Builder,gated-community|near-metro,#18d80b,3.6,True,rent
+PROP1750,Say particularly.,Apartment,18743962,Gujarat,Ahmedabad,3535,1,4,pool|lift|gym|clubhouse|security,Semi,2025-07-19,Owner,lake-view|gated-community,#9daf2a,3.6,False,rent
+PROP1751,Western for couple probably.,Apartment,44736666,Gujarat,Ahmedabad,3056,3,1,pool|power-backup|gym|clubhouse,Semi,2025-10-03,Builder,corner-plot|near-metro|lake-view,#b80f95,4.6,False,rent
+PROP1752,Subject to commercial truth.,Bungalow,22381595,West Bengal,Kolkata,3155,2,4,power-backup|lift|pool,Semi,2025-08-01,Builder,near-metro|corner-plot|affordable|gated-community,#7385f0,3.9,True,rent
+PROP1753,Sit worker as.,Apartment,25403324,Gujarat,Ahmedabad,4303,3,4,clubhouse|garden|power-backup|gym,Furnished,2025-09-28,Owner,gated-community|corner-plot,#a7c565,1.5,True,sale
+PROP1754,Account all house.,Studio,607400,West Bengal,Kolkata,1945,3,5,wifi|clubhouse|security|garden|lift|pool,Semi,2025-07-27,Agent,near-metro|sea-view|lake-view|gated-community,#f1cf0e,2.2,False,rent
+PROP1755,Determine region energy.,Penthouse,27504798,Gujarat,Vadodara,3803,4,1,pool|security|power-backup|parking|garden,Semi,2025-07-07,Agent,lake-view|sea-view,#5eff36,1.3,True,sale
+PROP1756,Network risk dream.,Apartment,15882872,Gujarat,Surat,2774,2,4,power-backup|clubhouse|lift|pool|security|wifi,Semi,2025-09-14,Owner,affordable|near-metro|gated-community,#41cbcd,2.8,True,rent
+PROP1757,Act week.,Bungalow,8101523,West Bengal,Kolkata,1966,3,5,garden|power-backup|clubhouse,Unfurnished,2025-09-23,Builder,lake-view|luxury|near-metro|gated-community,#2bb0bb,1.6,False,rent
+PROP1758,Local marriage push type.,Penthouse,10728253,Karnataka,Mysore,3768,4,4,parking|garden|security|pool|clubhouse|power-backup,Unfurnished,2025-07-27,Builder,gated-community|family-friendly,#910d6f,1.7,False,rent
+PROP1759,Fund soldier physical.,Studio,19220661,Karnataka,Mysore,2440,5,2,wifi|power-backup|parking|clubhouse|pool|security,Unfurnished,2025-09-10,Agent,lake-view|affordable|sea-view,#2fb618,3.5,False,rent
+PROP1760,Gas probably rise population.,Villa,35225149,Delhi,New Delhi,2632,5,1,clubhouse|garden|parking|gym|security,Unfurnished,2025-06-05,Owner,affordable|near-metro|corner-plot|family-friendly,#853a36,3.8,False,rent
+PROP1761,Past government history responsibility every.,Bungalow,3538324,Gujarat,Ahmedabad,3045,5,2,power-backup|pool|clubhouse,Unfurnished,2025-06-19,Agent,lake-view|corner-plot|near-metro|family-friendly,#012333,2.4,True,sale
+PROP1762,Bit wind wind.,Apartment,6673551,Maharashtra,Mumbai,1180,4,5,power-backup|garden|parking|clubhouse|wifi|security,Semi,2025-09-12,Builder,corner-plot|affordable,#4b71db,1.3,True,sale
+PROP1763,Experience too.,Studio,18812674,Delhi,New Delhi,2117,4,1,pool|parking|clubhouse|security,Unfurnished,2025-06-21,Agent,family-friendly|gated-community|lake-view|luxury,#cac4f9,2.4,False,rent
+PROP1764,Similar message.,Penthouse,41603201,Gujarat,Ahmedabad,3670,1,3,gym|wifi|clubhouse|lift,Unfurnished,2025-11-02,Builder,lake-view|corner-plot,#253c9a,4.5,False,rent
+PROP1765,Care couple sister great water.,Studio,36836852,Delhi,New Delhi,2476,4,5,power-backup|gym|parking,Furnished,2025-07-08,Builder,gated-community|affordable|near-metro,#63711e,2.0,True,rent
+PROP1766,Future relate bank cause news.,Bungalow,1656494,Maharashtra,Pune,3295,2,2,lift|power-backup|wifi|garden,Furnished,2025-07-09,Agent,affordable|corner-plot|sea-view,#4ae067,2.0,False,sale
+PROP1767,Reach boy.,Penthouse,25847075,West Bengal,Kolkata,432,3,5,pool|security|lift|garden|parking|power-backup,Furnished,2025-09-10,Builder,near-metro|luxury,#868366,2.5,True,sale
+PROP1768,See focus administration true foreign.,Studio,48060970,Tamil Nadu,Coimbatore,3648,1,5,gym|lift|garden|wifi|clubhouse|power-backup,Unfurnished,2025-08-07,Builder,affordable|lake-view|luxury,#501b08,2.2,True,rent
+PROP1769,Feel less billion test.,Apartment,23963280,Gujarat,Vadodara,4938,4,5,garden|clubhouse|power-backup|wifi,Semi,2025-10-04,Agent,luxury|family-friendly,#956b4e,1.2,True,sale
+PROP1770,Term energy.,Bungalow,33579111,West Bengal,Siliguri,828,6,4,wifi|clubhouse|gym|security,Furnished,2025-06-20,Builder,corner-plot|luxury|lake-view,#8ff90c,2.2,True,sale
+PROP1771,Administration group energy dinner.,Villa,47209838,Gujarat,Vadodara,4118,3,5,gym|pool|lift|parking|wifi,Semi,2025-10-31,Owner,luxury|lake-view|corner-plot,#6e7026,2.9,True,sale
+PROP1772,Machine natural sound.,Penthouse,46068022,West Bengal,Siliguri,2841,4,3,power-backup|security|lift|clubhouse|pool,Unfurnished,2025-06-30,Agent,near-metro|lake-view|luxury,#76595c,2.8,True,rent
+PROP1773,Tonight federal serve simple us.,Bungalow,39386876,West Bengal,Siliguri,1286,4,4,garden|parking|power-backup,Unfurnished,2025-11-15,Owner,luxury|affordable,#f90e92,3.1,False,sale
+PROP1774,Enter those car during.,Villa,40461410,Delhi,New Delhi,3024,2,3,wifi|parking|lift,Unfurnished,2025-08-29,Agent,sea-view|affordable,#8c6445,4.6,True,sale
+PROP1775,Report develop choose nation.,Apartment,549612,Delhi,New Delhi,579,1,4,clubhouse|security|gym|garden,Unfurnished,2025-10-25,Agent,lake-view|corner-plot|near-metro|luxury,#cf81f3,1.8,False,sale
+PROP1776,Guess bank eight.,Studio,44590542,West Bengal,Kolkata,1813,6,2,security|lift|power-backup|pool|garden,Semi,2025-07-09,Builder,gated-community|lake-view,#f7bd2a,3.5,False,sale
+PROP1777,Hair tonight.,Bungalow,49058890,Gujarat,Ahmedabad,601,6,1,security|power-backup|garden|lift,Semi,2025-11-16,Owner,luxury|near-metro|sea-view|affordable,#2f441b,3.3,False,sale
+PROP1778,Music better throughout.,Penthouse,45713312,Karnataka,Bangalore,4428,5,3,parking|gym|wifi|clubhouse,Furnished,2025-06-29,Owner,lake-view|gated-community,#26748f,3.4,False,sale
+PROP1779,Cup require.,Apartment,35239484,Karnataka,Bangalore,1789,5,3,gym|pool|wifi|clubhouse,Semi,2025-11-12,Builder,near-metro|luxury,#941c5e,1.5,True,sale
+PROP1780,Relate travel.,Penthouse,21509483,West Bengal,Kolkata,2528,1,1,parking|lift|security,Semi,2025-10-03,Builder,corner-plot|luxury,#eb7edf,1.5,True,sale
+PROP1781,Field occur probably population present.,Studio,10221873,Maharashtra,Pune,1687,6,1,security|wifi|power-backup,Unfurnished,2025-06-24,Owner,luxury|family-friendly|corner-plot,#c72e62,2.0,True,sale
+PROP1782,Lot share cover.,Bungalow,47063991,West Bengal,Kolkata,2496,3,2,pool|garden|clubhouse,Furnished,2025-10-14,Builder,corner-plot|sea-view,#0a42c7,4.4,True,sale
+PROP1783,Try population.,Penthouse,19407524,Delhi,New Delhi,1268,3,1,security|clubhouse|power-backup|lift,Semi,2025-08-09,Owner,lake-view|luxury,#b2d0da,1.5,False,sale
+PROP1784,Year whether.,Bungalow,9003524,Delhi,New Delhi,1907,3,3,security|lift|power-backup|wifi|parking|garden,Unfurnished,2025-06-21,Builder,corner-plot|gated-community|affordable|sea-view,#0ce99f,4.1,False,rent
+PROP1785,Two there investment important yeah.,Apartment,2640944,Gujarat,Surat,3276,4,4,security|parking|power-backup|garden,Semi,2025-07-04,Builder,family-friendly|near-metro|corner-plot,#c7dbc6,2.6,False,sale
+PROP1786,Home mean American if move.,Villa,33968229,Maharashtra,Mumbai,2603,4,3,clubhouse|wifi|lift|parking|garden|security,Unfurnished,2025-09-04,Builder,family-friendly|gated-community|sea-view,#bfb287,3.6,True,rent
+PROP1787,Walk rest country.,Penthouse,13777979,Tamil Nadu,Chennai,3395,5,1,garden|lift|parking,Furnished,2025-08-02,Builder,family-friendly|affordable,#24c27b,2.8,False,sale
+PROP1788,Summer else air.,Villa,22305915,Gujarat,Vadodara,879,2,3,wifi|security|gym|power-backup|parking|lift,Unfurnished,2025-10-01,Builder,gated-community|affordable,#073ddd,2.4,True,rent
+PROP1789,Capital within idea similar.,Studio,12676879,West Bengal,Siliguri,1947,4,2,clubhouse|garden|lift|power-backup|pool,Unfurnished,2025-07-24,Agent,near-metro|affordable|sea-view,#1aad07,4.9,True,rent
+PROP1790,Without sing stock likely.,Apartment,13127578,West Bengal,Siliguri,1651,6,1,clubhouse|parking|pool,Unfurnished,2025-09-30,Agent,corner-plot|lake-view,#feacf0,2.7,False,sale
+PROP1791,Many major.,Studio,30346389,Maharashtra,Mumbai,2938,6,3,clubhouse|parking|wifi|gym|garden|power-backup,Unfurnished,2025-06-16,Owner,luxury|near-metro|corner-plot|lake-view,#ec7b28,1.3,False,sale
+PROP1792,Modern party probably do.,Studio,2685585,Tamil Nadu,Madurai,566,3,1,gym|lift|wifi,Furnished,2025-06-26,Agent,affordable|sea-view|family-friendly,#4cf2af,4.1,True,rent
+PROP1793,Each budget guess.,Villa,5745280,Maharashtra,Pune,3469,3,5,parking|power-backup|clubhouse|wifi|garden,Semi,2025-07-25,Agent,affordable|gated-community,#4e07f7,4.2,False,rent
+PROP1794,Five information Democrat environmental.,Apartment,41041739,Tamil Nadu,Chennai,4496,3,3,clubhouse|security|power-backup|gym|pool,Unfurnished,2025-10-07,Agent,sea-view|gated-community|affordable|corner-plot,#4e92e9,2.0,True,sale
+PROP1795,Color majority outside.,Penthouse,4621329,Delhi,New Delhi,3986,5,4,pool|wifi|lift|garden|gym,Furnished,2025-09-29,Owner,family-friendly|corner-plot|luxury,#80afd9,1.7,True,sale
+PROP1796,Game time international.,Penthouse,46519173,West Bengal,Siliguri,692,4,2,power-backup|clubhouse|parking|lift|pool,Furnished,2025-11-04,Builder,affordable|sea-view|lake-view|corner-plot,#f125d6,3.5,True,sale
+PROP1797,Explain exactly list different.,Villa,33775808,Delhi,New Delhi,4703,5,4,lift|gym|wifi,Furnished,2025-10-07,Owner,sea-view|family-friendly|lake-view,#b1b5ef,3.6,True,rent
+PROP1798,Sense carry door prepare trouble.,Studio,22915910,Gujarat,Surat,2857,2,4,gym|parking|garden,Furnished,2025-10-08,Owner,near-metro|gated-community|luxury|corner-plot,#1f8126,1.0,False,sale
+PROP1799,Can deep career important.,Studio,3615438,Maharashtra,Nagpur,4859,5,5,clubhouse|garden|gym|security|wifi,Unfurnished,2025-10-20,Owner,gated-community|lake-view,#acd460,1.6,False,rent
+PROP1800,Avoid sort democratic.,Studio,32420484,Tamil Nadu,Madurai,1959,5,1,parking|clubhouse|pool|gym|lift|garden,Furnished,2025-11-05,Builder,sea-view|corner-plot,#9c6269,4.9,True,rent
+PROP1801,Project spring.,Studio,21805428,Maharashtra,Pune,1808,4,2,garden|power-backup|security|clubhouse|pool|parking,Semi,2025-06-25,Agent,gated-community|family-friendly,#67e12b,1.1,True,rent
+PROP1802,Also force.,Villa,24222568,West Bengal,Siliguri,3030,2,4,gym|wifi|pool|lift,Unfurnished,2025-09-12,Owner,corner-plot|near-metro|sea-view,#557549,4.8,False,sale
+PROP1803,Plan natural five back effort.,Penthouse,44873000,Delhi,New Delhi,4251,6,5,gym|clubhouse|power-backup,Semi,2025-07-27,Builder,corner-plot|near-metro|gated-community,#8e88f6,1.4,True,rent
+PROP1804,Respond level personal knowledge.,Apartment,48808412,Gujarat,Ahmedabad,1042,1,5,pool|power-backup|gym|security|lift|clubhouse,Unfurnished,2025-11-06,Agent,sea-view|lake-view|near-metro|corner-plot,#85616d,2.7,False,sale
+PROP1805,Mother open indeed.,Bungalow,5741848,Tamil Nadu,Chennai,2009,2,4,lift|power-backup|pool|gym,Furnished,2025-07-19,Owner,affordable|near-metro|corner-plot|sea-view,#3da168,3.7,False,sale
+PROP1806,Exist material.,Penthouse,21584889,West Bengal,Kolkata,1215,2,5,clubhouse|pool|wifi|gym,Semi,2025-10-24,Agent,affordable|near-metro|sea-view|gated-community,#409e2c,3.9,True,sale
+PROP1807,Anything find reason kid organization.,Apartment,7968642,Delhi,New Delhi,4915,4,2,wifi|garden|lift|pool|clubhouse,Furnished,2025-10-21,Builder,gated-community|family-friendly,#d2e789,4.5,False,rent
+PROP1808,Exactly couple necessary the.,Villa,4405111,Tamil Nadu,Chennai,1630,1,2,security|gym|power-backup|parking|lift|pool,Furnished,2025-09-12,Builder,affordable|near-metro|luxury,#578769,3.8,False,rent
+PROP1809,Stock section ahead.,Apartment,47229425,Maharashtra,Pune,2588,1,5,lift|wifi|parking,Furnished,2025-11-03,Agent,luxury|near-metro,#a1c9e1,3.9,False,rent
+PROP1810,Something true.,Villa,41886606,Karnataka,Mangalore,1570,6,2,security|parking|wifi|power-backup|lift,Unfurnished,2025-11-19,Agent,affordable|near-metro,#aed54b,3.7,False,rent
+PROP1811,Eat situation list.,Bungalow,25927841,Tamil Nadu,Madurai,1582,4,4,wifi|parking|power-backup|clubhouse|gym|garden,Semi,2025-10-02,Agent,near-metro|affordable|lake-view,#51388f,3.7,False,sale
+PROP1812,Wrong box concern we.,Apartment,29243526,West Bengal,Siliguri,525,5,4,parking|security|wifi,Semi,2025-10-09,Agent,family-friendly|affordable,#3ac7ce,2.4,False,sale
+PROP1813,Agent discover continue.,Studio,18379667,Maharashtra,Nagpur,552,1,3,parking|lift|garden|security,Unfurnished,2025-07-24,Owner,gated-community|near-metro|family-friendly|corner-plot,#55c868,1.2,False,rent
+PROP1814,Surface else rather.,Bungalow,20925396,Tamil Nadu,Coimbatore,3264,3,3,lift|pool|parking|garden|power-backup|gym,Unfurnished,2025-06-17,Owner,gated-community|family-friendly,#d8e8e8,4.0,False,rent
+PROP1815,Eight Mrs.,Villa,21475369,Tamil Nadu,Coimbatore,4719,5,4,power-backup|garden|gym|clubhouse,Semi,2025-07-28,Agent,lake-view|affordable|sea-view,#0ac120,3.2,False,sale
+PROP1816,Coach fall whom against.,Villa,14142853,Gujarat,Surat,1961,1,4,wifi|pool|power-backup|garden,Unfurnished,2025-11-18,Agent,affordable|gated-community|corner-plot,#f6b926,3.2,True,sale
+PROP1817,Worry form.,Studio,8425283,Delhi,New Delhi,2796,5,4,clubhouse|wifi|pool|power-backup,Semi,2025-07-08,Agent,lake-view|luxury|family-friendly|near-metro,#1b0c9c,2.9,False,sale
+PROP1818,Accept door.,Villa,15111139,Maharashtra,Mumbai,1391,4,5,power-backup|clubhouse|wifi|security|garden,Furnished,2025-11-10,Builder,affordable|lake-view|corner-plot|sea-view,#669221,2.9,True,rent
+PROP1819,Include eye sign else.,Villa,27111567,Delhi,New Delhi,2765,3,1,power-backup|wifi|pool,Semi,2025-07-04,Agent,near-metro|family-friendly,#b0b774,3.4,True,sale
+PROP1820,Already black minute step organization.,Studio,6572340,Delhi,New Delhi,3278,4,3,pool|security|lift|clubhouse,Semi,2025-08-04,Owner,sea-view|lake-view,#464bc9,3.7,False,sale
+PROP1821,Community choose.,Villa,19896633,Gujarat,Ahmedabad,4192,3,2,power-backup|clubhouse|pool|gym,Unfurnished,2025-08-10,Builder,luxury|gated-community,#3f6434,2.3,False,rent
+PROP1822,Return bit beat TV.,Penthouse,46386560,West Bengal,Siliguri,1896,6,5,lift|parking|power-backup|security,Unfurnished,2025-09-22,Agent,luxury|sea-view|corner-plot,#058559,1.7,True,rent
+PROP1823,Include over culture try range.,Apartment,25659481,Tamil Nadu,Chennai,1431,6,1,gym|power-backup|security,Furnished,2025-06-21,Builder,luxury|family-friendly,#624265,1.2,True,sale
+PROP1824,Sea training leader total.,Villa,12063775,West Bengal,Kolkata,1840,5,3,security|pool|wifi,Furnished,2025-07-13,Agent,family-friendly|lake-view|luxury|sea-view,#38d82c,1.9,False,rent
+PROP1825,Still military stuff area.,Penthouse,14754587,Tamil Nadu,Madurai,1363,2,4,wifi|security|pool|gym|garden,Semi,2025-06-21,Builder,affordable|near-metro|lake-view,#e9a9cb,1.3,False,sale
+PROP1826,Work clearly town.,Penthouse,29540369,Maharashtra,Mumbai,3243,4,4,wifi|power-backup|gym|security|garden,Furnished,2025-09-23,Agent,gated-community|sea-view|corner-plot|luxury,#0cff28,1.1,False,rent
+PROP1827,Rather take more.,Studio,33066820,Karnataka,Mangalore,487,5,2,pool|security|power-backup|clubhouse,Unfurnished,2025-11-15,Builder,family-friendly|lake-view,#6a11b8,3.4,False,sale
+PROP1828,Writer Republican environmental personal.,Bungalow,2660198,Gujarat,Surat,1519,1,3,lift|security|clubhouse|parking|pool|power-backup,Furnished,2025-09-28,Owner,luxury|corner-plot,#5c52a9,4.8,False,rent
+PROP1829,That interest first senior.,Apartment,10632704,Maharashtra,Pune,1906,5,4,security|pool|gym|lift|power-backup|clubhouse,Unfurnished,2025-06-22,Agent,near-metro|luxury|lake-view,#c2f759,4.4,True,sale
+PROP1830,Under training family fish.,Villa,6780148,Karnataka,Bangalore,2675,5,5,lift|pool|security,Furnished,2025-08-20,Owner,gated-community|family-friendly|affordable|luxury,#a8138a,4.8,True,sale
+PROP1831,School upon in.,Bungalow,28507308,West Bengal,Siliguri,3597,2,4,power-backup|gym|security,Semi,2025-10-03,Builder,family-friendly|lake-view,#36e3a7,3.1,False,sale
+PROP1832,Brother create assume relate.,Villa,4677337,Karnataka,Mangalore,4030,5,4,clubhouse|garden|lift,Unfurnished,2025-09-21,Builder,family-friendly|gated-community,#fdab2e,4.3,False,rent
+PROP1833,Toward say sing question.,Apartment,9463897,West Bengal,Siliguri,3961,2,3,power-backup|gym|clubhouse|security,Semi,2025-07-09,Owner,gated-community|sea-view|corner-plot|family-friendly,#2e51b5,2.8,True,rent
+PROP1834,Term personal paper.,Villa,47356688,Gujarat,Vadodara,3808,3,4,security|pool|lift,Semi,2025-09-18,Builder,affordable|gated-community,#f637b8,1.1,False,rent
+PROP1835,Forget apply bring service red.,Penthouse,40035309,West Bengal,Kolkata,2133,1,1,parking|pool|security|gym|garden,Furnished,2025-09-14,Agent,sea-view|family-friendly|gated-community|luxury,#783008,2.6,True,rent
+PROP1836,Least charge oil care.,Apartment,25074344,Karnataka,Bangalore,725,6,3,clubhouse|parking|wifi|garden|lift,Semi,2025-06-14,Builder,gated-community|near-metro|luxury|family-friendly,#3c683c,1.1,True,rent
+PROP1837,Manager leave two.,Apartment,41622615,Delhi,New Delhi,3427,2,3,security|lift|parking|wifi|clubhouse,Unfurnished,2025-08-17,Owner,sea-view|lake-view|luxury,#712ecb,2.2,True,rent
+PROP1838,Because option.,Studio,12776147,Karnataka,Bangalore,2721,2,5,parking|gym|wifi,Unfurnished,2025-11-15,Agent,corner-plot|luxury,#aa1714,2.3,False,sale
+PROP1839,Relationship remember could child process.,Apartment,28811673,Delhi,New Delhi,770,2,3,clubhouse|lift|garden|power-backup|gym|security,Furnished,2025-10-24,Agent,lake-view|gated-community,#4bef72,1.2,True,sale
+PROP1840,Structure agreement girl product.,Penthouse,22040068,Delhi,New Delhi,1569,6,3,security|garden|clubhouse|gym|wifi,Furnished,2025-08-08,Builder,near-metro|gated-community|lake-view|luxury,#ac7c91,3.5,True,rent
+PROP1841,Music drive general.,Bungalow,14608412,Karnataka,Bangalore,1763,5,4,clubhouse|security|power-backup|gym|garden|parking,Unfurnished,2025-11-08,Builder,family-friendly|affordable|luxury|corner-plot,#2f69e3,2.6,True,rent
+PROP1842,Daughter single church remain.,Villa,47340164,Tamil Nadu,Chennai,4143,2,4,pool|wifi|power-backup|clubhouse|lift,Furnished,2025-10-31,Builder,family-friendly|near-metro,#47b052,4.8,False,sale
+PROP1843,Personal agreement.,Villa,45647365,West Bengal,Siliguri,569,5,5,pool|security|wifi,Semi,2025-10-06,Owner,family-friendly|gated-community|luxury,#d0e005,1.6,False,sale
+PROP1844,Fall order factor.,Penthouse,47661270,Delhi,New Delhi,1353,5,4,wifi|security|clubhouse|parking|garden,Furnished,2025-11-07,Builder,luxury|family-friendly,#b696ba,4.4,False,rent
+PROP1845,International PM daughter reach identify.,Apartment,4572502,Delhi,New Delhi,4387,5,1,wifi|lift|pool,Unfurnished,2025-08-05,Agent,near-metro|family-friendly|lake-view,#3c7f8e,4.2,False,rent
+PROP1846,Something southern.,Villa,25940486,Tamil Nadu,Chennai,2277,2,2,power-backup|parking|wifi|lift|gym|security,Furnished,2025-11-09,Agent,lake-view|corner-plot,#ea7a58,4.6,True,sale
+PROP1847,You base go.,Villa,33787551,Tamil Nadu,Coimbatore,4696,3,5,lift|power-backup|security|garden|parking,Furnished,2025-08-05,Builder,lake-view|affordable|near-metro|sea-view,#59124d,2.3,False,rent
+PROP1848,Religious south outside.,Apartment,23484728,Karnataka,Mangalore,3614,6,3,parking|wifi|clubhouse|pool|gym|garden,Semi,2025-06-29,Builder,affordable|lake-view,#65c422,3.2,True,rent
+PROP1849,Ball whole student.,Penthouse,10267680,Delhi,New Delhi,1454,1,3,gym|clubhouse|garden|power-backup|wifi|security,Semi,2025-08-26,Owner,lake-view|corner-plot,#0ec99d,1.8,False,rent
+PROP1850,Writer as able.,Villa,47051611,Gujarat,Surat,2962,5,1,gym|power-backup|clubhouse,Furnished,2025-06-07,Agent,family-friendly|near-metro|affordable,#26779c,2.0,True,rent
+PROP1851,Series into knowledge various.,Apartment,49037235,Tamil Nadu,Madurai,1787,2,4,wifi|garden|parking,Furnished,2025-07-15,Owner,gated-community|affordable|lake-view|sea-view,#7a2014,3.0,True,rent
+PROP1852,Industry east young across.,Bungalow,11059291,Delhi,New Delhi,1841,6,2,wifi|pool|lift|security|garden|parking,Semi,2025-10-14,Owner,lake-view|affordable|near-metro,#09548c,4.2,True,sale
+PROP1853,Campaign prepare.,Bungalow,1545261,Gujarat,Vadodara,2807,3,5,pool|garden|lift|security|gym|parking,Unfurnished,2025-09-10,Builder,corner-plot|affordable|lake-view,#40f019,3.6,False,rent
+PROP1854,Seat factor cut cost.,Studio,10385175,Gujarat,Vadodara,2300,6,3,power-backup|security|clubhouse|parking|gym|lift,Unfurnished,2025-09-11,Agent,near-metro|lake-view|family-friendly|sea-view,#17b715,3.1,False,sale
+PROP1855,Cold building both.,Penthouse,35653722,West Bengal,Siliguri,3041,5,2,security|power-backup|clubhouse|gym,Furnished,2025-10-04,Builder,sea-view|luxury,#99e1b0,1.8,True,rent
+PROP1856,Star your system she five.,Apartment,6540086,Maharashtra,Pune,3052,5,2,wifi|pool|garden,Unfurnished,2025-06-17,Agent,affordable|sea-view|family-friendly,#cf4449,3.8,False,sale
+PROP1857,Write clearly pass oil.,Bungalow,996719,Delhi,New Delhi,4354,2,4,power-backup|clubhouse|lift,Semi,2025-11-14,Owner,luxury|sea-view|corner-plot|family-friendly,#f82e69,4.8,False,sale
+PROP1858,Letter final maintain yard in.,Penthouse,41822834,Karnataka,Bangalore,2834,2,1,wifi|security|pool|clubhouse,Furnished,2025-08-01,Agent,affordable|family-friendly,#f516f7,2.5,False,sale
+PROP1859,Really great finally factor.,Villa,25316899,Tamil Nadu,Chennai,4982,5,4,power-backup|clubhouse|lift|security|parking,Unfurnished,2025-07-08,Agent,gated-community|lake-view|affordable,#012043,1.9,True,sale
+PROP1860,Little size herself.,Penthouse,7731675,Delhi,New Delhi,1000,4,2,pool|parking|gym|wifi|garden|security,Furnished,2025-09-21,Builder,sea-view|corner-plot|gated-community|family-friendly,#dc5ef4,4.2,True,rent
+PROP1861,Whole position others nothing let.,Studio,16282228,Delhi,New Delhi,1083,4,4,clubhouse|gym|power-backup|lift|security,Semi,2025-07-08,Owner,lake-view|affordable|luxury|near-metro,#b8f43c,3.6,True,sale
+PROP1862,Red assume teacher.,Studio,34499852,Maharashtra,Nagpur,4013,1,3,power-backup|pool|clubhouse|parking,Unfurnished,2025-08-22,Owner,lake-view|gated-community|affordable,#77f756,3.5,True,sale
+PROP1863,Send writer bed.,Villa,43416276,Tamil Nadu,Coimbatore,3007,3,3,garden|security|parking|pool|power-backup,Unfurnished,2025-11-10,Builder,sea-view|luxury|family-friendly|corner-plot,#f40737,1.2,False,sale
+PROP1864,Protect cost.,Bungalow,36879714,West Bengal,Kolkata,2592,1,1,pool|parking|wifi|gym|power-backup|security,Semi,2025-11-01,Agent,affordable|near-metro,#9a7cf6,3.0,False,sale
+PROP1865,Small treatment what north.,Villa,22888557,Tamil Nadu,Chennai,520,3,3,gym|garden|security|pool|wifi,Unfurnished,2025-08-02,Agent,gated-community|family-friendly|affordable|luxury,#741d0d,1.4,False,rent
+PROP1866,Heart letter finish spend keep.,Penthouse,39559389,West Bengal,Siliguri,4357,6,2,power-backup|wifi|gym|pool|garden,Unfurnished,2025-11-06,Builder,luxury|near-metro|lake-view|corner-plot,#95ad3a,4.7,True,rent
+PROP1867,Near bank house.,Apartment,35594975,Delhi,New Delhi,439,6,2,garden|gym|wifi|parking|clubhouse,Unfurnished,2025-09-13,Builder,near-metro|family-friendly,#b5cf30,3.6,False,rent
+PROP1868,Certain road of open.,Bungalow,20454851,Tamil Nadu,Coimbatore,3536,5,2,clubhouse|garden|parking,Furnished,2025-08-01,Owner,near-metro|affordable|sea-view,#b6be6a,4.5,False,sale
+PROP1869,Hour accept mission.,Villa,8466396,Maharashtra,Pune,3444,3,4,lift|garden|clubhouse|wifi|power-backup,Semi,2025-09-29,Agent,gated-community|corner-plot|luxury|family-friendly,#a5791e,2.4,True,sale
+PROP1870,Structure card cause grow.,Villa,30559724,Karnataka,Bangalore,3309,3,5,power-backup|security|lift|wifi,Semi,2025-09-07,Owner,family-friendly|affordable|gated-community,#cc94c6,4.2,False,sale
+PROP1871,End early.,Villa,27499589,Delhi,New Delhi,1316,6,4,wifi|gym|security|parking,Semi,2025-08-30,Owner,lake-view|sea-view|luxury|affordable,#be4e5f,1.3,False,rent
+PROP1872,Foot administration center.,Apartment,46612470,West Bengal,Kolkata,885,3,4,pool|gym|security|clubhouse|lift,Furnished,2025-06-21,Agent,family-friendly|affordable,#5bae96,1.8,False,rent
+PROP1873,Interesting person option before.,Bungalow,18687868,Maharashtra,Nagpur,2656,3,5,parking|security|wifi,Semi,2025-11-07,Builder,near-metro|luxury,#5f7309,3.6,True,sale
+PROP1874,Rather although million various computer.,Penthouse,24730319,Maharashtra,Nagpur,1448,2,1,power-backup|wifi|gym,Furnished,2025-07-03,Agent,near-metro|luxury|lake-view|corner-plot,#b33f9b,3.3,True,rent
+PROP1875,Free stop result west.,Penthouse,21467089,West Bengal,Siliguri,2300,5,3,clubhouse|parking|wifi|pool|security,Semi,2025-10-25,Builder,family-friendly|near-metro|corner-plot,#1975bd,3.9,True,sale
+PROP1876,Work hair know risk.,Studio,24183068,Maharashtra,Mumbai,1898,1,1,gym|pool|security|power-backup|clubhouse,Unfurnished,2025-06-11,Owner,family-friendly|gated-community,#1e9982,2.7,False,sale
+PROP1877,Occur plan ball one.,Bungalow,5830740,Delhi,New Delhi,2191,2,3,parking|security|power-backup|garden|pool,Semi,2025-09-23,Agent,affordable|lake-view|family-friendly,#7f966e,4.3,True,sale
+PROP1878,Nothing second car key summer.,Studio,43558800,Maharashtra,Pune,3980,1,4,wifi|power-backup|clubhouse,Semi,2025-07-23,Owner,luxury|family-friendly,#7b72ad,3.0,True,rent
+PROP1879,None include including.,Bungalow,27396291,Karnataka,Mangalore,2524,2,5,security|garden|clubhouse,Unfurnished,2025-07-10,Owner,luxury|gated-community|near-metro|family-friendly,#afad92,1.9,False,rent
+PROP1880,Wind discussion.,Penthouse,21960605,Tamil Nadu,Coimbatore,2166,1,5,security|parking|gym|wifi|lift,Unfurnished,2025-11-16,Builder,corner-plot|near-metro,#34aca1,3.3,True,rent
+PROP1881,People indeed leader think travel.,Villa,19637296,Karnataka,Bangalore,4537,3,1,gym|wifi|clubhouse|security,Furnished,2025-11-05,Owner,corner-plot|luxury|near-metro,#8e4863,4.1,True,sale
+PROP1882,Draw since later hard indicate.,Bungalow,23857230,Tamil Nadu,Chennai,3460,4,3,gym|lift|garden|parking|power-backup,Unfurnished,2025-06-18,Agent,sea-view|gated-community|luxury,#d6ced4,1.5,False,rent
+PROP1883,Present like could even floor.,Apartment,15390017,West Bengal,Kolkata,1967,2,3,lift|parking|security|wifi|power-backup|gym,Semi,2025-06-18,Owner,family-friendly|lake-view|affordable,#a82e85,4.9,False,sale
+PROP1884,Church pattern where.,Apartment,37678733,Gujarat,Ahmedabad,541,6,5,power-backup|clubhouse|lift|gym,Semi,2025-06-23,Agent,affordable|luxury|family-friendly|corner-plot,#6412b4,4.4,False,sale
+PROP1885,Politics ten end.,Studio,37773381,Karnataka,Mangalore,3361,1,3,garden|gym|lift,Furnished,2025-10-16,Agent,family-friendly|gated-community,#0b19c0,1.0,True,sale
+PROP1886,Company realize college well American.,Penthouse,42284683,Gujarat,Surat,1044,1,4,garden|security|wifi,Furnished,2025-09-23,Owner,corner-plot|lake-view|gated-community|family-friendly,#750e9c,1.3,False,rent
+PROP1887,Ago hand page.,Villa,36199390,Gujarat,Surat,3582,1,5,clubhouse|security|parking|wifi|garden|pool,Furnished,2025-11-21,Owner,near-metro|sea-view|gated-community,#648af6,1.6,True,rent
+PROP1888,Example special.,Villa,10978186,Karnataka,Mangalore,3524,3,1,garden|clubhouse|wifi|power-backup|gym,Furnished,2025-11-02,Builder,sea-view|affordable|luxury|gated-community,#28b8fd,3.3,True,rent
+PROP1889,Party expert mind.,Villa,45012622,Tamil Nadu,Madurai,1399,6,2,parking|lift|power-backup|wifi|security,Unfurnished,2025-08-12,Builder,near-metro|lake-view|family-friendly,#63eaa4,1.5,False,sale
+PROP1890,Tax article himself thought.,Apartment,25585579,Delhi,New Delhi,957,6,1,wifi|parking|power-backup,Unfurnished,2025-09-07,Builder,lake-view|luxury|affordable|sea-view,#981d82,2.9,False,sale
+PROP1891,Similar player control more.,Apartment,42025549,Maharashtra,Mumbai,2262,4,5,gym|power-backup|security|wifi|pool,Furnished,2025-10-19,Agent,sea-view|corner-plot,#45a737,2.8,True,sale
+PROP1892,Parent look determine mention course.,Studio,36650891,Delhi,New Delhi,4518,6,4,pool|parking|gym,Unfurnished,2025-07-24,Owner,near-metro|gated-community|corner-plot,#d6528f,3.9,False,rent
+PROP1893,Should wall listen student.,Villa,48929994,Delhi,New Delhi,1232,5,2,lift|gym|security|pool|clubhouse|power-backup,Unfurnished,2025-08-13,Builder,near-metro|sea-view|lake-view,#0931ea,4.0,False,rent
+PROP1894,Inside pay call hit.,Apartment,47458542,Tamil Nadu,Chennai,4577,1,3,lift|clubhouse|power-backup,Unfurnished,2025-08-29,Builder,sea-view|family-friendly|lake-view|gated-community,#d68239,2.8,False,rent
+PROP1895,Price sell generation for.,Bungalow,48072260,Tamil Nadu,Coimbatore,3583,6,2,power-backup|garden|wifi,Unfurnished,2025-09-14,Builder,gated-community|affordable|near-metro,#87b216,2.2,True,sale
+PROP1896,In fall walk.,Penthouse,49176051,Karnataka,Bangalore,602,1,3,pool|clubhouse|security|power-backup|garden|wifi,Unfurnished,2025-08-17,Agent,family-friendly|sea-view|luxury|affordable,#3df068,3.8,False,sale
+PROP1897,Rock him protect teach.,Apartment,14730804,Maharashtra,Nagpur,722,5,1,lift|parking|pool|wifi|garden|clubhouse,Furnished,2025-08-20,Agent,lake-view|near-metro,#ab1af3,2.5,True,sale
+PROP1898,Parent never production performance wife.,Apartment,43084128,West Bengal,Siliguri,575,3,1,garden|lift|wifi,Unfurnished,2025-06-25,Agent,gated-community|lake-view|family-friendly,#b7052b,3.5,False,rent
+PROP1899,Several require church together her.,Bungalow,32787239,Tamil Nadu,Madurai,4492,4,1,clubhouse|security|lift|wifi|power-backup|parking,Semi,2025-08-20,Agent,sea-view|family-friendly|affordable,#6f067e,2.0,False,rent
+PROP1900,American situation tax case show.,Penthouse,9106630,Gujarat,Surat,4032,6,3,lift|clubhouse|gym,Furnished,2025-09-13,Agent,lake-view|corner-plot|near-metro,#641ca8,3.7,True,rent
+PROP1901,Game especially benefit.,Villa,26480236,Tamil Nadu,Madurai,2779,3,4,parking|power-backup|security|garden,Semi,2025-09-05,Agent,family-friendly|luxury,#5d2b44,3.5,False,rent
+PROP1902,One out use candidate.,Penthouse,47444663,Delhi,New Delhi,871,3,3,garden|clubhouse|gym|lift,Furnished,2025-07-25,Agent,sea-view|corner-plot|lake-view,#ca216a,2.9,True,sale
+PROP1903,Large research indicate.,Bungalow,18591951,West Bengal,Siliguri,2704,1,4,gym|lift|parking|power-backup|security|pool,Furnished,2025-09-14,Agent,luxury|sea-view|corner-plot,#107af1,4.8,False,rent
+PROP1904,You nothing general.,Studio,10330265,Gujarat,Ahmedabad,2120,1,3,security|wifi|parking|gym,Unfurnished,2025-10-04,Builder,lake-view|affordable|near-metro|family-friendly,#d9d7d3,3.8,False,rent
+PROP1905,Rise talk manage avoid.,Penthouse,11132445,West Bengal,Siliguri,785,2,1,power-backup|garden|pool|lift|wifi|security,Semi,2025-08-28,Builder,family-friendly|corner-plot|lake-view|gated-community,#6892a4,2.1,False,rent
+PROP1906,Behavior daughter two.,Penthouse,9602599,Tamil Nadu,Chennai,4816,6,5,wifi|power-backup|pool|lift|gym|garden,Unfurnished,2025-10-18,Owner,gated-community|family-friendly,#d36020,2.5,False,rent
+PROP1907,Tax career eat.,Penthouse,34963805,Delhi,New Delhi,853,5,5,security|clubhouse|wifi,Semi,2025-06-15,Owner,luxury|sea-view|lake-view,#1eb4c5,3.9,True,rent
+PROP1908,Seven democratic kid.,Apartment,46820783,West Bengal,Kolkata,1895,4,1,parking|security|lift,Furnished,2025-09-30,Agent,affordable|gated-community|corner-plot|sea-view,#e3a165,4.1,True,sale
+PROP1909,Magazine Democrat participant.,Bungalow,24569905,Maharashtra,Nagpur,4611,3,4,garden|lift|clubhouse,Unfurnished,2025-10-20,Owner,sea-view|luxury,#b140f9,4.1,False,sale
+PROP1910,Star case east four value.,Villa,17650667,Maharashtra,Pune,713,2,2,gym|wifi|security,Semi,2025-11-18,Agent,family-friendly|sea-view|gated-community,#16d509,3.3,True,sale
+PROP1911,Price others big.,Penthouse,43843180,Maharashtra,Nagpur,2411,4,5,security|pool|gym|parking|clubhouse|garden,Semi,2025-07-02,Owner,luxury|family-friendly|sea-view,#819318,2.9,True,rent
+PROP1912,Rule church far he.,Apartment,35506961,Delhi,New Delhi,1464,6,1,parking|power-backup|garden|lift|gym|wifi,Semi,2025-06-10,Builder,luxury|near-metro|affordable|gated-community,#393ee7,4.6,True,sale
+PROP1913,Remain history partner.,Villa,776108,West Bengal,Siliguri,2638,2,5,wifi|gym|lift,Furnished,2025-06-07,Agent,corner-plot|gated-community|affordable|family-friendly,#b408ca,3.6,False,sale
+PROP1914,Congress require water.,Penthouse,19302927,Gujarat,Ahmedabad,2874,3,4,garden|clubhouse|lift,Furnished,2025-10-06,Builder,sea-view|affordable,#803f11,2.9,True,sale
+PROP1915,Less matter.,Penthouse,826322,West Bengal,Kolkata,4617,6,2,garden|power-backup|pool|wifi|lift,Furnished,2025-06-21,Builder,gated-community|corner-plot|near-metro,#37b5b8,2.1,True,rent
+PROP1916,Agree mother friend type imagine.,Villa,21203863,Gujarat,Surat,1056,6,3,wifi|lift|parking|pool,Unfurnished,2025-08-24,Agent,near-metro|affordable,#089873,2.6,True,sale
+PROP1917,Data per agent.,Apartment,12301865,Maharashtra,Mumbai,3145,6,5,garden|parking|wifi|security|gym|power-backup,Furnished,2025-08-14,Owner,near-metro|family-friendly|corner-plot|gated-community,#d9900f,3.1,False,sale
+PROP1918,Change clear challenge.,Studio,16337000,West Bengal,Kolkata,1920,3,1,lift|clubhouse|garden|security,Unfurnished,2025-06-08,Owner,affordable|lake-view,#e101ce,4.2,True,rent
+PROP1919,Occur throw.,Penthouse,16989724,Karnataka,Mysore,2849,2,5,lift|parking|pool,Semi,2025-11-07,Owner,corner-plot|family-friendly|luxury|gated-community,#bbd9c1,5.0,True,sale
+PROP1920,Job various second.,Penthouse,12376523,West Bengal,Kolkata,1878,5,5,power-backup|garden|gym|wifi|pool|lift,Furnished,2025-11-11,Owner,near-metro|gated-community|sea-view|family-friendly,#04726b,4.1,True,rent
+PROP1921,These something.,Apartment,47244885,Tamil Nadu,Chennai,2045,4,4,clubhouse|pool|security|lift|wifi,Semi,2025-08-07,Owner,lake-view|family-friendly,#c2c268,5.0,True,sale
+PROP1922,Them owner.,Studio,6780022,Karnataka,Mysore,3672,4,4,pool|clubhouse|power-backup|garden|lift|wifi,Unfurnished,2025-08-22,Owner,luxury|near-metro|lake-view|gated-community,#d37baf,1.8,True,sale
+PROP1923,Main provide discuss.,Apartment,4990279,Tamil Nadu,Chennai,3258,1,5,wifi|security|parking|garden|clubhouse|gym,Furnished,2025-08-27,Owner,gated-community|sea-view|luxury|corner-plot,#75e027,4.1,True,rent
+PROP1924,Body drop that.,Bungalow,47038874,Maharashtra,Nagpur,4186,2,2,lift|clubhouse|pool|security|parking|power-backup,Unfurnished,2025-08-24,Owner,near-metro|lake-view|corner-plot,#e78d45,2.7,False,rent
+PROP1925,People Congress season.,Studio,28845842,Gujarat,Vadodara,2954,2,1,wifi|parking|clubhouse|garden,Semi,2025-06-19,Agent,lake-view|family-friendly,#466f09,2.6,False,rent
+PROP1926,Debate hair it.,Villa,40864643,Tamil Nadu,Coimbatore,1458,4,3,clubhouse|wifi|parking|lift|security,Semi,2025-08-23,Owner,affordable|lake-view,#2ae203,4.0,False,sale
+PROP1927,Focus science build product.,Bungalow,42892837,Delhi,New Delhi,809,2,1,pool|lift|power-backup|security|garden|parking,Semi,2025-09-19,Builder,lake-view|corner-plot|affordable|family-friendly,#452ad2,2.0,False,sale
+PROP1928,Apply different author seem.,Villa,1755496,West Bengal,Kolkata,1294,4,1,wifi|lift|power-backup|parking|clubhouse,Semi,2025-10-07,Builder,luxury|lake-view|sea-view|gated-community,#6d2e96,1.3,False,rent
+PROP1929,Which describe necessary leader.,Villa,10327932,Tamil Nadu,Chennai,2717,1,2,parking|lift|security|clubhouse|wifi,Semi,2025-08-29,Builder,family-friendly|affordable|gated-community,#734f9f,1.2,True,rent
+PROP1930,System day model hope third.,Apartment,8769793,Karnataka,Mysore,3483,3,2,parking|gym|clubhouse|security,Furnished,2025-06-12,Owner,gated-community|lake-view,#fb4dbc,3.9,True,sale
+PROP1931,Benefit among management benefit.,Studio,1185204,Delhi,New Delhi,1011,3,3,gym|power-backup|wifi|clubhouse|garden|parking,Semi,2025-08-15,Builder,lake-view|corner-plot,#a1cd62,2.0,False,rent
+PROP1932,Both during.,Apartment,48089070,Karnataka,Bangalore,905,6,3,power-backup|security|garden|parking,Semi,2025-07-29,Builder,family-friendly|near-metro|sea-view|luxury,#2116e1,4.7,True,sale
+PROP1933,Spend hundred.,Studio,20797099,West Bengal,Kolkata,907,4,4,lift|power-backup|pool|wifi|security|clubhouse,Furnished,2025-07-02,Builder,near-metro|luxury|sea-view|affordable,#ae8480,4.7,False,sale
+PROP1934,Firm professor drop.,Penthouse,19159789,Gujarat,Vadodara,4231,1,1,garden|pool|clubhouse|lift|power-backup|security,Furnished,2025-10-03,Builder,gated-community|affordable|lake-view,#9e6a52,3.5,False,sale
+PROP1935,Third must through national.,Bungalow,43597681,West Bengal,Siliguri,4977,1,5,parking|wifi|pool|lift,Semi,2025-06-07,Agent,gated-community|lake-view|family-friendly|corner-plot,#a6038d,2.6,False,rent
+PROP1936,Off style new.,Penthouse,18906552,Delhi,New Delhi,2547,1,1,wifi|parking|security,Unfurnished,2025-09-21,Agent,family-friendly|luxury,#d4afcc,5.0,True,sale
+PROP1937,Contain who spring deep practice.,Penthouse,4992475,Karnataka,Bangalore,1810,5,1,gym|wifi|clubhouse,Unfurnished,2025-07-15,Builder,lake-view|gated-community|sea-view|luxury,#6fd99b,4.2,True,sale
+PROP1938,His very action population.,Penthouse,47539097,West Bengal,Kolkata,3873,1,2,security|garden|pool|clubhouse|gym,Furnished,2025-08-04,Owner,affordable|sea-view|corner-plot,#80efe5,2.4,False,sale
+PROP1939,Several deep business popular outside.,Bungalow,22190052,Karnataka,Mysore,4377,4,4,garden|gym|clubhouse|lift|power-backup,Unfurnished,2025-08-22,Agent,lake-view|corner-plot|luxury,#8863be,2.5,False,sale
+PROP1940,Involve strategy choice sea action.,Bungalow,8412685,Karnataka,Mysore,3914,1,4,security|wifi|power-backup|gym|pool|garden,Unfurnished,2025-10-20,Builder,affordable|sea-view|lake-view|corner-plot,#012851,3.6,True,rent
+PROP1941,Heavy rate six.,Bungalow,44355228,Gujarat,Surat,3479,6,4,power-backup|wifi|security|pool|clubhouse,Semi,2025-10-01,Builder,sea-view|affordable|family-friendly,#e4d6c0,1.2,True,rent
+PROP1942,Responsibility but group.,Villa,1502154,Delhi,New Delhi,4417,3,4,pool|gym|parking|power-backup|clubhouse,Unfurnished,2025-09-16,Agent,gated-community|corner-plot|sea-view|family-friendly,#7c9012,3.3,True,rent
+PROP1943,Collection accept though.,Penthouse,39532471,Karnataka,Mysore,2044,4,1,gym|power-backup|lift|wifi|pool|security,Semi,2025-11-08,Agent,corner-plot|near-metro,#2c17b1,4.4,True,rent
+PROP1944,Wear technology.,Apartment,12498336,Karnataka,Mysore,404,2,4,power-backup|parking|security|wifi,Unfurnished,2025-10-05,Agent,corner-plot|luxury|near-metro|lake-view,#114b07,2.8,False,sale
+PROP1945,Alone senior trip hot.,Bungalow,30803480,Tamil Nadu,Chennai,2851,4,1,power-backup|clubhouse|parking|security|lift|gym,Unfurnished,2025-10-15,Builder,lake-view|near-metro|luxury|corner-plot,#d4843b,1.9,True,sale
+PROP1946,Get throughout.,Villa,46143607,Gujarat,Ahmedabad,2890,6,2,clubhouse|pool|security,Unfurnished,2025-06-09,Owner,sea-view|corner-plot|family-friendly|near-metro,#30243f,3.0,True,rent
+PROP1947,Degree because sign type.,Villa,14729710,West Bengal,Siliguri,2065,3,2,parking|pool|wifi|lift|security,Furnished,2025-06-06,Agent,lake-view|sea-view|family-friendly|near-metro,#d652f9,4.2,False,sale
+PROP1948,While capital hand treat enjoy.,Bungalow,46647690,West Bengal,Siliguri,2533,6,1,power-backup|wifi|garden,Semi,2025-07-04,Builder,luxury|affordable,#359dcc,1.7,True,sale
+PROP1949,Soon woman.,Studio,46726816,Gujarat,Surat,1206,1,3,pool|power-backup|lift|garden|clubhouse|gym,Furnished,2025-06-26,Agent,luxury|sea-view|affordable,#72589a,3.2,True,sale
+PROP1950,Always answer six first.,Studio,42805843,Gujarat,Ahmedabad,1887,5,4,security|parking|clubhouse,Semi,2025-09-06,Owner,gated-community|family-friendly,#745392,3.6,False,sale
+PROP1951,Ten stock memory member.,Penthouse,13574495,West Bengal,Siliguri,2680,1,3,lift|clubhouse|security,Furnished,2025-09-08,Agent,gated-community|near-metro,#c9936f,2.0,False,sale
+PROP1952,Cultural month source size.,Penthouse,23303470,Maharashtra,Mumbai,873,3,5,security|clubhouse|parking|lift|pool,Semi,2025-11-02,Agent,family-friendly|luxury|sea-view,#184abf,4.0,False,rent
+PROP1953,Prove create coach.,Penthouse,8954321,Delhi,New Delhi,593,1,3,pool|gym|clubhouse,Furnished,2025-08-08,Builder,family-friendly|affordable|lake-view|near-metro,#adccb7,3.3,False,rent
+PROP1954,Member may.,Bungalow,38065576,Gujarat,Surat,1832,2,5,security|clubhouse|parking|wifi,Furnished,2025-10-27,Builder,corner-plot|sea-view,#7524a4,4.3,False,sale
+PROP1955,Send blood dark concern.,Villa,38059833,Tamil Nadu,Madurai,4631,2,5,clubhouse|lift|security|pool|garden|power-backup,Unfurnished,2025-07-30,Agent,affordable|luxury|gated-community|lake-view,#802138,2.2,True,rent
+PROP1956,Particular travel new start professor.,Penthouse,37407527,Karnataka,Bangalore,2943,2,1,garden|pool|security|lift,Furnished,2025-06-09,Owner,gated-community|family-friendly,#5e1c54,4.8,False,rent
+PROP1957,Together garden we turn.,Villa,45827386,Gujarat,Vadodara,2899,2,5,power-backup|garden|lift,Unfurnished,2025-10-28,Owner,corner-plot|affordable|luxury|lake-view,#79dbc1,4.5,False,sale
+PROP1958,For strategy upon nor later.,Apartment,10940510,Maharashtra,Nagpur,3253,6,3,gym|garden|clubhouse|pool|lift,Semi,2025-07-15,Agent,corner-plot|affordable|family-friendly|lake-view,#bc94b1,3.0,False,sale
+PROP1959,Standard ask heavy war.,Apartment,30411110,Delhi,New Delhi,3914,5,5,power-backup|security|garden|gym|clubhouse|pool,Furnished,2025-06-10,Agent,lake-view|corner-plot|luxury,#455af9,1.3,True,rent
+PROP1960,Executive daughter.,Villa,7987705,Karnataka,Mangalore,1243,2,2,parking|gym|lift|power-backup|pool,Unfurnished,2025-09-18,Builder,luxury|family-friendly|corner-plot,#5139b1,4.4,False,rent
+PROP1961,Structure marriage table them.,Villa,45141790,Tamil Nadu,Chennai,905,2,4,clubhouse|lift|wifi|garden,Semi,2025-07-05,Agent,corner-plot|lake-view,#6c67d9,2.3,True,sale
+PROP1962,Single structure.,Apartment,21851284,Karnataka,Bangalore,4401,5,1,lift|power-backup|security,Furnished,2025-09-26,Owner,affordable|family-friendly|lake-view|near-metro,#92bc7d,1.2,False,sale
+PROP1963,Coach trouble nature language able.,Penthouse,14797043,Gujarat,Vadodara,2933,3,1,pool|garden|power-backup|parking|security,Furnished,2025-11-04,Owner,affordable|sea-view|luxury,#90c97a,2.1,False,sale
+PROP1964,Site firm kitchen theory.,Studio,23907677,Tamil Nadu,Chennai,1853,2,4,clubhouse|power-backup|security|gym,Semi,2025-11-06,Agent,gated-community|near-metro|sea-view,#47a883,1.0,True,sale
+PROP1965,Power land your.,Bungalow,43260218,Karnataka,Mysore,4733,6,5,lift|gym|garden|clubhouse|security|pool,Semi,2025-09-09,Owner,near-metro|gated-community|luxury,#5e20d5,1.5,False,rent
+PROP1966,Let benefit deal threat.,Villa,26909783,Gujarat,Surat,543,6,2,wifi|lift|clubhouse|power-backup|garden|security,Semi,2025-06-15,Builder,luxury|sea-view|affordable,#2f4e58,4.5,True,rent
+PROP1967,Shake office machine.,Penthouse,10066101,West Bengal,Kolkata,2527,1,4,pool|wifi|security|gym|clubhouse|parking,Unfurnished,2025-07-11,Agent,sea-view|lake-view|near-metro,#bf500e,4.1,True,rent
+PROP1968,North today response one research.,Studio,46132351,Maharashtra,Mumbai,3188,5,4,garden|lift|parking|security|pool|gym,Semi,2025-11-14,Builder,gated-community|family-friendly|sea-view,#de5b30,2.3,False,sale
+PROP1969,General season drop article.,Penthouse,27665484,Gujarat,Vadodara,3610,2,2,clubhouse|security|parking|pool|garden,Semi,2025-09-09,Agent,family-friendly|luxury|lake-view,#f889b0,4.5,True,rent
+PROP1970,Nice consider although his.,Studio,41912295,Maharashtra,Mumbai,1492,2,1,clubhouse|gym|security|pool,Unfurnished,2025-11-09,Builder,luxury|lake-view,#d54f7b,2.9,True,rent
+PROP1971,South movement it.,Apartment,46622645,Gujarat,Vadodara,1171,2,3,lift|garden|power-backup,Semi,2025-08-24,Agent,corner-plot|gated-community,#5a71a3,2.6,True,rent
+PROP1972,Game according chair base.,Studio,40566344,Gujarat,Vadodara,1415,4,5,pool|clubhouse|parking,Semi,2025-09-14,Owner,near-metro|sea-view,#7d6757,4.2,False,sale
+PROP1973,Good would.,Villa,10760547,Delhi,New Delhi,1985,6,1,gym|wifi|pool|security|power-backup,Semi,2025-10-11,Builder,luxury|gated-community|family-friendly|sea-view,#09219d,3.2,True,sale
+PROP1974,Enjoy feeling far hour reduce.,Studio,47410067,West Bengal,Siliguri,2127,6,1,garden|wifi|gym|security,Furnished,2025-09-14,Builder,gated-community|luxury,#7a363f,3.5,True,sale
+PROP1975,Quickly feel.,Bungalow,43416672,Maharashtra,Pune,1454,6,1,power-backup|clubhouse|parking|gym|wifi|security,Unfurnished,2025-07-04,Owner,sea-view|near-metro,#9984f6,2.8,True,sale
+PROP1976,Wait few.,Apartment,15452434,Maharashtra,Nagpur,3416,1,5,security|power-backup|garden|clubhouse|lift,Furnished,2025-07-07,Owner,corner-plot|gated-community|luxury|lake-view,#8fdb44,3.9,False,sale
+PROP1977,Together government.,Apartment,25905495,Gujarat,Vadodara,3361,3,2,parking|gym|lift|clubhouse,Semi,2025-08-12,Builder,luxury|corner-plot|sea-view,#666e99,3.1,True,rent
+PROP1978,Yeah so white if boy.,Penthouse,17515774,Gujarat,Surat,2475,3,5,gym|lift|wifi,Semi,2025-09-23,Builder,lake-view|corner-plot|near-metro|sea-view,#4714b9,3.7,False,sale
+PROP1979,Tough accept your night we.,Penthouse,8472472,West Bengal,Siliguri,3406,6,2,security|clubhouse|wifi,Semi,2025-06-09,Agent,family-friendly|gated-community,#256efa,1.4,True,sale
+PROP1980,Recent between lay.,Studio,48320337,Tamil Nadu,Chennai,939,6,3,lift|wifi|clubhouse|power-backup,Furnished,2025-08-24,Builder,lake-view|family-friendly,#8e19f8,4.7,False,rent
+PROP1981,History month race get.,Bungalow,2931049,Tamil Nadu,Madurai,2728,5,3,clubhouse|power-backup|parking|lift|gym,Unfurnished,2025-08-10,Owner,near-metro|lake-view|family-friendly|luxury,#c9bbce,2.9,True,rent
+PROP1982,Should statement.,Bungalow,31848147,Tamil Nadu,Coimbatore,1378,4,2,gym|wifi|lift|clubhouse|security,Furnished,2025-06-21,Builder,gated-community|corner-plot|sea-view,#3be8e8,2.1,False,sale
+PROP1983,Personal daughter region share.,Studio,23420609,Gujarat,Surat,3799,5,1,power-backup|lift|pool|security|wifi|garden,Furnished,2025-09-14,Builder,gated-community|luxury|near-metro|sea-view,#7725af,2.0,True,rent
+PROP1984,Exist worry they site.,Apartment,24934257,Maharashtra,Pune,996,4,1,gym|parking|garden|lift|security,Semi,2025-08-20,Owner,lake-view|family-friendly|near-metro,#b33857,3.6,True,sale
+PROP1985,Executive administration yourself.,Studio,33220063,Delhi,New Delhi,895,3,2,gym|clubhouse|pool,Semi,2025-06-09,Agent,corner-plot|luxury|sea-view|family-friendly,#2de238,1.4,True,sale
+PROP1986,Positive keep nature seem develop.,Apartment,41878559,Tamil Nadu,Chennai,2923,4,5,wifi|clubhouse|parking,Unfurnished,2025-07-04,Builder,luxury|affordable|family-friendly,#44f79b,2.2,True,sale
+PROP1987,Admit effect plant.,Studio,48131288,Karnataka,Mysore,3313,6,1,power-backup|wifi|security|clubhouse|gym|lift,Furnished,2025-09-24,Owner,family-friendly|lake-view|affordable,#23ab54,4.2,True,rent
+PROP1988,Campaign stuff price.,Penthouse,13689370,Delhi,New Delhi,2652,3,1,pool|clubhouse|parking|security,Unfurnished,2025-09-18,Builder,lake-view|sea-view|near-metro,#9eb384,1.1,True,rent
+PROP1989,American debate.,Studio,16683870,Karnataka,Bangalore,4853,4,3,clubhouse|wifi|gym|security|garden,Unfurnished,2025-07-31,Builder,corner-plot|sea-view,#501345,3.8,True,sale
+PROP1990,Democrat his certainly property effort.,Penthouse,20224557,Tamil Nadu,Madurai,3330,5,2,clubhouse|lift|gym|power-backup|parking|pool,Furnished,2025-07-01,Agent,sea-view|family-friendly|lake-view,#3eef16,3.9,False,sale
+PROP1991,Nice current.,Studio,9506730,Delhi,New Delhi,2213,6,4,wifi|lift|security|parking,Unfurnished,2025-07-31,Owner,near-metro|affordable|lake-view,#fc39df,2.5,False,sale
+PROP1992,Spend whatever tend.,Apartment,11565200,Delhi,New Delhi,4558,4,4,wifi|pool|power-backup|gym|parking,Semi,2025-08-07,Owner,gated-community|sea-view,#7590a9,2.5,False,rent
+PROP1993,Show fund size lead.,Bungalow,27350936,Tamil Nadu,Madurai,3872,3,2,wifi|clubhouse|pool,Semi,2025-07-12,Agent,corner-plot|sea-view,#6fcb0d,4.0,True,sale
+PROP1994,Room say simple stock.,Penthouse,41372709,West Bengal,Kolkata,454,2,5,parking|power-backup|clubhouse|pool,Furnished,2025-09-03,Agent,near-metro|family-friendly,#eb69b3,2.5,True,sale
+PROP1995,Without remember opportunity.,Studio,8727801,Maharashtra,Nagpur,713,1,1,wifi|garden|security,Furnished,2025-10-08,Agent,affordable|near-metro|sea-view,#d78af0,4.3,False,rent
+PROP1996,Attorney voice administration artist practice.,Studio,41010782,Delhi,New Delhi,437,5,5,wifi|clubhouse|parking|garden,Semi,2025-06-23,Builder,near-metro|family-friendly,#49ce45,1.4,False,rent
+PROP1997,Method five work always.,Studio,48702165,Gujarat,Ahmedabad,2591,3,5,power-backup|gym|clubhouse|security|garden|lift,Furnished,2025-09-17,Agent,affordable|sea-view|near-metro,#9780cd,3.6,True,rent
+PROP1998,Dream before.,Apartment,27056737,Maharashtra,Pune,3068,3,3,power-backup|lift|wifi|pool|security,Semi,2025-09-28,Owner,corner-plot|family-friendly|gated-community,#057267,3.2,False,rent
+PROP1999,Different impact case heart.,Villa,25741270,Gujarat,Surat,3481,2,3,wifi|parking|lift|security,Semi,2025-11-03,Owner,sea-view|corner-plot|luxury|gated-community,#1388de,1.1,False,rent
