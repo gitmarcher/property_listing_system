@@ -5,6 +5,7 @@ import (
 	"time"
 
 	"property_lister/models"
+	"property_lister/services"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
@@ -178,8 +179,12 @@ func LoginUser(c *fiber.Ctx) error {
 		})
 	}
 
+	// Update user last login time
 	user.UpdatedAt = time.Now()
 	mgm.Coll(&user).UpdateOne(mgm.Ctx(), bson.M{"_id": user.ID}, bson.M{"$set": bson.M{"updated_at": user.UpdatedAt}})
+
+	// Load and cache user data on login
+	go services.CacheUserDataOnLogin(user.ID.Hex(), user.Email)
 
 	return c.JSON(AuthResponse{
 		Success: true,

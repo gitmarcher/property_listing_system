@@ -2,6 +2,7 @@ package controllers
 
 import (
 	"property_lister/models"
+	"property_lister/services"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/kamva/mgm/v3"
@@ -20,6 +21,20 @@ func GetFavorites(c *fiber.Ctx) error {
 	// Get user ID from context (set by auth middleware)
 	userID := c.Locals("user_id").(string)
 
+	// Try to get from cache first
+	favPropsKey := services.GetCacheKey("user_favorite_properties", userID, "")
+	var cachedProperties []models.Property
+
+	err := services.GetCache(favPropsKey, &cachedProperties)
+	if err == nil && len(cachedProperties) >= 0 {
+		// Cache hit - return cached data
+		return c.JSON(FavoriteResponse{
+			Success: true,
+			Data:    cachedProperties,
+		})
+	}
+
+	// Cache miss - fetch from database
 	objID, err := primitive.ObjectIDFromHex(userID)
 	if err != nil {
 		return c.Status(400).JSON(FavoriteResponse{
@@ -38,11 +53,13 @@ func GetFavorites(c *fiber.Ctx) error {
 		})
 	}
 
-	// If user has no favorites, return empty array
+	// If user has no favorites, return empty array and cache it
 	if len(user.Favorites) == 0 {
+		emptyProperties := []models.Property{}
+		services.SetCache(favPropsKey, emptyProperties)
 		return c.JSON(FavoriteResponse{
 			Success: true,
-			Data:    []models.Property{},
+			Data:    emptyProperties,
 		})
 	}
 
@@ -65,6 +82,13 @@ func GetFavorites(c *fiber.Ctx) error {
 			Message: "Failed to decode properties",
 		})
 	}
+
+	// Cache the result for future requests
+	services.SetCache(favPropsKey, properties)
+
+	// Also cache the favorites list
+	favKey := services.GetCacheKey("user_favorites", userID, "")
+	services.SetCache(favKey, user.Favorites)
 
 	return c.JSON(FavoriteResponse{
 		Success: true,
@@ -137,6 +161,9 @@ func AddToFavorites(c *fiber.Ctx) error {
 		})
 	}
 
+	// Update cache after successful database update
+	go services.UpdateFavoritesCache(userID)
+
 	return c.JSON(FavoriteResponse{
 		Success: true,
 		Message: "Added to favorites successfully",
@@ -178,6 +205,9 @@ func RemoveFromFavorites(c *fiber.Ctx) error {
 			Message: "Failed to remove from favorites",
 		})
 	}
+
+	// Update cache after successful database update
+	go services.UpdateFavoritesCache(userID)
 
 	return c.JSON(FavoriteResponse{
 		Success: true,

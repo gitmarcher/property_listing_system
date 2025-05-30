@@ -6,6 +6,8 @@ import (
 	"time"
 
 	"property_lister/models"
+	"property_lister/services"
+	"property_lister/types"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/kamva/mgm/v3"
@@ -14,10 +16,10 @@ import (
 )
 
 type ListingResponse struct {
-	Success bool            `json:"success"`
-	Data    interface{}     `json:"data,omitempty"`
-	Message string          `json:"message,omitempty"`
-	Meta    *PaginationMeta `json:"meta,omitempty"`
+	Success bool                  `json:"success"`
+	Data    interface{}           `json:"data,omitempty"`
+	Message string                `json:"message,omitempty"`
+	Meta    *types.PaginationMeta `json:"meta,omitempty"`
 }
 
 type CreateListingRequest struct {
@@ -68,6 +70,35 @@ func GetListings(c *fiber.Ctx) error {
 		limit = 10
 	}
 
+	// Try to get from cache first (only for first page with default limit)
+	if page == 1 && limit == 10 {
+		listingsKey := services.GetCacheKey("user_listings", userID, "")
+		var cachedListings []models.Property
+		if err := services.GetCache(listingsKey, &cachedListings); err == nil {
+			// Calculate pagination metadata for cached data
+			total := int64(len(cachedListings))
+			totalPages := int((total + int64(limit) - 1) / int64(limit))
+
+			// Return first page from cache
+			end := limit
+			if end > len(cachedListings) {
+				end = len(cachedListings)
+			}
+
+			return c.JSON(ListingResponse{
+				Success: true,
+				Data:    cachedListings[:end],
+				Meta: &types.PaginationMeta{
+					Page:       page,
+					Limit:      limit,
+					Total:      total,
+					TotalPages: totalPages,
+				},
+			})
+		}
+	}
+
+	// Cache miss or non-default pagination - fetch from database
 	// Build filter
 	filter := bson.M{"created_by": userID}
 
@@ -107,13 +138,28 @@ func GetListings(c *fiber.Ctx) error {
 		})
 	}
 
+	// Cache the results if it's the full dataset (no pagination)
+	if page == 1 && limit == 10 {
+		// Fetch all listings for caching (not just the page)
+		var allListings []models.Property
+		cursor, err := mgm.Coll(&models.Property{}).Find(mgm.Ctx(), filter,
+			options.Find().SetSort(bson.D{{Key: "created_at", Value: -1}}))
+		if err == nil {
+			cursor.All(mgm.Ctx(), &allListings)
+			cursor.Close(mgm.Ctx())
+
+			listingsKey := services.GetCacheKey("user_listings", userID, "")
+			services.SetCache(listingsKey, allListings)
+		}
+	}
+
 	// Calculate total pages
 	totalPages := int((total + int64(limit) - 1) / int64(limit))
 
 	return c.JSON(ListingResponse{
 		Success: true,
 		Data:    properties,
-		Meta: &PaginationMeta{
+		Meta: &types.PaginationMeta{
 			Page:       page,
 			Limit:      limit,
 			Total:      total,
@@ -194,6 +240,9 @@ func CreateListing(c *fiber.Ctx) error {
 			Message: "Failed to create listing",
 		})
 	}
+
+	// Update cache after successful creation
+	go services.UpdateListingsCache(userID)
 
 	return c.Status(201).JSON(ListingResponse{
 		Success: true,
@@ -305,6 +354,9 @@ func UpdateListing(c *fiber.Ctx) error {
 		})
 	}
 
+	// Update cache after successful update
+	go services.UpdateListingsCache(userID)
+
 	return c.JSON(ListingResponse{
 		Success: true,
 		Message: "Listing updated successfully",
@@ -350,6 +402,9 @@ func DeleteListing(c *fiber.Ctx) error {
 			Message: "Failed to delete listing",
 		})
 	}
+
+	// Update cache after successful deletion
+	go services.UpdateListingsCache(userID)
 
 	return c.JSON(ListingResponse{
 		Success: true,
