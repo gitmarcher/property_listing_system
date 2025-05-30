@@ -69,6 +69,7 @@ func main() {
 	// Setup routes
 	routes.SetupUserRoutes(app)
 	routes.SetupPropertyRoutes(app)
+	routes.SetupListingRoutes(app)
 	routes.SetupFavoriteRoutes(app)
 	routes.SetupRecommendationRoutes(app)
 
