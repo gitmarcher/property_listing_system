@@ -111,7 +111,7 @@ Authorization: Bearer <your_jwt_token>
 - **Success Response** (200):
 ```json
 {
-    "success": true,
+    "success": true,l
     "data": [
         {
             "id": "PROP1001",

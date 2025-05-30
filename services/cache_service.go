@@ -3,6 +3,7 @@ package services
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"time"
 
 	"property_lister/config"
@@ -29,16 +30,31 @@ func SetCache(key string, data interface{}) error {
 	if err != nil {
 		return err
 	}
-	return config.RedisClient.Set(config.Ctx, key, jsonData, CacheExpiry).Err()
+	err = config.RedisClient.Set(config.Ctx, key, jsonData, CacheExpiry).Err()
+	if err != nil {
+		log.Printf("Cache SET failed for key '%s': %v", key, err)
+		return err
+	}
+	log.Printf("Cache SET success for key '%s'", key)
+	return nil
 }
 
 // GetCache retrieves and unmarshals data from Redis
 func GetCache(key string, result interface{}) error {
 	val, err := config.RedisClient.Get(config.Ctx, key).Result()
 	if err != nil {
+		log.Printf("Cache MISS for key '%s': %v", key, err)
 		return err
 	}
-	return json.Unmarshal([]byte(val), result)
+
+	err = json.Unmarshal([]byte(val), result)
+	if err != nil {
+		log.Printf("Cache HIT but unmarshal failed for key '%s': %v", key, err)
+		return err
+	}
+
+	log.Printf("Cache HIT for key '%s'", key)
+	return nil
 }
 
 // DeleteCache removes a key from Redis
