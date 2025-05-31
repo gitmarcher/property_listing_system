@@ -2,6 +2,27 @@
 
 This document provides detailed information about the available API endpoints in the Property Listing system based on actual implementation.
 
+## Deployment Details
+
+**API Base URL:** https://property-listing-system-d6yd.onrender.com/api
+
+### Hosting Information
+- **Backend:** Hosted on [Render](https://render.com) (Free Tier)
+- **Database:** MongoDB Atlas (Free Tier)
+- **Redis Cache:** Redis Cloud (Free Tier)
+
+### Usage
+You can test the live API using the base URL above. For example:
+```bash
+# Get all properties
+GET https://property-listing-system-d6yd.onrender.com/api/properties
+
+# Register a user
+POST https://property-listing-system-d6yd.onrender.com/api/auth/register
+```
+
+**Note:** The free tier services may experience cold starts, so initial requests might take a moment to respond.
+
 ## Directory Structure
 
 ```
@@ -76,8 +97,15 @@ property_lister/
 - `GET /health` - Check server health status
 
 ## Base URL
+
+**Local Development:**
 ```
 http://localhost:3000/api
+```
+
+**Live Deployment:**
+```
+https://property-listing-system-d6yd.onrender.com/api
 ```
 
 ## Authentication
