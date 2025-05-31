@@ -58,7 +58,7 @@ func GetProperties(c *fiber.Ctx) error {
 		}
 	}
 
-	// Location filters
+	// Location filters (case-insensitive)
 	if state := c.Query("state"); state != "" {
 		filter["state"] = bson.M{"$regex": state, "$options": "i"}
 	}
@@ -66,9 +66,34 @@ func GetProperties(c *fiber.Ctx) error {
 		filter["city"] = bson.M{"$regex": city, "$options": "i"}
 	}
 
-	// Property type filter
+	// Property type filter (case-insensitive)
 	if propType := c.Query("type"); propType != "" {
 		filter["type"] = bson.M{"$regex": propType, "$options": "i"}
+	}
+
+	// Listing type filter (case-insensitive)
+	if listingType := c.Query("listing_type"); listingType != "" {
+		filter["listingType"] = bson.M{"$regex": listingType, "$options": "i"}
+	}
+
+	// Furnished filter (case-insensitive)
+	if furnished := c.Query("furnished"); furnished != "" {
+		filter["furnished"] = bson.M{"$regex": furnished, "$options": "i"}
+	}
+
+	// Amenities filter (case-insensitive) - matches if any amenity contains the search term
+	if amenities := c.Query("amenities"); amenities != "" {
+		filter["amenities"] = bson.M{"$regex": amenities, "$options": "i"}
+	}
+
+	// Tags filter (case-insensitive) - matches if any tag contains the search term
+	if tags := c.Query("tags"); tags != "" {
+		filter["tags"] = bson.M{"$regex": tags, "$options": "i"}
+	}
+
+	// Title filter (case-insensitive)
+	if title := c.Query("title"); title != "" {
+		filter["title"] = bson.M{"$regex": title, "$options": "i"}
 	}
 
 	// Bedrooms filter
@@ -85,6 +110,22 @@ func GetProperties(c *fiber.Ctx) error {
 		}
 	}
 
+	// Area filter (square feet range)
+	if minArea := c.Query("min_area"); minArea != "" {
+		if min, err := strconv.Atoi(minArea); err == nil {
+			filter["areaSqFt"] = bson.M{"$gte": min}
+		}
+	}
+	if maxArea := c.Query("max_area"); maxArea != "" {
+		if max, err := strconv.Atoi(maxArea); err == nil {
+			if existing, ok := filter["areaSqFt"].(bson.M); ok {
+				existing["$lte"] = max
+			} else {
+				filter["areaSqFt"] = bson.M{"$lte": max}
+			}
+		}
+	}
+
 	// Verified filter
 	if verified := c.Query("verified"); verified != "" {
 		if verified == "true" {
@@ -92,11 +133,6 @@ func GetProperties(c *fiber.Ctx) error {
 		} else if verified == "false" {
 			filter["isVerified"] = false
 		}
-	}
-
-	// Furnished filter
-	if furnished := c.Query("furnished"); furnished != "" {
-		filter["furnished"] = bson.M{"$regex": furnished, "$options": "i"}
 	}
 
 	// Setup sorting
