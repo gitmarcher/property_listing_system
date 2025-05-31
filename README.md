@@ -2,6 +2,79 @@
 
 This document provides detailed information about the available API endpoints in the Property Listing system based on actual implementation.
 
+## Directory Structure
+
+```
+property_lister/
+├── main.go                      # Application entry point and server setup
+├── go.mod                       # Go module dependencies
+├── go.sum                       # Go module checksums
+├── .gitignore                   # Git ignore rules
+├── README.md                    # API documentation
+├── api_test_data.md             # JSON request bodies and test data for all endpoints
+├── reqs.pdf                     # Requirements document
+├── property_lister.exe          # Compiled binary
+├── config/                      # Configuration files
+│   ├── mongo.go                 # MongoDB connection configuration
+│   └── redis.go                 # Redis cache configuration
+├── controllers/                 # API route handlers and business logic
+│   ├── user_controller.go       # Authentication and user management
+│   ├── property_controllers.go  # Public property browsing
+│   ├── listing_controller.go    # Authenticated listing management
+│   ├── favorite_controller.go   # User favorites management
+│   └── recommendation_controller.go # Property recommendations
+├── models/                      # Data models and database schemas
+│   ├── user.go                  # User model with authentication data
+│   ├── property.go              # Property model with listing details
+│   └── recommendation.go        # Recommendation model for sharing properties
+├── routes/                      # Route definitions and middleware setup
+│   ├── user_routes.go           # Authentication routes
+│   ├── property_routes.go       # Public property routes
+│   ├── listing_routes.go        # Authenticated listing routes
+│   ├── favorite_routes.go       # Favorite management routes
+│   └── recommendation_routes.go # Recommendation routes
+├── middleware/                  # HTTP middleware components
+│   └── auth.go                  # JWT authentication middleware
+├── services/                    # Business services and utilities
+│   └── cache_service.go         # Redis caching service
+├── types/                       # Common type definitions
+│   └── common.go                # Shared types like pagination metadata
+├── data/                        # Data files and resources
+├── data_ingestion/              # Data ingestion scripts
+└── data_ingestion_main/         # Main data ingestion utilities
+```
+
+## API Endpoints Overview
+
+### Authentication Endpoints
+- `POST /api/auth/register` - Register a new user account
+- `POST /api/auth/login` - Authenticate user and get JWT token
+
+### Public Property Endpoints
+- `GET /api/properties` - Browse all properties with filtering and pagination
+- `GET /api/properties/:id` - Get detailed information about a specific property
+- `GET /api/properties/search` - Search properties by text query
+
+### Authenticated Listing Management
+- `GET /api/listings` - Get current user's property listings with pagination
+- `PUT /api/listings` - Create a new property listing
+- `PATCH /api/listings/:id` - Update an existing listing (owner only)
+- `DELETE /api/listings/:id` - Delete a listing (owner only)
+
+### Favorites Management
+- `GET /api/favorites` - Get user's favorite properties
+- `POST /api/favorites/:propertyId` - Add property to favorites
+- `DELETE /api/favorites/:propertyId` - Remove property from favorites
+
+### Recommendation System
+- `POST /api/recommendations/send` - Send property recommendation to another user
+- `GET /api/recommendations` - Get all recommendations (sent and received)
+- `GET /api/recommendations/sent` - Get only recommendations sent by user
+- `GET /api/recommendations/received` - Get only recommendations received by user
+
+### System Health
+- `GET /health` - Check server health status
+
 ## Base URL
 ```
 http://localhost:3000/api
@@ -438,7 +511,7 @@ Authorization: Bearer <your_jwt_token>
 - **Body**:
 ```json
 {
-    "property_id": "507f1f77bcf86cd799439012",
+    "property_id": "PROP1000",
     "recipient_email": "friend@example.com",
     "message": "Check out this amazing property!"
 }
@@ -447,7 +520,7 @@ Authorization: Bearer <your_jwt_token>
 ```json
 {
     "_id": "507f1f77bcf86cd799439013",
-    "property_id": "507f1f77bcf86cd799439012",
+    "property_id": "PROP1000",
     "sender_id": "507f1f77bcf86cd799439011",
     "recipient_email": "friend@example.com",
     "message": "Check out this amazing property!",
@@ -464,12 +537,13 @@ Authorization: Bearer <your_jwt_token>
 - **URL**: `/recommendations`
 - **Method**: `GET`
 - **Auth Required**: Yes
+- **Description**: Returns all recommendations (both sent and received) for the authenticated user
 - **Success Response** (200):
 ```json
 [
     {
         "_id": "507f1f77bcf86cd799439013",
-        "property_id": "507f1f77bcf86cd799439012",
+        "property_id": "PROP1000",
         "sender_id": "507f1f77bcf86cd799439011",
         "recipient_email": "friend@example.com",
         "message": "Check out this amazing property!",
@@ -479,6 +553,56 @@ Authorization: Bearer <your_jwt_token>
     }
 ]
 ```
+
+#### Get Sent Recommendations
+- **URL**: `/recommendations/sent`
+- **Method**: `GET`
+- **Auth Required**: Yes
+- **Description**: Returns only recommendations sent by the authenticated user
+- **Success Response** (200):
+```json
+[
+    {
+        "_id": "507f1f77bcf86cd799439013",
+        "property_id": "PROP1000",
+        "sender_id": "507f1f77bcf86cd799439011",
+        "recipient_email": "friend@example.com",
+        "message": "Check out this amazing property!",
+        "status": "pending",
+        "created_at": "2024-03-20T10:00:00Z",
+        "updated_at": "2024-03-20T10:00:00Z"
+    }
+]
+```
+- **Error Responses**:
+  - 401: Unauthorized
+  - 400: Invalid user ID
+  - 500: Failed to fetch sent recommendations
+
+#### Get Received Recommendations
+- **URL**: `/recommendations/received`
+- **Method**: `GET`
+- **Auth Required**: Yes
+- **Description**: Returns only recommendations received by the authenticated user
+- **Success Response** (200):
+```json
+[
+    {
+        "_id": "507f1f77bcf86cd799439014",
+        "property_id": "PROP1001",
+        "sender_id": "507f1f77bcf86cd799439012",
+        "recipient_email": "user@example.com",
+        "message": "You might like this property!",
+        "status": "pending",
+        "created_at": "2024-03-20T11:00:00Z",
+        "updated_at": "2024-03-20T11:00:00Z"
+    }
+]
+```
+- **Error Responses**:
+  - 401: Unauthorized
+  - 400: Invalid user ID
+  - 500: Failed to fetch received recommendations
 
 ## Error Response Format
 All endpoints return errors in the following format:
@@ -562,6 +686,24 @@ curl -X POST http://localhost:3000/api/recommendations/send \
     "recipient_email": "friend@example.com",
     "message": "Check out this amazing property!"
   }'
+```
+
+### Get All Recommendations (Authenticated)
+```bash
+curl -X GET http://localhost:3000/api/recommendations \
+  -H "Authorization: Bearer your_jwt_token"
+```
+
+### Get Sent Recommendations (Authenticated)
+```bash
+curl -X GET http://localhost:3000/api/recommendations/sent \
+  -H "Authorization: Bearer your_jwt_token"
+```
+
+### Get Received Recommendations (Authenticated)
+```bash
+curl -X GET http://localhost:3000/api/recommendations/received \
+  -H "Authorization: Bearer your_jwt_token"
 ```
 
 ## Notes

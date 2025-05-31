@@ -1,6 +1,7 @@
 package controllers
 
 import (
+	"log"
 	"time"
 
 	"github.com/gofiber/fiber/v2"
@@ -36,15 +37,52 @@ func SendRecommendation(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": "invalid user id"})
 	}
 
-	propertyObjID, err := primitive.ObjectIDFromHex(req.PropertyID)
+	// Verify property exists using the string ID format (PROP prefixed)
+	var property models.Property
+	err = mgm.Coll(&property).FindOne(mgm.Ctx(), bson.M{"id": req.PropertyID}).Decode(&property)
 	if err != nil {
-		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": "invalid property id"})
+		return c.Status(fiber.StatusNotFound).JSON(fiber.Map{"error": "property not found"})
 	}
+
+	// Verify recipient email exists in the system
+	var recipient models.User
+	err = mgm.Coll(&recipient).FindOne(mgm.Ctx(), bson.M{"email": req.RecipientEmail}).Decode(&recipient)
+	if err != nil {
+		log.Printf("Recipient email %s not found in system: %v", req.RecipientEmail, err)
+		return c.Status(fiber.StatusNotFound).JSON(fiber.Map{
+			"error":   "recipient email not found in system",
+			"message": "The recipient must be a registered user to receive recommendations",
+		})
+	}
+	log.Printf("Recipient email %s verified, user ID: %s", req.RecipientEmail, recipient.ID.Hex())
+
+	// Verify sender is not trying to recommend to themselves
+	if req.RecipientEmail == c.Locals("email").(string) {
+		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{
+			"error": "cannot send recommendation to yourself",
+		})
+	}
+
+	// Check for duplicate recommendations (same sender, property, and recipient)
+	var existingRecommendation models.Recommendation
+	err = mgm.Coll(&existingRecommendation).FindOne(mgm.Ctx(), bson.M{
+		"sender_id":       senderObjID,
+		"property_id":     req.PropertyID,
+		"recipient_email": req.RecipientEmail,
+	}).Decode(&existingRecommendation)
+	if err == nil {
+		log.Printf("Duplicate recommendation found for property %s to %s", req.PropertyID, req.RecipientEmail)
+		return c.Status(fiber.StatusConflict).JSON(fiber.Map{
+			"error":   "recommendation already exists",
+			"message": "You have already recommended this property to this user",
+		})
+	}
+	log.Printf("No duplicate recommendation found, proceeding with creation")
 
 	// Create new recommendation
 	now := time.Now()
 	recommendation := &models.Recommendation{
-		PropertyID:     propertyObjID,
+		PropertyID:     req.PropertyID, // Use string ID directly
 		SenderID:       senderObjID,
 		RecipientEmail: req.RecipientEmail,
 		Message:        req.Message,
@@ -87,7 +125,8 @@ func GetUserRecommendations(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusUnauthorized).JSON(fiber.Map{"error": "unauthorized"})
 	}
 
-	userEmail := c.Locals("user_email").(string)
+	userEmail := c.Locals("email").(string) // Note: using "email" not "user_email"
+	log.Printf("Getting recommendations for user %s (email: %s)", userID, userEmail)
 
 	// Try to get sent recommendations from cache
 	sentKey := services.GetCacheKey("user_recommendations", userID, "sent")
@@ -101,11 +140,13 @@ func GetUserRecommendations(c *fiber.Ctx) error {
 
 	if sentFromCache && receivedFromCache {
 		// Both found in cache, combine and return
+		log.Printf("Returning cached recommendations for user %s", userID)
 		allRecommendations := append(cachedSentRecommendations, cachedReceivedRecommendations...)
 		return c.Status(fiber.StatusOK).JSON(allRecommendations)
 	}
 
 	// Cache miss - fetch from database
+	log.Printf("Cache miss, fetching recommendations from database for user %s", userID)
 	userObjID, err := primitive.ObjectIDFromHex(userID)
 	if err != nil {
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": "invalid user id"})
@@ -121,6 +162,7 @@ func GetUserRecommendations(c *fiber.Ctx) error {
 	})
 
 	if err != nil {
+		log.Printf("Failed to fetch recommendations for user %s: %v", userID, err)
 		return c.Status(fiber.StatusInternalServerError).JSON(fiber.Map{"error": "failed to fetch recommendations"})
 	}
 
@@ -144,5 +186,91 @@ func GetUserRecommendations(c *fiber.Ctx) error {
 		services.SetCache(receivedKey, receivedRecommendations)
 	}
 
+	log.Printf("Successfully fetched %d recommendations for user %s", len(recommendations), userID)
 	return c.Status(fiber.StatusOK).JSON(recommendations)
+}
+
+// GetSentRecommendations returns recommendations sent by the current user
+func GetSentRecommendations(c *fiber.Ctx) error {
+	userID := c.Locals("user_id").(string)
+	if userID == "" {
+		return c.Status(fiber.StatusUnauthorized).JSON(fiber.Map{"error": "unauthorized"})
+	}
+
+	log.Printf("Getting sent recommendations for user %s", userID)
+
+	// Try to get sent recommendations from cache
+	sentKey := services.GetCacheKey("user_recommendations", userID, "sent")
+	var cachedSentRecommendations []models.Recommendation
+	sentFromCache := services.GetCache(sentKey, &cachedSentRecommendations) == nil
+
+	if sentFromCache {
+		log.Printf("Returning cached sent recommendations for user %s", userID)
+		return c.Status(fiber.StatusOK).JSON(cachedSentRecommendations)
+	}
+
+	// Cache miss - fetch from database
+	log.Printf("Cache miss, fetching sent recommendations from database for user %s", userID)
+	userObjID, err := primitive.ObjectIDFromHex(userID)
+	if err != nil {
+		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": "invalid user id"})
+	}
+
+	// Get sent recommendations
+	var sentRecommendations []models.Recommendation
+	err = mgm.Coll(&models.Recommendation{}).SimpleFind(&sentRecommendations, bson.M{
+		"sender_id": userObjID,
+	})
+
+	if err != nil {
+		log.Printf("Failed to fetch sent recommendations for user %s: %v", userID, err)
+		return c.Status(fiber.StatusInternalServerError).JSON(fiber.Map{"error": "failed to fetch sent recommendations"})
+	}
+
+	// Cache the results
+	services.SetCache(sentKey, sentRecommendations)
+
+	log.Printf("Successfully fetched %d sent recommendations for user %s", len(sentRecommendations), userID)
+	return c.Status(fiber.StatusOK).JSON(sentRecommendations)
+}
+
+// GetReceivedRecommendations returns recommendations received by the current user
+func GetReceivedRecommendations(c *fiber.Ctx) error {
+	userID := c.Locals("user_id").(string)
+	if userID == "" {
+		return c.Status(fiber.StatusUnauthorized).JSON(fiber.Map{"error": "unauthorized"})
+	}
+
+	userEmail := c.Locals("email").(string)
+	log.Printf("Getting received recommendations for user %s (email: %s)", userID, userEmail)
+
+	// Try to get received recommendations from cache
+	receivedKey := services.GetCacheKey("user_recommendations", userID, "received")
+	var cachedReceivedRecommendations []models.Recommendation
+	receivedFromCache := services.GetCache(receivedKey, &cachedReceivedRecommendations) == nil
+
+	if receivedFromCache {
+		log.Printf("Returning cached received recommendations for user %s", userID)
+		return c.Status(fiber.StatusOK).JSON(cachedReceivedRecommendations)
+	}
+
+	// Cache miss - fetch from database
+	log.Printf("Cache miss, fetching received recommendations from database for user %s", userID)
+
+	// Get received recommendations
+	var receivedRecommendations []models.Recommendation
+	err := mgm.Coll(&models.Recommendation{}).SimpleFind(&receivedRecommendations, bson.M{
+		"recipient_email": userEmail,
+	})
+
+	if err != nil {
+		log.Printf("Failed to fetch received recommendations for user %s: %v", userID, err)
+		return c.Status(fiber.StatusInternalServerError).JSON(fiber.Map{"error": "failed to fetch received recommendations"})
+	}
+
+	// Cache the results
+	services.SetCache(receivedKey, receivedRecommendations)
+
+	log.Printf("Successfully fetched %d received recommendations for user %s", len(receivedRecommendations), userID)
+	return c.Status(fiber.StatusOK).JSON(receivedRecommendations)
 }

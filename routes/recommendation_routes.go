@@ -13,4 +13,6 @@ func SetupRecommendationRoutes(app *fiber.App) {
 
 	recommendations.Post("/send", controllers.SendRecommendation)
 	recommendations.Get("/", controllers.GetUserRecommendations)
+	recommendations.Get("/sent", controllers.GetSentRecommendations)
+	recommendations.Get("/received", controllers.GetReceivedRecommendations)
 }

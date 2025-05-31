@@ -10,7 +10,7 @@ import (
 type Recommendation struct {
 	mgm.DefaultModel `bson:",inline"`
 
-	PropertyID     primitive.ObjectID `json:"property_id" bson:"property_id" validate:"required"`
+	PropertyID     string             `json:"property_id" bson:"property_id" validate:"required"`
 	SenderID       primitive.ObjectID `json:"sender_id" bson:"sender_id" validate:"required"`
 	RecipientEmail string             `json:"recipient_email" bson:"recipient_email" validate:"required,email"`
 	Message        string             `json:"message" bson:"message"`

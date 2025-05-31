@@ -1,6 +1,7 @@
 package controllers
 
 import (
+	"log"
 	"property_lister/models"
 	"property_lister/services"
 
@@ -108,8 +109,11 @@ func AddToFavorites(c *fiber.Ctx) error {
 
 	// Get user ID from context
 	userID := c.Locals("user_id").(string)
+	log.Printf("Adding property %s to favorites for user %s", propertyID, userID)
+
 	objID, err := primitive.ObjectIDFromHex(userID)
 	if err != nil {
+		log.Printf("Invalid user ID format: %s, error: %v", userID, err)
 		return c.Status(400).JSON(FavoriteResponse{
 			Success: false,
 			Message: "Invalid user ID",
@@ -120,47 +124,72 @@ func AddToFavorites(c *fiber.Ctx) error {
 	var property models.Property
 	err = mgm.Coll(&property).FindOne(mgm.Ctx(), bson.M{"id": propertyID}).Decode(&property)
 	if err != nil {
+		log.Printf("Property %s not found: %v", propertyID, err)
 		return c.Status(404).JSON(FavoriteResponse{
 			Success: false,
 			Message: "Property not found",
 		})
 	}
+	log.Printf("Property %s found successfully", propertyID)
 
 	// Add to favorites if not already in list
-	result := mgm.Coll(&models.User{}).FindOneAndUpdate(
+	// First, ensure the favorites field exists as an array (handle null case)
+	_, err = mgm.Coll(&models.User{}).UpdateOne(
 		mgm.Ctx(),
 		bson.M{
-			"_id": objID,
-			"favorites": bson.M{
-				"$ne": propertyID,
-			},
+			"_id":       objID,
+			"favorites": bson.M{"$exists": false},
 		},
 		bson.M{
-			"$push": bson.M{"favorites": propertyID},
+			"$set": bson.M{"favorites": []string{}},
+		},
+	)
+	if err != nil {
+		log.Printf("Failed to initialize favorites array: %v", err)
+	}
+
+	// Handle the case where favorites is null
+	_, err = mgm.Coll(&models.User{}).UpdateOne(
+		mgm.Ctx(),
+		bson.M{
+			"_id":       objID,
+			"favorites": nil,
+		},
+		bson.M{
+			"$set": bson.M{"favorites": []string{}},
+		},
+	)
+	if err != nil {
+		log.Printf("Failed to convert null favorites to array: %v", err)
+	}
+
+	// Now add to favorites using $addToSet to avoid duplicates
+	result, err := mgm.Coll(&models.User{}).UpdateOne(
+		mgm.Ctx(),
+		bson.M{"_id": objID},
+		bson.M{
+			"$addToSet": bson.M{"favorites": propertyID},
 		},
 	)
 
-	if result.Err() != nil {
-		// Check if it's because property is already in favorites
-		var user models.User
-		err = mgm.Coll(&user).FindOne(mgm.Ctx(), bson.M{
-			"_id":       objID,
-			"favorites": propertyID,
-		}).Decode(&user)
-
-		if err == nil {
-			return c.Status(400).JSON(FavoriteResponse{
-				Success: false,
-				Message: "Property is already in favorites",
-			})
-		}
-
+	if err != nil {
+		log.Printf("Failed to add to favorites: %v", err)
 		return c.Status(500).JSON(FavoriteResponse{
 			Success: false,
 			Message: "Failed to add to favorites",
 		})
 	}
 
+	// Check if any document was modified (if 0, property was already in favorites)
+	if result.ModifiedCount == 0 {
+		log.Printf("Property %s is already in favorites for user %s", propertyID, userID)
+		return c.Status(400).JSON(FavoriteResponse{
+			Success: false,
+			Message: "Property is already in favorites",
+		})
+	}
+
+	log.Printf("Successfully added property %s to favorites for user %s", propertyID, userID)
 	// Update cache after successful database update
 	go services.UpdateFavoritesCache(userID)
 
