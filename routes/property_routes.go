@@ -12,6 +12,6 @@ func SetupPropertyRoutes(app *fiber.App) {
 	properties := api.Group("/properties")
 
 	properties.Get("/", controllers.GetProperties)
-	properties.Get("/:id", controllers.GetPropertyByID)
 	properties.Get("/search", controllers.SearchProperties)
+	properties.Get("/:id", controllers.GetPropertyByID)
 }
